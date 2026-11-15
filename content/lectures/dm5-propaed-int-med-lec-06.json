@@ -44,5 +44,6 @@
   "keyPoints": [
     "Safe platelet count for routine dental extraction is > 50,000/uL.",
     "ECG: P wave = Atrial depolarization, QRS = Ventricular depolarization, T wave = Ventricular repolarization."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-propaed-int-med-lec-06"
 }

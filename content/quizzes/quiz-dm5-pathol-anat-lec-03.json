@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-anat-lec-03",
+  "subjectId": "dm5-pathol-anat",
+  "lectureId": "dm5-pathol-anat-lec-03",
+  "titleEn": "Quiz: Pathology of Acid-Base and Fluid Homeostasis",
+  "titleAr": "كويز: باثولوجيا التوازن الحمضي القاعدي واضطرابات السوائل",
+  "description": "Dedicated practice and assessment quiz for 'Pathology of Acid-Base and Fluid Homeostasis'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-anat-03-1",
+      "subjectId": "dm5-pathol-anat",
+      "lectureId": "dm5-pathol-anat-lec-03",
+      "textEn": "Which primary hemodynamic alteration directly causes the development of dependent pitting edema in congestive heart failure?",
+      "textAr": "ما هو التغير الديناميكي الدموي الأساسي المسؤول مباشرة عن نشوء الوذمة الانطباعية (Pitting Edema) في قصور القلب الاحتقاني؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Increased capillary hydrostatic pressure due to systemic venous pooling",
+          "textAr": "ارتفاع الضغط الهيدروستاتيكي في الشعيرات الدموية بسبب ركودة الدم الوريدي"
+        },
+        {
+          "id": "b",
+          "textEn": "Severe decrease in interstitial osmotic pressure",
+          "textAr": "انخفاض شديد في الضغط الإسموزي الخلالي"
+        },
+        {
+          "id": "c",
+          "textEn": "Direct blockage of bone marrow vascular sinusoids",
+          "textAr": "انسداد الجيوب الوعائية لنقي العظم"
+        },
+        {
+          "id": "d",
+          "textEn": "Hyperalbuminemia caused by liver failure",
+          "textAr": "زيادة ألبومين الدم بسبب فشل الكبد"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Failure of cardiac pump action causes blood to pool in systemic veins, raising hydrostatic pressure in capillary beds and forcing fluid into the interstitial space (transudate).",
+      "explanationAr": "بصي يا ريهام، لما القلب يضعف وميعرفش يضخ الدم كويس، الدم بيتحبس في الأوردة وضغط الدم الهيدروستاتيكي (Hydrostatic Pressure) يعلى في الشعيرات ويزق المية برة للأنسجة، فتتورم الرجلين (Edema).",
+      "difficulty": "medium"
+    }
+  ]
+}

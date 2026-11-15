@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-06",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-06",
+  "titleEn": "Quiz: Tissue Repair, Regeneration, and Wound Healing",
+  "titleAr": "كويز: ترميم وتجديد الأنسجة والتئام الجروح في التجويف الفموي",
+  "description": "Dedicated practice and assessment quiz for 'Tissue Repair, Regeneration, and Wound Healing'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-06-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-06",
+      "textEn": "Which cell type is considered the primary architect responsible for synthesizing extracellular collagen and contracting wound margins during granulation tissue maturation?",
+      "textAr": "ما هو نوع الخلايا الذي يعتبر المهندس الأساسي لتصنيع كولاجين النسيج الخلالي وتقليص حواف الجرح أثناء نضج النسيج الحبيبي؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Myofibroblasts and activated fibroblasts",
+          "textAr": "الخلايا الليفية العضلية (Myofibroblasts) والأرومات الليفية المفعلة"
+        },
+        {
+          "id": "b",
+          "textEn": "Mature osteoclasts",
+          "textAr": "كاسرات العظم الناضجة"
+        },
+        {
+          "id": "c",
+          "textEn": "Erythrocytes",
+          "textAr": "كريات الدم الحمراء"
+        },
+        {
+          "id": "d",
+          "textEn": "Eosinophilic granulocytes",
+          "textAr": "الحمضات"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Myofibroblasts express alpha-smooth muscle actin, allowing them to exert contractile force that closes wound margins, while fibroblasts deposit Type I and III collagen.",
+      "explanationAr": "بصي يا ريهام، الـ Myofibroblasts دي خلايا ساحرة بتجمع بين صفات الفايبروبلاست وخلايا العضلات الملساء، هي اللي بتشد حواف الجرح لبعض وتقفله (Wound contraction).",
+      "difficulty": "easy"
+    }
+  ]
+}

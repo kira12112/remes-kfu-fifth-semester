@@ -50,5 +50,6 @@
     "Socket healing proceeds: Blood clot -> Granulation tissue -> Woven bone -> Mature lamellar bone.",
     "Dry Socket occurs when blood clot lyses, exposing bare alveolar bone on days 3-4.",
     "Treat Dry socket with gentle irrigation and sedative eugenol dressing (Alvogyl), not antibiotics."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-pathol-phys-lec-06"
 }

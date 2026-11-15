@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-05",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-05",
+  "titleEn": "Quiz: Mycobacterium tuberculosis & Dental Aerosols",
+  "titleAr": "كويز: عصيات السل والانتقال الجوي عبر رذاذ حفر الأسنان (Aerosols)",
+  "description": "Dedicated practice and assessment quiz for 'Mycobacterium tuberculosis and Airborne Transmission in Dental Aerosols'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-05-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-05",
+      "textEn": "Which histological and microscopic staining method is specific for detecting Mycobacterium tuberculosis based on the high mycolic acid content of its cell wall?",
+      "textAr": "ما هي صبغة الفحص المجهري النوعية لكشف عصيات السل (Mycobacterium tuberculosis) بسبب غناها بأحماض المايكوليك الشمعية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Ziehl-Neelsen (Acid-Fast) stain",
+          "textAr": "صبغة تسيل-نلسن المقاومة للحمض (Ziehl-Neelsen Acid-Fast stain)"
+        },
+        {
+          "id": "b",
+          "textEn": "Gram stain",
+          "textAr": "صبغة جرام العادية"
+        },
+        {
+          "id": "c",
+          "textEn": "India ink wet mount",
+          "textAr": "صبغة الحبر الهندي"
+        },
+        {
+          "id": "d",
+          "textEn": "Giemsa stain",
+          "textAr": "صبغة جيمزا"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Mycobacterium tuberculosis possesses a waxy cell wall rich in mycolic acids that resists conventional Gram staining, requiring carbolfuchsin heat penetration and acid-alcohol decolorization (Ziehl-Neelsen Acid-Fast).",
+      "explanationAr": "بصي يا ريهام، بكتيريا السل جدارها مليان شمع Mycolic acid مبيقبلش صبغة جرام، ولازم نصبغها بـ Ziehl-Neelsen stain (Acid-Fast)، فبتظهر عصيات حمراء على خلفية زرقاء.",
+      "difficulty": "easy"
+    }
+  ]
+}

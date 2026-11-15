@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-res-meth-bio-med-lec-01",
+  "subjectId": "dm5-res-meth-bio-med",
+  "lectureId": "dm5-res-meth-bio-med-lec-01",
+  "titleEn": "Quiz: Scientific Principles & Laboratory Animal Models",
+  "titleAr": "كويز: مبادئ البحث العلمي والفرضيات ونماذج حيوانات التجارب",
+  "description": "Dedicated practice and assessment quiz for 'Scientific Research Principles, Hypotheses, and Laboratory Animal Models'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-res-01-1",
+      "subjectId": "dm5-res-meth-bio-med",
+      "lectureId": "dm5-res-meth-bio-med-lec-01",
+      "textEn": "What ethical guideline constitutes the international '3Rs' framework governing biomedical research involving animal models?",
+      "textAr": "ما هي المبادئ الأخلاقية الدولية الثلاثة المعروفة بإطار '3Rs' الناظمة لاستخدام حيوانات التجارب في البحوث الطبية الحيوية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Replacement, Reduction, and Refinement",
+          "textAr": "الاستبدال (Replacement)، والتقليص (Reduction)، والتحسين والتنقيح (Refinement)"
+        },
+        {
+          "id": "b",
+          "textEn": "Repetition, Reproduction, and Reporting",
+          "textAr": "التكرار والتكاثر والتقرير"
+        },
+        {
+          "id": "c",
+          "textEn": "Rejection, Retention, and Review",
+          "textAr": "الرفض والاحتفاظ والمراجعة"
+        },
+        {
+          "id": "d",
+          "textEn": "Registration, Randomization, and Recall",
+          "textAr": "التسجيل والعشوائية والاستدعاء"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The 3Rs framework requires researchers to Replace animals with non-sentient alternatives where possible, Reduce the number of animals used, and Refine experimental procedures to eliminate pain and distress.",
+      "explanationAr": "بصي يا ريهام، أخلاقيات التعامل مع حيوانات التجارب بتتلخص في مبدأ الـ 3Rs: أولاً Replacement (نستبدل الحيوانات ببرامج كمبيوتر أو زراعة خلايا لو أمكن)، ثانياً Reduction (نقلل عدد الحيوانات لأقل عدد كافي إحصائياً)، وثالثاً Refinement (نحسن المعاملة واستخدام التخدير لمنع أي ألم).",
+      "difficulty": "easy"
+    }
+  ]
+}

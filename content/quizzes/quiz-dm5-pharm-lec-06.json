@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-lec-06",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-lec-06",
+  "titleEn": "Quiz: Cardiovascular Pharmacology and Dental Management",
+  "titleAr": "كويز: أدوية القلب والأوعية الدموية والتدبير في طب الأسنان",
+  "description": "Dedicated practice and assessment quiz for 'Cardiovascular Pharmacology and Dental Management'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-06-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-06",
+      "textEn": "Which class of antihypertensive medications is notorious for causing drug-induced gingival enlargement (hyperplasia) as a classical oral side effect?",
+      "textAr": "أي فئة من أدوية علاج ارتفاع ضغط الدم مشهورة بإحداث تضخم لثوي دوائي (Gingival Enlargement) كعرض جانبي فموي مميز؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Calcium Channel Blockers (e.g., Nifedipine, Amlodipine)",
+          "textAr": "حاصرات قنوات الكالسيوم (مثل Nifedipine و Amlodipine)"
+        },
+        {
+          "id": "b",
+          "textEn": "ACE inhibitors (e.g., Captopril)",
+          "textAr": "مثبطات الإنزيم المحول للأنجيوتنسين (مثل Captopril)"
+        },
+        {
+          "id": "c",
+          "textEn": "Loop diuretics (e.g., Furosemide)",
+          "textAr": "مدرات البول العروية (مثل Furosemide)"
+        },
+        {
+          "id": "d",
+          "textEn": "Centrally acting alpha-2 agonists",
+          "textAr": "محفزات ألفا-2 المركزية"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Calcium channel blockers, notably dihydropyridines like nifedipine and amlodipine, inhibit intracellular calcium flux in gingival fibroblasts, leading to collagen accumulation and gingival overgrowth.",
+      "explanationAr": "بصي يا ريهام، الـ Calcium Channel Blockers زي الـ Nifedipine بتعمل Drug-induced Gingival Overgrowth ملحوظ جداً في اللثة، ودي من أشهر الأسئلة في امتحانات البورد وطب الأسنان السريري.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-pharm-06-2",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-06",
+      "textEn": "What is the standard maximum recommended dose of epinephrine for a medically compromised cardiovascular patient (ASA III/IV) during a dental visit?",
+      "textAr": "ما هو الحد الأقصى الآمن الموصى به لجرعة الأدرينالين لمريض القلب الخطر (ASA III/IV) في الجلسة العلاجية الواحدة لطب الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "0.04 mg (approximately two 1.8 mL cartridges of 1:100,000 epinephrine)",
+          "textAr": "0.04 مجم (ما يعادل حوالي أمبولين بنج تركيز 1:100,000)"
+        },
+        {
+          "id": "b",
+          "textEn": "0.2 mg (up to eleven cartridges)",
+          "textAr": "0.2 مجم (حتى 11 أمبول)"
+        },
+        {
+          "id": "c",
+          "textEn": "1.0 mg (full emergency cardiac dose)",
+          "textAr": "1.0 مجم (جرعة إنعاش قلبي كاملة)"
+        },
+        {
+          "id": "d",
+          "textEn": "Epinephrine is strictly prohibited under all circumstances",
+          "textAr": "ممنوع إعطاء أي نسبة أدرينالين إطلاقاً"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The cardiac limit for epinephrine in unstable or severe cardiovascular disease is 0.04 mg per session (compared to 0.2 mg in healthy individuals), representing roughly 2 cartridges of 1:100,000 or 4 cartridges of 1:200,000.",
+      "explanationAr": "بصي يا ريهام، القاعدة الذهبية لمريض القلب: أقصى جرعة أدرينالين مسموحة له هي 0.04 mg (يعني كربولتين فقط من تركيز 1:100,000)، بينما الشخص السليم ممكن ياخد لحد 0.2 mg.",
+      "difficulty": "hard"
+    }
+  ]
+}

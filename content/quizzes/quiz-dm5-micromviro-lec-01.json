@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-01",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-01",
+  "titleEn": "Quiz: Sanitary Microbiology and Sterilization",
+  "titleAr": "كويز: الميكروبيولوجيا الوقائية والتعقيم والتصنيف البكتيري",
+  "description": "Dedicated practice and assessment quiz for 'Sanitary Microbiology, Sterilization, and Bacterial Classification'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-01-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-01",
+      "textEn": "Which biological spore indicator is universally utilized to verify the efficacy of steam autoclaves in dental clinics?",
+      "textAr": "ما هو المؤشر الحيوي الجرثومي (Spore test) المعتمد عالمياً للتحقق من كفاءة أجهزة التعقيم البخارية (Autoclave) في عيادات الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Geobacillus stearothermophilus spores",
+          "textAr": "أبواغ جراثيم Geobacillus stearothermophilus"
+        },
+        {
+          "id": "b",
+          "textEn": "Bacillus atrophaeus spores",
+          "textAr": "أبواغ Bacillus atrophaeus"
+        },
+        {
+          "id": "c",
+          "textEn": "Escherichia coli vegetative cells",
+          "textAr": "خلايا إشريكية قولونية"
+        },
+        {
+          "id": "d",
+          "textEn": "Staphylococcus epidermidis",
+          "textAr": "عنقوديات جلدية"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Geobacillus stearothermophilus spores are highly heat-resistant and serve as the gold-standard biological indicator for steam autoclaves.",
+      "explanationAr": "بصي يا ريهام، الأوتوكلاف البخاري بنختبره بأبواغ Geobacillus stearothermophilus لأنها شديدة المقاومة للحرارة؛ لو ماتت يبقى الأوتوكلاف معقم 100%.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-micro-01-2",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-01",
+      "textEn": "What are the standard time-temperature parameters for steam under pressure autoclaving in modern dental practice?",
+      "textAr": "ما هي المعايير القياسية للوقت والحرارة في أجهزة التعقيم البخاري المضغوط لعيادات الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "121°C for 15-20 minutes, or 134°C for 3-5 minutes",
+          "textAr": "121 درجة مئوية لمدة 15-20 دقيقة، أو 134 درجة مئوية لمدة 3-5 دقائق"
+        },
+        {
+          "id": "b",
+          "textEn": "100°C for 60 minutes",
+          "textAr": "100 درجة مئوية لمدة ساعة"
+        },
+        {
+          "id": "c",
+          "textEn": "160°C for 5 minutes",
+          "textAr": "160 درجة مئوية لمدة 5 دقائق"
+        },
+        {
+          "id": "d",
+          "textEn": "80°C under ultraviolet light for 2 hours",
+          "textAr": "80 درجة مئوية تحت أشعة UV لساعتين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Saturated steam autoclaving requires either 121°C at 15 psi for 15-20 min, or rapid cycle 134°C at 30 psi for 3-5 min to achieve complete sterilization.",
+      "explanationAr": "بصي يا ريهام، أرقام الأوتوكلاف دي صلب مهنة طبيب الأسنان: 121 مئوية لمدة 15-20 دقيقة عند 15 psi، أو دورة الـ Flash السريعة 134 مئوية لمدة 3-5 دقائق.",
+      "difficulty": "medium"
+    }
+  ]
+}

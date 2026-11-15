@@ -44,5 +44,6 @@
   "keyPoints": [
     "Inscription specifies the drug name, dosage form, and strength.",
     "Pediatric dosages must strictly adhere to mg/kg weight calculations."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-pharm-prac-02"
 }

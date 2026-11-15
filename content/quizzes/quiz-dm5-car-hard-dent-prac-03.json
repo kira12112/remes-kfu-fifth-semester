@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-prac-03",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-prac-03",
+  "titleEn": "Quiz: Class III Cavity Preparation",
+  "titleAr": "كويز: تحضير حفر الصنف الثالث على الأسنان الأمامية",
+  "description": "Dedicated practice and assessment quiz for 'Practical 3: Class III Cavity Preparation'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-p3-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-prac-03",
+      "textEn": "Why is the lingual approach universally preferred when preparing Class III anterior cavities?",
+      "textAr": "لماذا يفضل المدخل اللساني/الحنكي دائماً عند تحضير حفر الصنف الثالث الأمامية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "To preserve the intact labial enamel plate and maintain optimal aesthetics",
+          "textAr": "للحفاظ على جدار الميناء الشفوي سليماً وضمان أعلى جمالية تجميلية"
+        },
+        {
+          "id": "b",
+          "textEn": "Because lingual enamel is softer than facial enamel",
+          "textAr": "لأن الميناء اللساني أضعف"
+        },
+        {
+          "id": "c",
+          "textEn": "To allow amalgam placement",
+          "textAr": "لوضع الأملغم"
+        },
+        {
+          "id": "d",
+          "textEn": "To intentionally devitalize the tooth",
+          "textAr": "لقتل عصب السن"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The lingual approach conserves the facial enamel surface, concealing the restoration margin from the aesthetic smile zone.",
+      "explanationAr": "الدخول من الناحية اللسانية بيحافظ على قشرة الميناء الأمامية سليمة 100% ويحافظ على شكل وجمال الابتسامة.",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-04",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-04",
+  "titleEn": "Quiz: Gram-Negative Bacilli & Dental Unit Waterlines",
+  "titleAr": "كويز: العصيات سالبة الجرام وبيوفيلم أنابيب ماء كرسي الأسنان (DUWL)",
+  "description": "Dedicated practice and assessment quiz for 'Gram-Negative Bacilli and Dental Unit Waterline Biofilms'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-04-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-04",
+      "textEn": "According to CDC and ADA guidelines, what is the maximum acceptable heterotrophic water bacteria count in untreated dental unit waterlines (DUWL) for routine dental care?",
+      "textAr": "وفقاً لتوصيات CDC و ADA، ما هو الحد الأقصى المسموح به للبكتيريا في مياه أنابيب كرسي الأسنان (DUWL) لإجراءات العلاج الروتيني؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "<= 500 CFU/mL (Colony Forming Units per milliliter)",
+          "textAr": "<= 500 مستعمرة جرثومية في المليلتر (CFU/mL)"
+        },
+        {
+          "id": "b",
+          "textEn": "0 CFU/mL (must be strictly sterile saline at all times)",
+          "textAr": "صفر CFU/mL (مياه معقمة تماماً كالمصل)"
+        },
+        {
+          "id": "c",
+          "textEn": "10,000 CFU/mL",
+          "textAr": "10,000 مستعمرة/مل"
+        },
+        {
+          "id": "d",
+          "textEn": "100,000 CFU/mL",
+          "textAr": "100,000 مستعمرة/مل"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The CDC standard states that water delivered to patients from dental unit waterlines for non-surgical procedures must meet the EPA drinking water standard of <= 500 CFU/mL.",
+      "explanationAr": "بصي يا ريهام، ماء كرسي الأسنان للعيادة الروتينية لازم ميزدش عن 500 CFU/mL وفقاً للـ CDC والـ ADA، لكن في العمليات الجراحية المفتوحة لازم نستخدم Sterile saline معقم 100%.",
+      "difficulty": "medium"
+    }
+  ]
+}

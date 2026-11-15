@@ -45,11 +45,27 @@
         {
           "type": "table",
           "tableData": {
-            "headers": ["Type of Name", "Description", "Clinical Example"],
+            "headers": [
+              "Type of Name",
+              "Description",
+              "Clinical Example"
+            ],
             "rows": [
-              ["Chemical Name", "Describes atomic/molecular chemical structure", "N-acetyl-p-aminophenol"],
-              ["Generic / Scientific Name", "Official nonproprietary international standard (INN)", "Paracetamol (Acetaminophen)"],
-              ["Trade / Brand Name", "Proprietary commercial trademark given by manufacturer", "Panadol, Tylenol, Cetal"]
+              [
+                "Chemical Name",
+                "Describes atomic/molecular chemical structure",
+                "N-acetyl-p-aminophenol"
+              ],
+              [
+                "Generic / Scientific Name",
+                "Official nonproprietary international standard (INN)",
+                "Paracetamol (Acetaminophen)"
+              ],
+              [
+                "Trade / Brand Name",
+                "Proprietary commercial trademark given by manufacturer",
+                "Panadol, Tylenol, Cetal"
+              ]
             ]
           }
         }
@@ -93,5 +109,5 @@
     "Intravenous route bypasses first-pass hepatic metabolism and provides 100% bioavailability.",
     "Dental prescriptions should emphasize generic scientific names to prevent confusion."
   ],
-  "relatedQuizId": "sample-quiz-pharm"
+  "relatedQuizId": "quiz-dm5-pharm-lec-01"
 }

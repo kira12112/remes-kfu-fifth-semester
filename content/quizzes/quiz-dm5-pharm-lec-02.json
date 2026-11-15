@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-lec-02",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-lec-02",
+  "titleEn": "Quiz: Cholinergic Agonists and Antagonists",
+  "titleAr": "كويز: محاكيات وحاصرات المستقبلات الكولينية",
+  "description": "Dedicated practice and assessment quiz for 'Autonomic Pharmacology: Cholinergic Agonists and Antagonists'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-02-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-02",
+      "textEn": "Which cholinergic agonist is clinically indicated to stimulate salivary secretion in patients suffering from severe xerostomia (e.g., in Sjögren's syndrome or post-radiotherapy)?",
+      "textAr": "أي محاكي كوليني يستخدم سريرياً لتحفيز إفراز اللعاب عند مرضى جفاف الفم الشديد (مثل متلازمة شوغرن أو بعد العلاج الإشعاعي)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Atropine",
+          "textAr": "أتروبين"
+        },
+        {
+          "id": "b",
+          "textEn": "Pilocarpine",
+          "textAr": "بيلوكاربين (Pilocarpine)"
+        },
+        {
+          "id": "c",
+          "textEn": "Scopolamine",
+          "textAr": "سكوبولامين"
+        },
+        {
+          "id": "d",
+          "textEn": "Ipratropium",
+          "textAr": "إبراتروبيوم"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Pilocarpine is a direct muscarinic acetylcholine receptor agonist that potently activates exocrine salivary glands, alleviating xerostomia.",
+      "explanationAr": "بصي يا ريهام، الـ Pilocarpine ده Parasympathomimetic بيشغل مستقبلات الـ Muscarinic في الغدد اللعابية، فبيزود الـ Salivation جداً عند مرضى جفاف الفم.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-pharm-02-2",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-02",
+      "textEn": "Why is atropine administration contraindicated in patients with closed-angle glaucoma?",
+      "textAr": "لماذا يمنع إعطاء الأتروبين للمرضى المصابين بزرق العين ضيق الزاوية (Closed-angle glaucoma)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "It causes pupillary constriction that tears the iris",
+          "textAr": "يسبب تضيق الحدقة وتمزق القزحية"
+        },
+        {
+          "id": "b",
+          "textEn": "It induces mydriasis and cycloplegia, crowding the iridocorneal angle and dangerously spiking intraocular pressure",
+          "textAr": "يسبب اتساع الحدقة وشلل المطابقة، مما يغلق زاوية التصريف ويرفع ضغط العين لمستويات خطيرة"
+        },
+        {
+          "id": "c",
+          "textEn": "It inhibits aqueous humor synthesis directly",
+          "textAr": "يثبط تصنيع الخلط المائي مباشرة"
+        },
+        {
+          "id": "d",
+          "textEn": "It provokes retinal detachment",
+          "textAr": "يحفز انفصال الشبكية"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Atropine blocks muscarinic receptors causing pupillary dilation (mydriasis), which blocks the canal of Schlemm and acutely elevates intraocular pressure.",
+      "explanationAr": "بصي يا ريهام، الأتروبين بيعمل Mydriasis (اتساع حدقة العين)، وده بيقفل الـ Trabecular meshwork في زاوية العين ويزود الـ Intraocular pressure جداً، فكارثة مع الـ Glaucoma.",
+      "difficulty": "hard"
+    }
+  ]
+}

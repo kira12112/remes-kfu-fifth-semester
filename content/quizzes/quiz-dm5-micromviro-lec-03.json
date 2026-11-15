@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-03",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-03",
+  "titleEn": "Quiz: Gram-Negative Cocci & Spore-Forming Bacilli",
+  "titleAr": "كويز: المكورات سالبة الجرام والعصيات المتبوغة (Neisseria & Clostridium)",
+  "description": "Dedicated practice and assessment quiz for 'Gram-Negative Cocci and Spore-Forming Gram-Positive Bacilli'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-03-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-03",
+      "textEn": "Tetanospasmin, the potent exotoxin produced by Clostridium tetani, causes spastic paralysis and trismus ('lockjaw') by blocking the release of which neurotransmitters?",
+      "textAr": "سم التيتانوس (Tetanospasmin) المفرز من Clostridium tetani يسبب التشنج العضلي والكزاز الفكي (Lockjaw) عبر منع تحرر أي نواقل عصبية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Inhibitory neurotransmitters GABA and glycine in spinal interneurons",
+          "textAr": "النواقل العصبية التثبيطية GABA والجلايسين في العصبونات النخاعية"
+        },
+        {
+          "id": "b",
+          "textEn": "Acetylcholine at the neuromuscular junction",
+          "textAr": "الأسيتيل كولين في المشبك العضلي"
+        },
+        {
+          "id": "c",
+          "textEn": "Dopamine in the basal ganglia",
+          "textAr": "الدوبامين في العقد القاعدية"
+        },
+        {
+          "id": "d",
+          "textEn": "Epinephrine in the adrenal medulla",
+          "textAr": "الأدرينالين في لب الكظر"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Tetanospasmin retrogradely travels to spinal cord inhibitory interneurons (Renshaw cells) and cleaves synaptobrevin, preventing GABA and glycine release and producing violent uninhibited muscle contractions (trismus).",
+      "explanationAr": "بصي يا ريهام، سم التيتانوس بيمنع إفراز النواقل التثبيطية (GABA and Glycine)، فالعضلات تفضل منقبضة باستمرار ومفيش حاجة تعملها Relaxation، فيحصل الـ Trismus الشهير (Lockjaw).",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-07",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-07",
+  "titleEn": "Quiz: Non-Carious Cervical Lesions & Hard Tissue Defects",
+  "titleAr": "كويز: الآفات غير التسوسية: التآكل، الحت، الانقلاع، ونقص التكلس",
+  "description": "Dedicated practice and assessment quiz for 'Non-Carious Cervical Lesions (NCCLs) & Hard Tissue Defects'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-07-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-07",
+      "textEn": "A wedge-shaped cervical lesion with sharp internal angles at the CEJ caused by eccentric occlusal tensile stress flexure is termed:",
+      "textAr": "آفة عنقية وتدية الشكل بزوايا حادة عند ملتقى الميناء والملاط ناتجة عن انثناء السن تحت وطأة قوى الإطباق تسمى:",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Abfraction",
+          "textAr": "انقلاع عنقي ميكانيكي (Abfraction)"
+        },
+        {
+          "id": "b",
+          "textEn": "Attrition",
+          "textAr": "سحل أسناني (Attrition)"
+        },
+        {
+          "id": "c",
+          "textEn": "Dental Erosion",
+          "textAr": "تآكل كيميائي (Erosion)"
+        },
+        {
+          "id": "d",
+          "textEn": "Amelogenesis Imperfecta",
+          "textAr": "خلل تكون الميناء الوراثي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Abfraction describes wedge-shaped cervical defects resulting from tooth flexure under heavy eccentric occlusal loads.",
+      "explanationAr": "الـ Abfraction هي الآفة الوتدية الحادة عند عنق السن الناتجة عن الـ Occlusal stress flexure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-car-07-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-07",
+      "textEn": "Smooth, cupped-out depressions on the palatal surfaces of maxillary anterior teeth in a patient with chronic GERD represent:",
+      "textAr": "الانخسافات المقعرة الملساء على السطح الحنكي للأسنان الأمامية العلوية لدى مريض يعاني من ارتجاع المريء (GERD) تمثل:",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Dental Erosion",
+          "textAr": "حت وتآكل كيميائي (Dental Erosion)"
+        },
+        {
+          "id": "b",
+          "textEn": "Toothbrush abrasion",
+          "textAr": "سحج بالفرشاة"
+        },
+        {
+          "id": "c",
+          "textEn": "Severe attrition from bruxism",
+          "textAr": "سحل ميكانيكي بالجز"
+        },
+        {
+          "id": "d",
+          "textEn": "Pulp stones",
+          "textAr": "حصوات العصب"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Chemical dissolution of enamel by non-bacterial gastric hydrochloric acid (GERD or bulimia) produces smooth, glassy erosion on palatal surfaces.",
+      "explanationAr": "أحماض المعدة في ارتجاع المريء بتدوب الميناء بدون أي بكتيريا، وده التعريف الكلاسيكي للـ Dental Erosion.",
+      "difficulty": "easy"
+    }
+  ]
+}

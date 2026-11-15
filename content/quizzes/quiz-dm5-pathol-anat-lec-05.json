@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-anat-lec-05",
+  "subjectId": "dm5-pathol-anat",
+  "lectureId": "dm5-pathol-anat-lec-05",
+  "titleEn": "Quiz: Gastrointestinal Pathology & Oral Manifestations",
+  "titleAr": "كويز: أمراض الجهاز الهضمي والمظاهر الفموية لداء كرون والقرحة",
+  "description": "Dedicated practice and assessment quiz for 'Gastrointestinal Pathology & Oral Manifestations'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-anat-05-1",
+      "subjectId": "dm5-pathol-anat",
+      "lectureId": "dm5-pathol-anat-lec-05",
+      "textEn": "Which pathognomonic oral mucosal finding is characteristically observed in patients with Crohn's disease?",
+      "textAr": "ما هو المظهر المخاطي الفموي المميز والنوعي الذي يشاهد في فحص الفم عند مرضى داء كرون (Crohn's Disease)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "'Cobblestone' appearance of buccal mucosa and linear vestibule ulcerations with non-caseating granulomas",
+          "textAr": "مظهر 'رصيف الحجارة' (Cobblestone) في مخاطية الخد وتقرحات دهليزية خطية مع أورام حُبيبية غير متجبنة"
+        },
+        {
+          "id": "b",
+          "textEn": "Generalized black hairy tongue",
+          "textAr": "اللسان الأسود المشعر المعمم"
+        },
+        {
+          "id": "c",
+          "textEn": "Total hypoplasia of all permanent enamel",
+          "textAr": "نقص تنسج مينائي كامل في كل الأسنان"
+        },
+        {
+          "id": "d",
+          "textEn": "Painless bony osteomas in mandibular angle only",
+          "textAr": "أورام عظمية في زاوية الفك فقط"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Crohn's disease can manifest in the oral cavity as cobblestone mucosa, labial swelling, and linear ulcers containing distinctive non-caseating granulomas upon biopsy.",
+      "explanationAr": "بصي يا ريهام، مريض Crohn's disease ممكن تكتشفيه من فمه! بطانة الخد بتبقى منقوشة زي رصيف الحجارة (Cobblestone mucosa) وبيكون فيها Non-caseating granulomas تحت الميكروسكوب.",
+      "difficulty": "medium"
+    }
+  ]
+}

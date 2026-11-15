@@ -2,6 +2,24 @@
 
 All notable changes to this medical educational platform are documented in this file.
 
+## [1.2.0] — 2026-11-15 (Dedicated Per-Lesson Quiz Suite Deployment)
+
+### Added & Enriched
+- **100% Dedicated Per-Lesson Interactive Quizzes (62 Quizzes):**
+  - Designed and authored custom, curriculum-grounded quizzes for **every single one of the 62 lessons** (53 theoretical lectures + 9 practical sessions) across all 8 supported university subjects.
+  - Total active quiz inventory expanded from 9 sample assessments to 71 quizzes (62 lesson-specific quizzes + 9 comprehensive subject mocks).
+  - Authored over 100 clinically rigorous MCQs categorized into Easy, Medium, and Hard difficulty tiers.
+  - Every question features in-depth bilingual explanations addressing Riham in warm Egyptian Arabic ("بصي يا ريهام...") while preserving all English medical terminology.
+- **Bi-Directional Lesson & Quiz Linking:**
+  - Updated all 62 lecture JSON files in `content/lectures/*.json` with `relatedQuizId: "quiz-" + lecture.id`.
+  - Wired direct "Start Quiz Now" action link in `LectureViewer` bottom CTA to immediately launch the dedicated assessment.
+  - Synchronized `SubjectDashboardPage.tsx` with all 62 quizzes surfaced in the "Quizzes" tab for each respective subject.
+- **Automated Verification & Mobile QA:**
+  - 100% test pass rate: 9/9 Playwright E2E tests passing on Desktop Chromium and 9/9 on Mobile Android (Pixel 7).
+  - 6/6 Vitest unit tests passing.
+  - 0 TypeScript compilation errors (`tsc --noEmit`).
+  - Production bundle generated cleanly with Vite.
+
 ## [1.1.0] — 2026-11-15 (Comprehensive Real Content Implementation)
 
 ### Added & Enriched

@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-06",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-06",
+  "titleEn": "Quiz: Complications and Failures in Restorative Treatment",
+  "titleAr": "كويز: أخطاء ومضاعفات حشو الأسنان والتسوس الثانوي",
+  "description": "Dedicated practice and assessment quiz for 'Complications and Failures in Restorative Treatment'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-06-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-06",
+      "textEn": "Which cavity configuration exhibits the highest C-factor and maximum polymerization shrinkage stress on cavity walls?",
+      "textAr": "أي شكل تجويفي يمتلك أعلى معامل تكوين (C-factor) وأعلى إجهاد انكماش بلمرة على الجدران؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Class I deep occlusal cavity (5 bonded walls / 1 unbonded wall)",
+          "textAr": "حفر الصنف الأول الإطباقية العميقة (5 جدران مرتبطة / جدار حر وحيد)"
+        },
+        {
+          "id": "b",
+          "textEn": "Class IV incisal fracture (1 bonded wall / 4 unbonded walls)",
+          "textAr": "كسر الصنف الرابع القاطع"
+        },
+        {
+          "id": "c",
+          "textEn": "Class V shallow facial cavity",
+          "textAr": "حفر الصنف الخامس السطحية"
+        },
+        {
+          "id": "d",
+          "textEn": "Direct composite veneer",
+          "textAr": "الفينير المباشر"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Class I occlusal cavities have 5 bonded walls to only 1 unbonded surface (C-factor = 5), concentrating immense shrinkage stress that can gap margins or fracture cusps.",
+      "explanationAr": "حفر الصنف الأول Class I ليها أعلى C-factor (5 على 1) عشان كدة لازم تتحشى بطبقات صغيرة (Incremental technique) لتفادي شد الجدران.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q-car-06-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-06",
+      "textEn": "What clinical technique effectively minimizes polymerization shrinkage stress during composite placement?",
+      "textAr": "ما هي التقنية السريرية الفعالة لتقليل إجهاد انكماش البلمرة أثناء وضع حشوة الكومبوزيت؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Incremental layering technique in increments <= 2.0 mm",
+          "textAr": "تقنية الحشو بالطبقات المتتابعة (بحيث لا تزيد الطبقة عن 2 مم)"
+        },
+        {
+          "id": "b",
+          "textEn": "Bulk fill placement of 8 mm in a single cure",
+          "textAr": "وضع كتلة واحدة 8 مم بلمرة واحدة"
+        },
+        {
+          "id": "c",
+          "textEn": "Elimination of adhesive bonding agents",
+          "textAr": "إلغاء مادة اللصق"
+        },
+        {
+          "id": "d",
+          "textEn": "Using water during light curing",
+          "textAr": "استخدام الماء أثناء الضوء"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Incremental placement in oblique layers of <= 2 mm allows free stress relaxation from unbonded surfaces and ensures complete light curing depth.",
+      "explanationAr": "وضع الكومبوزيت بطبقات مائلة لا تزيد عن 2 مم بيسمح للراتنج بالتمدد من الأسطح الحرة ويقلل الانكماش الداخلي.",
+      "difficulty": "medium"
+    }
+  ]
+}

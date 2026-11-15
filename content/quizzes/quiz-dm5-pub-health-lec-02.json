@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pub-health-lec-02",
+  "subjectId": "dm5-pub-health",
+  "lectureId": "dm5-pub-health-lec-02",
+  "titleEn": "Quiz: Statistical Methods and Health Data Analysis",
+  "titleAr": "كويز: الطرق الإحصائية وتحليل البيانات الصحية في البحوث الطبية",
+  "description": "Dedicated practice and assessment quiz for 'Statistical Methods and Health Data Analysis in Medical Research'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pub-02-1",
+      "subjectId": "dm5-pub-health",
+      "lectureId": "dm5-pub-health-lec-02",
+      "textEn": "In medical research, what does a statistically significant p-value of less than 0.05 (p < 0.05) conventionally denote?",
+      "textAr": "في البحث العلمي الطبي، ماذا تعني دلالة القيمة الاحتمالية الإحصائية (p < 0.05)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "There is less than a 5% probability that the observed study difference occurred purely by random chance, rejecting the null hypothesis",
+          "textAr": "هناك احتمال أقل من 5% أن يكون الفرق الملاحظ ناتجاً عن الصدفة العشوائية البحتة، مما يسمح برفض الفرضية الصفرية"
+        },
+        {
+          "id": "b",
+          "textEn": "The study has a 95% dropout rate",
+          "textAr": "الدراسة بها نسبة تسرب 95%"
+        },
+        {
+          "id": "c",
+          "textEn": "The clinical medication is toxic to 5% of cells",
+          "textAr": "الدواء سام لـ 5% من الخلايا"
+        },
+        {
+          "id": "d",
+          "textEn": "The sample size must be multiplied by five",
+          "textAr": "حجم العينة يجب ضربه بخمسة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "A p-value < 0.05 indicates that the likelihood of observing results at least as extreme under the null hypothesis is below 5%, satisfying conventional thresholds for statistical significance.",
+      "explanationAr": "بصي يا ريهام، الـ p-value دي المعيار العالمي للبحث العلمي: لما تكون أقل من 0.05 (p < 0.05) معناها إن احتمال إن النتيجة دي طلعت بالصدفة أقل من 5%، يعني التأثير حقيقي وبنرفض الـ Null Hypothesis.",
+      "difficulty": "medium"
+    }
+  ]
+}

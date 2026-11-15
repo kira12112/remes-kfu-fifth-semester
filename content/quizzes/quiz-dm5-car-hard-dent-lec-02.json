@@ -1,0 +1,111 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-02",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-02",
+  "titleEn": "Quiz: Etiology and Pathogenesis of Dental Caries",
+  "titleAr": "كويز: أسباب وآلية حدوث تسوس الأسنان والبيوفيلم البكتيري",
+  "description": "Dedicated practice and assessment quiz for 'Etiology and Pathogenesis of Dental Caries'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-02-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-02",
+      "textEn": "What is the critical pH threshold below which enamel hydroxyapatite begins to dissolve?",
+      "textAr": "ما هي درجة الحموضة الحرجة (Critical pH) التي يبدأ عندها ذوبان ميناء الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "pH 6.8",
+          "textAr": "6.8"
+        },
+        {
+          "id": "b",
+          "textEn": "pH 5.5",
+          "textAr": "5.5"
+        },
+        {
+          "id": "c",
+          "textEn": "pH 4.0",
+          "textAr": "4.0"
+        },
+        {
+          "id": "d",
+          "textEn": "pH 7.4",
+          "textAr": "7.4"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Enamel critical pH is 5.5. For dentin and cementum, the critical pH is higher (6.2 - 6.7).",
+      "explanationAr": "الـ Critical pH للميناء هي 5.5، بينما للعاج والملاط من 6.2 إلى 6.7.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-car-02-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-02",
+      "textEn": "Which bacterial species is the primary initiator of dental caries due to glucosyltransferase-mediated glucan synthesis?",
+      "textAr": "أي بكتيريا تعتبر البادئ الرئيسي للتسوس بقدرتها على تصنيع الجلوكان اللاصق بإنزيم الجلوكوزيل ترانسفيراز؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Streptococcus mutans",
+          "textAr": "ستريبتوكوكس ميوتانز (Streptococcus mutans)"
+        },
+        {
+          "id": "b",
+          "textEn": "Lactobacillus acidophilus",
+          "textAr": "لاكتوباسيلس أسيدوفيلس"
+        },
+        {
+          "id": "c",
+          "textEn": "Actinomyces naeslundii",
+          "textAr": "أكتينومايسس نيزلوندي"
+        },
+        {
+          "id": "d",
+          "textEn": "Porphyromonas gingivalis",
+          "textAr": "بورفيروموناس جنجيفاليس"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Streptococcus mutans adheres tightly to enamel via glucosyltransferases producing extracellular water-insoluble glucans, initiating the caries process.",
+      "explanationAr": "Streptococcus mutans هي البادئ الأساسي لقدرتها على الالتصاق الشديد بالسن وإفراز كميات ضخمة من حمض اللاكتيك.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-car-02-3",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-02",
+      "textEn": "According to the Stephan Curve, frequent snacking of fermentable carbohydrates leads to caries primarily because:",
+      "textAr": "وفقاً لمنحنى ستيفان، تناول الوجبات الخفيفة السكرية المتكررة يؤدي للتسوس أساساً بسبب:",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Plaque pH remains below the critical pH for prolonged cumulative periods without salivary recovery",
+          "textAr": "بقاء الـ pH تحت الدرجة الحرجة لفترات تراكمية طويلة تمنع اللعاب من إعادة التمعدن"
+        },
+        {
+          "id": "b",
+          "textEn": "Immediate destruction of salivary amylase",
+          "textAr": "تدمير فوري لإنزيم الأميليز"
+        },
+        {
+          "id": "c",
+          "textEn": "Permanent loss of taste buds",
+          "textAr": "فقدان دائم لبراعم التذوق"
+        },
+        {
+          "id": "d",
+          "textEn": "Excessive salivary calcium precipitation",
+          "textAr": "ترسب مفرط للكالسيوم اللعابي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Frequent sugar intake causes repeated acid drops, depriving saliva of the 30-40 minutes required to neutralize acid and remineralize enamel.",
+      "explanationAr": "تكرار أكل السكريات بيخلي الـ pH واقع تحت 5.5 باستمرار، واللعاب مبلحقش يعادل الحمض ويعمل Remineralization.",
+      "difficulty": "medium"
+    }
+  ]
+}

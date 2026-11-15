@@ -1,0 +1,111 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-01",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-01",
+  "titleEn": "Quiz: Cariology Diagnosis & Assessment",
+  "titleAr": "كويز: تشخيص تسوس الأسنان وأمراض الأنسجة الصلبة",
+  "description": "Dedicated practice and assessment quiz for 'Diagnosis for Dental Caries and Hard Tissue Diseases'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-01-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-01",
+      "textEn": "Why is the aggressive use of a sharp explorer probe contraindicated during the clinical examination of incipient enamel lesions?",
+      "textAr": "لماذا يمنع الاستخدام العنيف للمسبار الحاد (Sharp Explorer) أثناء فحص آفات الميناء الأولية (White Spots)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "It causes acute pulp necrosis immediately",
+          "textAr": "يسبب تموت اللب الحاد بشكل فوري"
+        },
+        {
+          "id": "b",
+          "textEn": "It fractures the fragile remineralized surface zone, transforming a reversible lesion into an irreversible cavity",
+          "textAr": "يكسر الطبقة السطحية الهشة ويعمل تجويف ميكانيكي دائم لا يمكن إعادة تمعدنه طبيعياً"
+        },
+        {
+          "id": "c",
+          "textEn": "It neutralizes salivary buffering capacity",
+          "textAr": "يعطل قدرة اللعاب على التعديل الحمضي"
+        },
+        {
+          "id": "d",
+          "textEn": "It prevents bitewing radiographs from detecting proximal lesions",
+          "textAr": "يمنع ظهور الآفة في الأشعة السينية"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Sharp explorer probing fractures the fragile remineralized surface zone of incipient white spots, turning a reversible lesion into an irreversible cavitated defect.",
+      "explanationAr": "الضغط العنيف بالسن الحاد بيكسر القشرة السطحية الضعيفة للـ White Spot Lesion ويحولها لـ Cavity حقيقية تستدعي الحفر.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-car-01-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-01",
+      "textEn": "Which radiographic projection is considered the gold standard for detecting early interproximal caries?",
+      "textAr": "ما هو الإسقاط الشعاعي الذي يعتبر المعيار الذهبي لكشف التسوس الملاصق بين الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Bitewing Radiography",
+          "textAr": "أشعة الجناح الإطباقي (Bitewing)"
+        },
+        {
+          "id": "b",
+          "textEn": "Panoramic Radiography (OPG)",
+          "textAr": "الأشعة البانورامية (OPG)"
+        },
+        {
+          "id": "c",
+          "textEn": "Occlusal Projection",
+          "textAr": "أشعة الإطباق"
+        },
+        {
+          "id": "d",
+          "textEn": "Lateral Cephalometric Radiography",
+          "textAr": "الأشعة السيفالومترية"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Bitewing radiography provides undistorted parallel imaging of crown and proximal enamel and dentin margins without overlapping contacts.",
+      "explanationAr": "أشعة الـ Bitewing هي المعيار الذهبي لتشخيص التسوس الملاصق (Interproximal) بدقة متناهية.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-car-01-3",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-01",
+      "textEn": "A non-cavitated white spot lesion located near the gingival margin that appears shiny, hard, and smooth upon gentle probing is classified as:",
+      "textAr": "آفة بيضاء غير متكهفة قرب حافة اللثة تبدو لامعة ومصقولة وصلبة عند الفحص اللمسي اللطيف تصنف على أنها:",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Active enamel caries",
+          "textAr": "تسوس ميناء نشط"
+        },
+        {
+          "id": "b",
+          "textEn": "Arrested (inactive) caries",
+          "textAr": "تسوس متوقف (غير نشط)"
+        },
+        {
+          "id": "c",
+          "textEn": "Dentin abfraction",
+          "textAr": "انقلاع عنقي"
+        },
+        {
+          "id": "d",
+          "textEn": "Pulp necrosis",
+          "textAr": "تموت لبي"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Arrested caries lesions are characteristically shiny, hard like glass, and smooth due to natural remineralization, requiring no surgical drilling.",
+      "explanationAr": "الـ Arrested caries بتكون لامعة (Shiny) وصلبة جداً وملمسها ناعم، ودي حصلها Remineralization طبيعي ومبتتحفرش.",
+      "difficulty": "medium"
+    }
+  ]
+}

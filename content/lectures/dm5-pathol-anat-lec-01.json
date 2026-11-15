@@ -40,12 +40,32 @@
         {
           "type": "table",
           "tableData": {
-            "headers": ["Type", "Primary Mediator", "Prototype Clinical Example"],
+            "headers": [
+              "Type",
+              "Primary Mediator",
+              "Prototype Clinical Example"
+            ],
             "rows": [
-              ["Type I (Immediate)", "IgE antibodies, Histamine, Mast cells", "Anaphylaxis, Urticaria, Penicillin allergy"],
-              ["Type II (Cytotoxic)", "IgG/IgM antibodies, Complement, ADCC", "Autoimmune hemolytic anemia, Pemphigus vulgaris"],
-              ["Type III (Immune Complex)", "Circulating Ag-Ab complexes", "Systemic Lupus Erythematosus (SLE), Serum sickness"],
-              ["Type IV (Delayed)", "CD4+ / CD8+ T cells, Macrophages", "Contact dermatitis (latex), Mantoux tuberculin test"]
+              [
+                "Type I (Immediate)",
+                "IgE antibodies, Histamine, Mast cells",
+                "Anaphylaxis, Urticaria, Penicillin allergy"
+              ],
+              [
+                "Type II (Cytotoxic)",
+                "IgG/IgM antibodies, Complement, ADCC",
+                "Autoimmune hemolytic anemia, Pemphigus vulgaris"
+              ],
+              [
+                "Type III (Immune Complex)",
+                "Circulating Ag-Ab complexes",
+                "Systemic Lupus Erythematosus (SLE), Serum sickness"
+              ],
+              [
+                "Type IV (Delayed)",
+                "CD4+ / CD8+ T cells, Macrophages",
+                "Contact dermatitis (latex), Mantoux tuberculin test"
+              ]
             ]
           }
         }
@@ -64,5 +84,6 @@
     "Type I hypersensitivity is IgE-mediated and can trigger life-threatening anaphylactic shock upon drug exposure.",
     "Pemphigus vulgaris involves Type II cytotoxic IgG antibodies targeting desmosomal desmoglein, producing fragile intraepithelial bullae in the oral mucosa.",
     "Type IV hypersensitivity is solely T cell-mediated without antibody involvement."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-pathol-anat-lec-01"
 }

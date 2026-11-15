@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pub-health-lec-05",
+  "subjectId": "dm5-pub-health",
+  "lectureId": "dm5-pub-health-lec-05",
+  "titleEn": "Quiz: Healthcare Systems and Primary Health Care",
+  "titleAr": "كويز: الأنظمة الصحية والرعاية الصحية الأولية وصحة الأم والطفل",
+  "description": "Dedicated practice and assessment quiz for 'Healthcare Systems, Primary Health Care, and Maternal-Child Health'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pub-05-1",
+      "subjectId": "dm5-pub-health",
+      "lectureId": "dm5-pub-health-lec-05",
+      "textEn": "Which landmark international declaration adopted in 1978 established Primary Health Care (PHC) as the central key to attaining 'Health for All'?",
+      "textAr": "ما هو الإعلان الدولي التاريخي المعتمد عام 1978 الذي رسخ الرعاية الصحية الأولية (PHC) كركيزة أساسية لتحقيق 'الصحة للجميع'؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "The Declaration of Alma-Ata",
+          "textAr": "إعلان ألما آتا (Declaration of Alma-Ata)"
+        },
+        {
+          "id": "b",
+          "textEn": "The Geneva Convention",
+          "textAr": "اتفاقية جنيف"
+        },
+        {
+          "id": "c",
+          "textEn": "The Helsinki Declaration on Human Subjects",
+          "textAr": "إعلان هلسنكي"
+        },
+        {
+          "id": "d",
+          "textEn": "The Kyoto Protocol",
+          "textAr": "بروتوكول كيوتو"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The 1978 WHO Alma-Ata Declaration identified primary health care as indispensable, universally accessible health care based on scientifically sound and socially acceptable methods.",
+      "explanationAr": "بصي يا ريهام، مؤتمر وإعلان ألما آتا 1978 (Alma-Ata) ده أهم حدث في تاريخ الصحة العامة، هو اللي أقر إن الرعاية الصحية الأولية (Primary Health Care) حق لكل إنسان ولازم تتوفر بعدالة للجميع.",
+      "difficulty": "easy"
+    }
+  ]
+}

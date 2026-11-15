@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-07",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-07",
+  "titleEn": "Quiz: Virology in Dentistry: Herpes, Hepatitis, HIV",
+  "titleAr": "كويز: الفيروسات في طب الأسنان (الهربس، التهاب الكبد B و C، والإيدز)",
+  "description": "Dedicated practice and assessment quiz for 'Virology: Herpesviruses, Bloodborne Hepatitis (HBV/HCV), and HIV in Dentistry'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-07-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-07",
+      "textEn": "Following an accidental percutaneous needle-stick injury with blood from an HBeAg-positive patient, what is the approximate transmission risk of Hepatitis B Virus (HBV) to an unvaccinated dental healthcare worker?",
+      "textAr": "بعد وخزة إبرة عرضية ملوثة بدم مريض إيجابي للمستضد HBeAg، ما هي نسبة خطر انتقال فيروس التهاب الكبد B (HBV) لطبيب غير ملقح؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Approximately 30% (up to 1 in 3)",
+          "textAr": "حوالي 30% (تصل إلى 1 من كل 3 حالات)"
+        },
+        {
+          "id": "b",
+          "textEn": "Less than 0.3%",
+          "textAr": "أقل من 0.3%"
+        },
+        {
+          "id": "c",
+          "textEn": "Approximately 3%",
+          "textAr": "حوالي 3%"
+        },
+        {
+          "id": "d",
+          "textEn": "Virtually 0% without direct transfusion",
+          "textAr": "صفر تقريباً بدون نقل دم مباشر"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Rule of thumb for needle-stick transmission risks from infected source: HBV is ~30% (if e-antigen positive), HCV is ~3%, and HIV is ~0.3%. HBV is extraordinarily infectious in dental settings.",
+      "explanationAr": "بصي يا ريهام، احفظي قاعدة (30% - 3% - 0.3%) لوخز الإبر الملوثة: فيروس الـ HBV خطورته بتوصل لـ 30%، والـ HCV حوالي 3%، والـ HIV حوالي 0.3%. عشان كده تطعيم فيروس B إجباري لكل أطباء الأسنان!",
+      "difficulty": "hard"
+    }
+  ]
+}

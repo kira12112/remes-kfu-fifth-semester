@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-prac-03",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-prac-03",
+  "titleEn": "Quiz: Dental Local Anesthetic Formulations and Calculations",
+  "titleAr": "كويز عملي: حسابات تراكيز وجرعات بنج الأسنان الموضعي",
+  "description": "Dedicated practice and assessment quiz for 'Practical 3: Dental Local Anesthetic Formulations and Calculations'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-p3-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-prac-03",
+      "textEn": "A standard 1.8 mL dental cartridge of 2% Lidocaine with 1:100,000 Epinephrine contains exactly how many milligrams of lidocaine and epinephrine respectively?",
+      "textAr": "أمبول بنج الأسنان القياسي حجم 1.8 مل بتركيز 2% ليدوكائين مع 1:100,000 أدرينالين يحتوي على كم ملليغرام من الليدوكائين والأدرينالين على التوالي؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "36 mg Lidocaine and 0.018 mg Epinephrine",
+          "textAr": "36 مجم ليدوكائين و 0.018 مجم أدرينالين"
+        },
+        {
+          "id": "b",
+          "textEn": "20 mg Lidocaine and 0.1 mg Epinephrine",
+          "textAr": "20 مجم ليدوكائين و 0.1 مجم أدرينالين"
+        },
+        {
+          "id": "c",
+          "textEn": "2 mg Lidocaine and 1 mg Epinephrine",
+          "textAr": "2 مجم ليدوكائين و 1 مجم أدرينالين"
+        },
+        {
+          "id": "d",
+          "textEn": "72 mg Lidocaine and 0.036 mg Epinephrine",
+          "textAr": "72 مجم ليدوكائين و 0.036 مجم أدرينالين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "2% solution means 20 mg/mL -> 20 * 1.8 = 36 mg of Lidocaine. 1:100,000 epinephrine means 0.01 mg/mL -> 0.01 * 1.8 = 0.018 mg of Epinephrine.",
+      "explanationAr": "بصي يا ريهام، دي مسألة حسابية ثابتة في امتحانات الأسنان: 2% يعني 20 مجم في الملي، تضربي في 1.8 مل يطلع 36 مجم ليدوكائين! والأدرينالين 1:100,000 يعني 0.01 مجم في الملي، تضربي في 1.8 يطلع 0.018 مجم.",
+      "difficulty": "medium"
+    }
+  ]
+}

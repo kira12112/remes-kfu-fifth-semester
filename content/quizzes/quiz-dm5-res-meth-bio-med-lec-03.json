@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-res-meth-bio-med-lec-03",
+  "subjectId": "dm5-res-meth-bio-med",
+  "lectureId": "dm5-res-meth-bio-med-lec-03",
+  "titleEn": "Quiz: Critical Appraisal of Medical Evidence",
+  "titleAr": "كويز: النقد العلمي وتقييم الأدلة الطبية المنشورة (EBM)",
+  "description": "Dedicated practice and assessment quiz for 'Critical Appraisal: How to Read and Evaluate Scientific Papers'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-res-03-1",
+      "subjectId": "dm5-res-meth-bio-med",
+      "lectureId": "dm5-res-meth-bio-med-lec-03",
+      "textEn": "In the classical Hierarchy of Evidence in Evidence-Based Medicine (EBM), which study design sits at the pinnacle (highest level of clinical evidence)?",
+      "textAr": "في الهرم الكلاسيكي للأدلة في الطب المبني على الدليل (EBM)، أي نمط من الدراسات يحتل قمة الهرم (أعلى درجات الموثوقية والدليل السريري)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Systematic Reviews and Meta-Analyses of Randomized Controlled Trials (RCTs)",
+          "textAr": "المراجعات المنهجية والتحليلات البعدية للتجارب السريرية العشوائية المعشاة (Systematic Reviews & Meta-Analyses)"
+        },
+        {
+          "id": "b",
+          "textEn": "Case reports and anecdotal series",
+          "textAr": "تقارير الحالات الفردية (Case reports)"
+        },
+        {
+          "id": "c",
+          "textEn": "Expert opinion editorials without peer review",
+          "textAr": "آراء الخبراء والمقالات الافتتاحية"
+        },
+        {
+          "id": "d",
+          "textEn": "Cross-sectional surveys with small sample sizes",
+          "textAr": "المسوحات المستعرضة الصغيرة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Systematic reviews and meta-analyses rigorously combine all available randomized controlled trials to produce the most authoritative, unbiased clinical synthesis.",
+      "explanationAr": "بصي يا ريهام، قمة هرم الطب المبني على الدليل (EBM) هي المراجعات المنهجية والـ Meta-Analyses للتجارب السريرية العشوائية (RCTs)، دي أعلى موثوقية في العالم وتقدر تبني قراراتك العلاجية عليها بثقة.",
+      "difficulty": "easy"
+    }
+  ]
+}

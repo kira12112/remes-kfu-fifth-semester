@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-02",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-02",
+  "titleEn": "Quiz: Cellular Adaptation: Hypertrophy, Hyperplasia, Metaplasia",
+  "titleAr": "كويز: التكيف الخلوي (الضخامة، فرط التنسج، الحؤول، والضمور)",
+  "description": "Dedicated practice and assessment quiz for 'Cellular Adaptation: Hypertrophy, Hyperplasia, Atrophy, and Metaplasia'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-02-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-02",
+      "textEn": "Which adaptive cellular response occurs in the respiratory bronchial epithelium of chronic cigarette smokers, replacing ciliated columnar cells with stratified squamous cells?",
+      "textAr": "ما هو التكيف الخلوي الذي يحدث في ظهارة القصبات الهوائية عند مدخني السجائر المزمنين، حيث تستبدل الخلايا العمودية الهدبية بخلايا حرشفية مطبقة؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Squamous Metaplasia",
+          "textAr": "الحؤول الحرشفي (Squamous Metaplasia)"
+        },
+        {
+          "id": "b",
+          "textEn": "Coagulative necrosis",
+          "textAr": "تنخر تخثري"
+        },
+        {
+          "id": "c",
+          "textEn": "Physiologic hypertrophy",
+          "textAr": "ضخامة فسيولوجية"
+        },
+        {
+          "id": "d",
+          "textEn": "Apoptosis",
+          "textAr": "موت مبرمج"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Metaplasia is a reversible phenotypic change where one adult cell type is replaced by another cell type better suited to withstand chronic harsh environmental stress (e.g., columnar to squamous in smokers).",
+      "explanationAr": "بصي يا ريهام، الـ Metaplasia هو تحول نسيج بالغ لنسيج بالغ تاني عشان يقدر يستحمل؛ في المدخنين النسيج العمودي الضعيف بيتحول لـ Squamous عشان يستحمل الدخان، لكن عيبه إنه بيفقد الأهداب وممكن يتحول لـ Dysplasia وسرطان لو التدخين استمر.",
+      "difficulty": "medium"
+    }
+  ]
+}

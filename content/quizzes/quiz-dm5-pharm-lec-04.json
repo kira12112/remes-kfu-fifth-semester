@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-lec-04",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-lec-04",
+  "titleEn": "Quiz: Autacoids and Chemical Mediators",
+  "titleAr": "كويز: الأوتاكويدات والوسطاء الكيميائيون (الهيستامين والبروستاغلاندين)",
+  "description": "Dedicated practice and assessment quiz for 'Autacoids: Histamine, Serotonin, and Prostaglandins'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-04-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-04",
+      "textEn": "Which first-line medication must be administered intramuscularly immediately to manage acute anaphylactic shock in the dental chair?",
+      "textAr": "ما هو الدواء الأساسي من الخط الأول الذي يجب حقنه عضلياً فوراً لعلاج صدمة التأق التحسسية الحادة (Anaphylaxis) في عيادة الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Intramuscular Epinephrine (1:1000, 0.3-0.5 mg)",
+          "textAr": "أدرينالين بالعضل (تركيز 1:1000 بجرعة 0.3-0.5 مجم)"
+        },
+        {
+          "id": "b",
+          "textEn": "Oral diphenhydramine syrup",
+          "textAr": "شراب ديفينهيدرامين بالفم"
+        },
+        {
+          "id": "c",
+          "textEn": "Sublingual aspirin tablet",
+          "textAr": "قرص أسبرين تحت اللسان"
+        },
+        {
+          "id": "d",
+          "textEn": "Intravenous heparin sodium",
+          "textAr": "هيبارين وريدي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Intramuscular epinephrine (1:1000) into the anterolateral thigh is the life-saving first-line therapy for anaphylaxis, counteracting bronchospasm, laryngeal edema, and cardiovascular collapse.",
+      "explanationAr": "بصي يا ريهام، في حالات الـ Anaphylaxis مفيش وقت للهزار: حقنة الـ Epinephrine (Adrenaline) بالعضل في الفخذ بتركيز 1:1000 هي المنقذ الوحيد الفوري لأنها بتفتح الشعب الهوائية وترفع ضغط الدم.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-pharm-04-2",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-04",
+      "textEn": "Prostaglandin synthesis is primarily initiated by the cleavage of cell membrane phospholipids by which enzyme?",
+      "textAr": "يبدأ تصنيع البروستاغلاندين في الخلايا بتحرير حمض الأراكيدونيك من الغشاء الخلوي بواسطة أي إنزيم؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Phospholipase A2",
+          "textAr": "فوسفوليباز A2 (Phospholipase A2)"
+        },
+        {
+          "id": "b",
+          "textEn": "Creatine kinase",
+          "textAr": "كرياتين كينيز"
+        },
+        {
+          "id": "c",
+          "textEn": "Alkaline phosphatase",
+          "textAr": "فوسفاتاز قلوي"
+        },
+        {
+          "id": "d",
+          "textEn": "Amylase",
+          "textAr": "أميليز"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Phospholipase A2 releases arachidonic acid from membrane phospholipids, which is subsequently converted by Cyclooxygenase (COX-1/COX-2) into prostaglandins.",
+      "explanationAr": "بصي يا ريهام، الكورتيزون بيوقف الالتهاب من أوله لأنه بيثبط إنزيم Phospholipase A2، وهو الإنزيم المسؤول عن تحرير الـ Arachidonic acid من غشاء الخلية.",
+      "difficulty": "medium"
+    }
+  ]
+}

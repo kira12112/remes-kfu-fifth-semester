@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-02",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-02",
+  "titleEn": "Quiz: Gram-Positive Cocci in Dentistry",
+  "titleAr": "كويز: المكورات إيجابية الجرام وأمراض الفم (Staph & Strep)",
+  "description": "Dedicated practice and assessment quiz for 'Gram-Positive Cocci: Staphylococci and Streptococci'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-02-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-02",
+      "textEn": "Which enzyme synthesized by Streptococcus mutans hydrolyzes dietary sucrose into extracellular glucans (dextrans), promoting irreversible enamel adherence?",
+      "textAr": "ما هو الإنزيم الذي تفرزه بكتيريا Streptococcus mutans ليحول السكروز إلى جلوكانات لزجة (Dextrans) تثبت اللويحة الجرثومية على الميناء؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Glucosyltransferase (GTF)",
+          "textAr": "جلوكوزيل ترانسفيراز (Glucosyltransferase - GTF)"
+        },
+        {
+          "id": "b",
+          "textEn": "Catalase",
+          "textAr": "كاتالاز"
+        },
+        {
+          "id": "c",
+          "textEn": "Hyaluronidase",
+          "textAr": "هيالورونيداز"
+        },
+        {
+          "id": "d",
+          "textEn": "Coagulase",
+          "textAr": "كواجيولاز"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Streptococcus mutans utilizes glucosyltransferase (GTF) to synthesize sticky extracellular glucan polymers from dietary sucrose, facilitating irreversible bio-adhesion to tooth enamel.",
+      "explanationAr": "بصي يا ريهام، بكتيريا الـ Strep mutans لما تلاقي سكر (Sucrose)، إنزيم الـ Glucosyltransferase عندها بيحوله لـ Dextran لزج زي الصمغ يخليها تلزق في سطح السن ومتطلعش بسهولة.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-micro-02-2",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-02",
+      "textEn": "The Coagulase test is the primary laboratory diagnostic method to distinguish pathogenic Staphylococcus aureus from which other staphylococcal species?",
+      "textAr": "اختبار الكواجيولاز (Coagulase test) هو الاختبار المخبري الأساسي للتمييز بين Staphylococcus aureus الممرضة وبين أي نوع آخر؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Coagulase-negative staphylococci such as Staphylococcus epidermidis",
+          "textAr": "المكورات العنقودية سلبية الكواجيولاز مثل Staphylococcus epidermidis"
+        },
+        {
+          "id": "b",
+          "textEn": "Streptococcus pyogenes",
+          "textAr": "المكورات العقدية القيحية"
+        },
+        {
+          "id": "c",
+          "textEn": "Enterococcus faecalis",
+          "textAr": "المكورات المعوية البرازية"
+        },
+        {
+          "id": "d",
+          "textEn": "Neisseria meningitidis",
+          "textAr": "النيسرية السحائية"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Staphylococcus aureus produces coagulase, which clots plasma, distinguishing it from coagulase-negative staphylococci (CoNS) like S. epidermidis and S. saprophyticus.",
+      "explanationAr": "بصي يا ريهام، الـ Staph aureus بتفرز Coagulase بيجلط البلازما (Coagulase positive)، بينما باقي أنواع الـ Staph زي epidermidis بتكون Coagulase negative.",
+      "difficulty": "easy"
+    }
+  ]
+}

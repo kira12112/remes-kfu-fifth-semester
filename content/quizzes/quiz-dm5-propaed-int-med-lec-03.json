@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-propaed-int-med-lec-03",
+  "subjectId": "dm5-propaed-int-med",
+  "lectureId": "dm5-propaed-int-med-lec-03",
+  "titleEn": "Quiz: Examination of the Respiratory System",
+  "titleAr": "كويز: فحص الجهاز التنفسي (التأمل، الجس، القرع، والإصغاء)",
+  "description": "Dedicated practice and assessment quiz for 'Examination of the Respiratory System: Inspection, Palpation, Percussion, and Auscultation'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-prop-med-03-1",
+      "subjectId": "dm5-propaed-int-med",
+      "lectureId": "dm5-propaed-int-med-lec-03",
+      "textEn": "What adventitious lung sound heard on auscultation indicates high-pitched musical airway narrowing, classically found in acute bronchial asthma?",
+      "textAr": "ما هو الصوت التنفسي الإضافي المسموع بالسماعة الطبية الذي يشير لتضيق الشعب الهوائية ذو النغمة الموسيقية، والمميز للربو القصبي الحاد؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Wheezes (sibilant rhonchi)",
+          "textAr": "الأزيز القصبي ذو النغمة الموسيقية (Wheezes)"
+        },
+        {
+          "id": "b",
+          "textEn": "Coarse crepitations (crackles)",
+          "textAr": "فرقعة رطبة خشنة"
+        },
+        {
+          "id": "c",
+          "textEn": "Pleural friction rub",
+          "textAr": "احتكاك جنبي"
+        },
+        {
+          "id": "d",
+          "textEn": "Normal vesicular murmur",
+          "textAr": "حفيف حويصلي طبيعي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Wheezes are continuous musical sounds produced by air forced through narrowed, constricted bronchospastic airways, predominant during expiration in asthma.",
+      "explanationAr": "بصي يا ريهام، صوت التزييق الموسيقي اللي بتسمعيه في صدر مريض الربو (Asthma) اسمه Wheezing، وبيحصل لأن مجرى التنفس منقبض ومحتقن، فالهواء بيعمل صفير وهو خارج أثناء الزفير.",
+      "difficulty": "easy"
+    }
+  ]
+}

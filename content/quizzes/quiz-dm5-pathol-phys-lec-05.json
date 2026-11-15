@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-05",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-05",
+  "titleEn": "Quiz: Intracellular Accumulations & Pathological Calcification",
+  "titleAr": "كويز: التراكمات داخل الخلوية والتكلس المرضي (الضموري والانتقالي)",
+  "description": "Dedicated practice and assessment quiz for 'Intracellular Accumulations and Pathological Calcifications'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-05-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-05",
+      "textEn": "Dystrophic calcification is pathologically defined as calcium salt deposition occurring in which setting?",
+      "textAr": "يعرف التكلس الضموري (Dystrophic Calcification) باثولوجياً بأنه ترسب لأملاح الكالسيوم يحدث في أي من الحالات التالية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "In dead, dying, or degenerated tissues despite normal serum calcium and phosphate levels",
+          "textAr": "في الأنسجة الميتة أو المتنخرة مع بقاء مستويات كالسيوم وفوسفات المصل طبيعية تماماً"
+        },
+        {
+          "id": "b",
+          "textEn": "In healthy normal tissues solely due to severe systemic hypercalcemia",
+          "textAr": "في أنسجة سليمة تماماً بسبب فرط كالسيوم الدم فقط"
+        },
+        {
+          "id": "c",
+          "textEn": "Exclusively inside vital dental enamel prisms during amelogenesis",
+          "textAr": "حصراً داخل مواشير الميناء أثناء تكوين السن"
+        },
+        {
+          "id": "d",
+          "textEn": "Only in patients with end-stage hypoparathyroidism",
+          "textAr": "فقط عند مرضى قصور الدريقات"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Dystrophic calcification occurs in necrotic tissue (e.g., atheromas, old caseous tuberculosis, pulp stones) with normal systemic serum calcium, unlike metastatic calcification which requires hypercalcemia.",
+      "explanationAr": "بصي يا ريهام، فرق جوهري بيجي في كل امتحان: الـ Dystrophic calcification بيحصل في نسيج ميت (Necrotic tissue) ومستوى الكالسيوم في الدم سليم وطبيعي 100%! أما الـ Metastatic calcification فبيحصل في نسيج سليم بس بسبب زيادة الكالسيوم في الدم (Hypercalcemia).",
+      "difficulty": "medium"
+    }
+  ]
+}

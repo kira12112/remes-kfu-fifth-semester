@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-04",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-04",
+  "titleEn": "Quiz: Caries Risk Assessment and Management (CAMBRA)",
+  "titleAr": "كويز: تقييم مخاطر التسوس وبروتوكول كامبرا (CAMBRA)",
+  "description": "Dedicated practice and assessment quiz for 'Caries Risk Assessment and Management (CAMBRA)'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-04-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-04",
+      "textEn": "Under the CAMBRA philosophy, how should a non-cavitated enamel white spot lesion be managed?",
+      "textAr": "وفقاً لفلسفة كامبرا (CAMBRA)، كيف يجب تدبير آفة الميناء البيضاء غير المتكهفة؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Immediate Class I surgical cavity preparation with carbide bur",
+          "textAr": "حفر جراحي فوري بالسنبلة"
+        },
+        {
+          "id": "b",
+          "textEn": "Non-operative therapy using topical fluoride varnish and remineralizing agents",
+          "textAr": "علاج غير جراحي بالورنيش الفلوريدي ومحفزات إعادة التمعدن الطبيعي"
+        },
+        {
+          "id": "c",
+          "textEn": "Immediate root canal extirpation",
+          "textAr": "علاج جذور فوري"
+        },
+        {
+          "id": "d",
+          "textEn": "Prophylactic extraction",
+          "textAr": "خلع وقائي"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Non-cavitated lesions possess an intact surface zone and must be managed conservatively with remineralization (fluoride, CPP-ACP) rather than surgical cutting.",
+      "explanationAr": "أي تسوس غير متكهف (White spot) علاجه غير جراحي بإعادة التمعدن بالفلورايد، وممنوع حفر السن إطلاقاً إلا بعد التكهف الحقيقي.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-car-04-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-04",
+      "textEn": "Which clinical condition places a patient into the 'Extreme Caries Risk' category under CAMBRA?",
+      "textAr": "أي حالة سريرية تضع المريض في فئة 'الخطورة القصوى للتسوس' (Extreme Risk) في بروتوكول كامبرا؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "High caries activity combined with severe hyposalivation / xerostomia",
+          "textAr": "نشاط تسوس مرتفع مصحوب بجفاف فم شديد ونقص إفراز اللعاب"
+        },
+        {
+          "id": "b",
+          "textEn": "Presence of a single occlusal fissure sealant",
+          "textAr": "وجود ساد شقوق وحيد"
+        },
+        {
+          "id": "c",
+          "textEn": "Drinking fluoridated community water",
+          "textAr": "شرب مياه مفلورة"
+        },
+        {
+          "id": "d",
+          "textEn": "Age above 60 years with intact dentition",
+          "textAr": "العمر فوق 60 سنة بأسنان سليمة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Extreme caries risk is defined as high caries indicators plus severe salivary gland hypofunction (hyposalivation/xerostomia).",
+      "explanationAr": "فئة Extreme Risk بتشمل المرضى اللي عندهم تسوسات نشطة مع جفاف فم شديد (Xerostomia) ناتج عن أدوية أو إشعاع.",
+      "difficulty": "medium"
+    }
+  ]
+}

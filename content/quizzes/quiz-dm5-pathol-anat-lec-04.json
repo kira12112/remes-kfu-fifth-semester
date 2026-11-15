@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-anat-lec-04",
+  "subjectId": "dm5-pathol-anat",
+  "lectureId": "dm5-pathol-anat-lec-04",
+  "titleEn": "Quiz: Atherosclerosis and Infective Endocarditis",
+  "titleAr": "كويز: تصلب الشرايين والتهاب شغاف القلب العدوائي في طب الأسنان",
+  "description": "Dedicated practice and assessment quiz for 'Cardiovascular Pathology: Atherosclerosis and Infective Endocarditis'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-anat-04-1",
+      "subjectId": "dm5-pathol-anat",
+      "lectureId": "dm5-pathol-anat-lec-04",
+      "textEn": "Why is antibiotic prophylaxis indicated prior to invasive dental procedures involving gingival manipulation in patients with prosthetic cardiac valves?",
+      "textAr": "لماذا يوصى بالوقاية بالمضادات الحيوية قبل إجراءات الأسنان الغازية للثة عند المرضى الذين يملكون صمامات قلب صناعية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "To prevent transient viridans streptococci bacteremia from colonizing prosthetic valve surfaces and causing fatal Infective Endocarditis",
+          "textAr": "لمنع بكتيريا الفم العقدية (Viridans streptococci) العابرة في الدم من الالتصاق بالصمام الصناعي وإحداث التهاب شغاف مميت"
+        },
+        {
+          "id": "b",
+          "textEn": "To prevent tooth discoloration after scaling",
+          "textAr": "لمنع تصبغ الأسنان بعد التقليح"
+        },
+        {
+          "id": "c",
+          "textEn": "To cure preexisting viral myocarditis",
+          "textAr": "لعلاج التهاب عضلة القلب الفيروسي"
+        },
+        {
+          "id": "d",
+          "textEn": "To lower systemic blood pressure during surgery",
+          "textAr": "لخفض ضغط الدم أثناء العملية"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Invasive dental instrumentation causes transient bacteremia (predominantly Streptococcus viridans), which readily seeds artificial valves or damaged endocardium, forming destructive vegetative lesions.",
+      "explanationAr": "بصي يا ريهام، أثناء خلع الأسنان أو تنظيف الجير، بكتيريا الفم (Viridans streptococci) بتدخل مجرى الدم، ولو المريض مركب صمام قلب صناعي، البكتيريا دي هتلزق فيه وتعمل Infective Endocarditis خطيرة جداً، عشان كده بنديله مضاد حيوي وقائي (Amoxicillin 2g) قبل الشغل بساعة.",
+      "difficulty": "easy"
+    }
+  ]
+}

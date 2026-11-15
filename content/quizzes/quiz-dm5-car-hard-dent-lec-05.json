@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-05",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-05",
+  "titleEn": "Quiz: Restoration of Teeth: Adhesive Systems and Composites",
+  "titleAr": "كويز: ترميم الأسنان: أنظمة اللصق والمواد المركبة (الكومبوزيت)",
+  "description": "Dedicated practice and assessment quiz for 'Restoration of Teeth: Adhesive Systems and Composites'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-05-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-05",
+      "textEn": "What is the critical clinical risk of aggressively air-desiccating acid-etched dentin during total-etch bonding?",
+      "textAr": "ما هو الخطر السريري الأكبر للتجفيف الهوائي العنيف للعاج بعد التخريش الحمضي؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Collagen fibril collapse preventing resin monomer penetration and causing severe postoperative sensitivity",
+          "textAr": "انهيار شبكة ألياف الكولاجين وفشل تغلغل المونومر مما يسبب حساسية شديدة بعد الحشو"
+        },
+        {
+          "id": "b",
+          "textEn": "Accelerated bonding polymerization",
+          "textAr": "تسريع بلمرة البوند"
+        },
+        {
+          "id": "c",
+          "textEn": "Complete dissolution of pulpal tissues",
+          "textAr": "ذوبان كامل للب"
+        },
+        {
+          "id": "d",
+          "textEn": "Inability to etch enamel",
+          "textAr": "فشل تخريش الميناء"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Air-desiccating etched dentin causes exposed collagen fibrils to collapse into an impermeable barrier, obstructing hybrid layer formation and causing severe pain.",
+      "explanationAr": "التجفيف الشديد بيعمل Collagen Collapse فتلتصق الألياف ببعضها وتمنع تكوين الـ Hybrid Layer وتسبب حساسية فظيعة للمريض.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q-car-05-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-05",
+      "textEn": "The zone where resin adhesive monomers interlock with exposed demineralized collagen fibrils in dentin is known as the:",
+      "textAr": "المنطقة التي تتداخل فيها مونومرات الراتنج مع ألياف الكولاجين المكشوفة في العاج تسمى:",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Smear Layer",
+          "textAr": "طبقة اللطاخة (Smear Layer)"
+        },
+        {
+          "id": "b",
+          "textEn": "Hybrid Layer",
+          "textAr": "الطبقة الهجينة (Hybrid Layer)"
+        },
+        {
+          "id": "c",
+          "textEn": "Secondary Dentin",
+          "textAr": "العاج الثانوي"
+        },
+        {
+          "id": "d",
+          "textEn": "Pulp horn",
+          "textAr": "قرن اللب"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "The Hybrid Layer (Nakabayashi, 1982) is the interlocked micromechanical zone of resin and demineralized collagen matrix providing primary dentin bond strength.",
+      "explanationAr": "الـ Hybrid Layer هي سر قوة التصاق الكومبوزيت بالعاج ومنع التسريب المجهري والحساسية.",
+      "difficulty": "easy"
+    }
+  ]
+}

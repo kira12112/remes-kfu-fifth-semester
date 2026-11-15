@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-prac-02",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-prac-02",
+  "titleEn": "Quiz: Prescription Writing and Dose Calculation",
+  "titleAr": "كويز عملي: كتابة الوصفة الطبية وحساب الجرعات الدوائية",
+  "description": "Dedicated practice and assessment quiz for 'Practical 2: Prescription Writing and Dose Calculation in Dentistry'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-p2-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-prac-02",
+      "textEn": "What does the Latin abbreviation 'q8h' (or 'q.8.h.') on a dental prescription signify to the pharmacist and patient?",
+      "textAr": "ماذا يعني الاختصار اللاتيني 'q8h' المكتوب على تذكرة وصف الدواء في طب الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Every 8 hours (quaque 8 hora)",
+          "textAr": "كل 8 ساعات (quaqua 8 hora)"
+        },
+        {
+          "id": "b",
+          "textEn": "Take 8 tablets once daily",
+          "textAr": "تناول 8 أقراص دفعة واحدة يومياً"
+        },
+        {
+          "id": "c",
+          "textEn": "Before eating for 8 days",
+          "textAr": "قبل الأكل لمدة 8 أيام"
+        },
+        {
+          "id": "d",
+          "textEn": "Dissolve in 8 ounces of water",
+          "textAr": "أذب في 8 أونصات ماء"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "'q8h' stands for quaque 8 hora, directing that the medication be administered every 8 hours around the clock.",
+      "explanationAr": "بصي يا ريهام، الرموز اللاتينية في الروشتات لازم تحفظيها زي اسمك: q8h يعني كل 8 ساعات، bid يعني مرتين يومياً، tid يعني ثلاث مرات يومياً، و qid يعني أربع مرات.",
+      "difficulty": "easy"
+    }
+  ]
+}

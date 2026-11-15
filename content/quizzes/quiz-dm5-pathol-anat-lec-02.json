@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-anat-lec-02",
+  "subjectId": "dm5-pathol-anat",
+  "lectureId": "dm5-pathol-anat-lec-02",
+  "titleEn": "Quiz: Diabetes Mellitus and Metabolic Pathology",
+  "titleAr": "كويز: اضطرابات استقلاب السكريات والداء السكري ومضاعفاته الفموية",
+  "description": "Dedicated practice and assessment quiz for 'Carbohydrate Metabolism Disorders & Diabetes Mellitus'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-anat-02-1",
+      "subjectId": "dm5-pathol-anat",
+      "lectureId": "dm5-pathol-anat-lec-02",
+      "textEn": "What is the primary histological vascular hallmark responsible for impaired wound healing and severe periodontitis in poorly controlled diabetic patients?",
+      "textAr": "ما هي السمة النسيجية الوعائية الأساسية المسؤولة عن تأخر التئام الجروح والتهاب اللثة التخريبي عند مرضى السكري غير المنتظم؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Microangiopathy with diffuse thickening of the capillary basement membrane and advanced glycation end-products (AGEs)",
+          "textAr": "اعتلال الأوعية الدقيقة (Microangiopathy) وسماكة الغشاء القاعدي للشعيرات وتراكم نواتج السكر المتقدمة (AGEs)"
+        },
+        {
+          "id": "b",
+          "textEn": "Complete obliteration of major carotid arteries only",
+          "textAr": "انسداد كامل في الشرايين السباتية الكبيرة فقط"
+        },
+        {
+          "id": "c",
+          "textEn": "Generalized telangiectasia of salivary ducts",
+          "textAr": "توسع شعري معمم في القنوات اللعابية"
+        },
+        {
+          "id": "d",
+          "textEn": "Absence of endothelial cells in gingival capillaries",
+          "textAr": "غياب الخلايا البطانية في شعيرات اللثة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Diabetic microangiopathy causes hyaline thickening of capillary basement membranes, impeding nutrient delivery, leukocyte migration, and collagen remodeling, leading to chronic periodontal breakdown.",
+      "explanationAr": "بصي يا ريهام، السكر العالي بيعمل سمك في جدار الشعيرات الدموية (Microangiopathy) وتراكم AGEs، فكرات الدم البيضاء والأكسجين ميعرفوش يوصلوا للثة، عشان كده أي جرح أو خلع بيتأخر التئامه جداً واللثة بتدمر بسهولة.",
+      "difficulty": "medium"
+    }
+  ]
+}

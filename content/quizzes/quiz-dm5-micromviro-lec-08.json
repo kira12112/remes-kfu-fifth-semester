@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-08",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-08",
+  "titleEn": "Quiz: Medical Mycology & Oral Candidiasis",
+  "titleAr": "كويز: الفطريات الطبية والمبيضات الفموية ومضادات الفطريات",
+  "description": "Dedicated practice and assessment quiz for 'Medical Mycology: Oral Candidiasis and Antifungal Therapy'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-08-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-08",
+      "textEn": "What clinical diagnostic feature distinguishes Pseudomembranous Candidiasis (Oral Thrush) from other white keratotic oral lesions such as leukoplakia?",
+      "textAr": "ما هي الميزة التشخيصية السريرية التي تفرق داء المبيضات الغشائي الكاذب (السلاق الفموي Thrush) عن الآفات البيضاء الأخرى مثل الطلاوة (Leukoplakia)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "The white pseudomembranous plaques can be easily wiped or scraped off with gauze, leaving an erythematous, bleeding base",
+          "textAr": "يمكن كشط ومسح الأغشية البيضاء بسهولة بقطعة شاش، تاركة وراءها سطحاً أحمر نازفاً"
+        },
+        {
+          "id": "b",
+          "textEn": "It only occurs in patients older than 90 years",
+          "textAr": "تحدث فقط عند المرضى فوق سن التسعين"
+        },
+        {
+          "id": "c",
+          "textEn": "It is completely non-responsive to topical nystatin",
+          "textAr": "لا تستجيب إطلاقاً للنيستاتين الموضعي"
+        },
+        {
+          "id": "d",
+          "textEn": "It calcifies rapidly into salivary calculus",
+          "textAr": "تتكلس سريعاً إلى جير لعابي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Unlike leukoplakia or lichen planus, oral thrush consists of fungal hyphae and epithelial desquamation that can be wiped away with gauze, revealing a raw, bleeding submucosal base.",
+      "explanationAr": "بصي يا ريهام، السلاق الفموي (Thrush) بيميزه شاش قطن: لو مسحتي البقع البيضاء هتطلع معاكي في الشاش وتسيب مكانها أرضية حمراء مدممة، عكس الـ Leukoplakia اللي بتكون ثابتة ومبتتمسحش أبداً.",
+      "difficulty": "easy"
+    }
+  ]
+}

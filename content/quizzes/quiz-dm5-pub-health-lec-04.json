@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pub-health-lec-04",
+  "subjectId": "dm5-pub-health",
+  "lectureId": "dm5-pub-health-lec-04",
+  "titleEn": "Quiz: Epidemiology and Morbidity Measures",
+  "titleAr": "كويز: علم الأوبئة ومقاييس المراضة (الحدوث والانتشار ودراسات الحالات)",
+  "description": "Dedicated practice and assessment quiz for 'Health Determinants, Epidemiology, and Morbidity Measures'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pub-04-1",
+      "subjectId": "dm5-pub-health",
+      "lectureId": "dm5-pub-health-lec-04",
+      "textEn": "What is the key epidemiological distinction between 'Incidence' and 'Prevalence'?",
+      "textAr": "ما هو الفارق الوبائي الجوهري بين 'معدل الوقوع / الحدوث' (Incidence) و 'معدل الانتشار' (Prevalence)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Incidence measures only newly diagnosed cases over a specified time period, whereas Prevalence measures all existing (both old and new) cases at a specific point in time",
+          "textAr": "الوقوع (Incidence) يقيس فقط الحالات الجديدة المكتشفة خلال فترة زمنية محددة، بينما الانتشار (Prevalence) يقيس كل الحالات القائمة (القديمة والجديدة معاً) في نقطة زمنية معينة"
+        },
+        {
+          "id": "b",
+          "textEn": "Incidence is used only for fatal diseases, prevalence for cured cases",
+          "textAr": "الوقوع للأمراض المميتة والانتشار للمتعافين"
+        },
+        {
+          "id": "c",
+          "textEn": "Incidence equals prevalence multiplied by population size",
+          "textAr": "الوقوع يساوي الانتشار مضروباً بعدد السكان"
+        },
+        {
+          "id": "d",
+          "textEn": "There is no scientific difference between the two terms",
+          "textAr": "لا يوجد فرق علمي بين المصطلحين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Incidence reflects the rate of new events/cases arising in a population at risk over time, while prevalence captures the total pool of existing cases at a snapshot in time.",
+      "explanationAr": "بصي يا ريهام، تشبيه الحوض الشهير في الوبائيات: الـ Incidence هو المية الجديدة اللي بتنزل من الحنفية (الحالات الجديدة في فترة معينة)، والـ Prevalence هو كمية المية المتجمعة جوة الحوض في اللحظة دي (كل الحالات القديمة والجديدة مع بعض).",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -53,6 +53,19 @@ const subjectCurricula: Record<
     ],
     quizzes: [
       { id: 'quiz-car-hard-dent-01', titleEn: 'Comprehensive Cariology & Cavity Preparation Question Bank', count: 8, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-01', titleEn: 'Quiz: Cariology Diagnosis & Assessment', count: 3, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-02', titleEn: 'Quiz: Etiology and Pathogenesis of Dental Caries', count: 3, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-03', titleEn: 'Quiz: Prevention of Dental Caries: Fluoride and Sealants', count: 2, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-04', titleEn: 'Quiz: Caries Risk Assessment and Management (CAMBRA)', count: 2, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-05', titleEn: 'Quiz: Restoration of Teeth: Adhesive Systems and Composites', count: 2, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-06', titleEn: 'Quiz: Complications and Failures in Restorative Treatment', count: 2, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-07', titleEn: 'Quiz: Non-Carious Cervical Lesions & Hard Tissue Defects', count: 2, available: true },
+      { id: 'quiz-dm5-car-hard-dent-lec-08', titleEn: 'Quiz: Teeth Whitening and Bleaching Protocols', count: 2, available: true },
+      { id: 'quiz-dm5-car-hard-dent-prac-01', titleEn: 'Quiz: Class I Cavity Preparation Principles', count: 1, available: true },
+      { id: 'quiz-dm5-car-hard-dent-prac-02', titleEn: 'Quiz: Class II Cavity Preparation & Proximal Box', count: 1, available: true },
+      { id: 'quiz-dm5-car-hard-dent-prac-03', titleEn: 'Quiz: Class III Cavity Preparation', count: 1, available: true },
+      { id: 'quiz-dm5-car-hard-dent-prac-04', titleEn: 'Quiz: Class IV Cavity Preparation & Beveling', count: 1, available: true },
+      { id: 'quiz-dm5-car-hard-dent-prac-05', titleEn: 'Quiz: Class V Cavity Preparation', count: 1, available: true },
     ],
   },
   'dm5-micromviro': {
@@ -69,6 +82,14 @@ const subjectCurricula: Record<
     practical: [
     ],
     quizzes: [
+      { id: 'quiz-dm5-micromviro-lec-01', titleEn: 'Quiz: Sanitary Microbiology and Sterilization', count: 2, available: true },
+      { id: 'quiz-dm5-micromviro-lec-02', titleEn: 'Quiz: Gram-Positive Cocci in Dentistry', count: 2, available: true },
+      { id: 'quiz-dm5-micromviro-lec-03', titleEn: 'Quiz: Gram-Negative Cocci & Spore-Forming Bacilli', count: 1, available: true },
+      { id: 'quiz-dm5-micromviro-lec-04', titleEn: 'Quiz: Gram-Negative Bacilli & Dental Unit Waterlines', count: 1, available: true },
+      { id: 'quiz-dm5-micromviro-lec-05', titleEn: 'Quiz: Mycobacterium tuberculosis & Dental Aerosols', count: 1, available: true },
+      { id: 'quiz-dm5-micromviro-lec-06', titleEn: 'Quiz: Oral Microbiome & Periodontal Pathogens', count: 1, available: true },
+      { id: 'quiz-dm5-micromviro-lec-07', titleEn: 'Quiz: Virology in Dentistry: Herpes, Hepatitis, HIV', count: 1, available: true },
+      { id: 'quiz-dm5-micromviro-lec-08', titleEn: 'Quiz: Medical Mycology & Oral Candidiasis', count: 1, available: true },
       { id: 'quiz-micromviro-01', titleEn: 'Microbiology & Virology High-Yield Question Bank', count: 3, available: true },
     ],
   },
@@ -84,6 +105,12 @@ const subjectCurricula: Record<
     practical: [
     ],
     quizzes: [
+      { id: 'quiz-dm5-pathol-anat-lec-01', titleEn: 'Quiz: Autoimmune Diseases and Hypersensitivity', count: 2, available: true },
+      { id: 'quiz-dm5-pathol-anat-lec-02', titleEn: 'Quiz: Diabetes Mellitus and Metabolic Pathology', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-anat-lec-03', titleEn: 'Quiz: Pathology of Acid-Base and Fluid Homeostasis', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-anat-lec-04', titleEn: 'Quiz: Atherosclerosis and Infective Endocarditis', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-anat-lec-05', titleEn: 'Quiz: Gastrointestinal Pathology & Oral Manifestations', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-anat-lec-06', titleEn: 'Quiz: Thermal Disorders, Fever, and Pulmonary Pathology', count: 1, available: true },
       { id: 'quiz-pathol-anat-01', titleEn: 'Pathological Anatomy High-Yield Question Bank', count: 2, available: true },
     ],
   },
@@ -101,6 +128,14 @@ const subjectCurricula: Record<
     practical: [
     ],
     quizzes: [
+      { id: 'quiz-dm5-pathol-phys-lec-01', titleEn: 'Quiz: General Nosology, Etiology, and Pathogenesis', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-phys-lec-02', titleEn: 'Quiz: Cellular Adaptation: Hypertrophy, Hyperplasia, Metaplasia', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-phys-lec-03', titleEn: 'Quiz: Cell Injury, Necrosis, and Apoptosis', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-phys-lec-04', titleEn: 'Quiz: Acute and Chronic Inflammation Mechanisms', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-phys-lec-05', titleEn: 'Quiz: Intracellular Accumulations & Pathological Calcification', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-phys-lec-06', titleEn: 'Quiz: Tissue Repair, Regeneration, and Wound Healing', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-phys-lec-07', titleEn: 'Quiz: Circulatory Disturbances: Thrombosis and Shock', count: 1, available: true },
+      { id: 'quiz-dm5-pathol-phys-lec-08', titleEn: 'Quiz: Neoplasia & Biology of Oral Squamous Cell Carcinoma', count: 1, available: true },
       { id: 'quiz-pathol-phys-01', titleEn: 'Pathological Physiology Comprehensive Question Bank', count: 3, available: true },
     ],
   },
@@ -120,6 +155,16 @@ const subjectCurricula: Record<
       { id: 'dm5-pharm-prac-04', titleEn: 'Practical 4: Medical Emergencies in the Dental Chair and Emergency Drug Kit', titleAr: 'العملي ٤: تدبير طوارئ عيادة الأسنان وصيدلية الإسعاف الأولي', available: true },
     ],
     quizzes: [
+      { id: 'quiz-dm5-pharm-lec-01', titleEn: 'Quiz: Drug Nomenclature and Pharmacokinetics', count: 2, available: true },
+      { id: 'quiz-dm5-pharm-lec-02', titleEn: 'Quiz: Cholinergic Agonists and Antagonists', count: 2, available: true },
+      { id: 'quiz-dm5-pharm-lec-03', titleEn: 'Quiz: Sympathomimetics and Adrenergic Blockers', count: 2, available: true },
+      { id: 'quiz-dm5-pharm-lec-04', titleEn: 'Quiz: Autacoids and Chemical Mediators', count: 2, available: true },
+      { id: 'quiz-dm5-pharm-lec-05', titleEn: 'Quiz: CNS Analgesics, Opioids, and NSAIDs', count: 2, available: true },
+      { id: 'quiz-dm5-pharm-lec-06', titleEn: 'Quiz: Cardiovascular Pharmacology and Dental Management', count: 2, available: true },
+      { id: 'quiz-dm5-pharm-prac-01', titleEn: 'Quiz: Pharmaceutical Dosage Forms and Routes', count: 1, available: true },
+      { id: 'quiz-dm5-pharm-prac-02', titleEn: 'Quiz: Prescription Writing and Dose Calculation', count: 1, available: true },
+      { id: 'quiz-dm5-pharm-prac-03', titleEn: 'Quiz: Dental Local Anesthetic Formulations and Calculations', count: 1, available: true },
+      { id: 'quiz-dm5-pharm-prac-04', titleEn: 'Quiz: Medical Emergencies & Emergency Drug Kit', count: 1, available: true },
       { id: 'quiz-pharm-01', titleEn: 'Comprehensive Dental Pharmacology Question Bank', count: 8, available: true },
       { id: 'quiz-pharm-basics-01', titleEn: 'Basic Pharmacology — Sample Quiz', count: 5, available: true },
     ],
@@ -136,6 +181,12 @@ const subjectCurricula: Record<
     practical: [
     ],
     quizzes: [
+      { id: 'quiz-dm5-propaed-int-med-lec-01', titleEn: 'Quiz: The Medical History and Art of Questioning', count: 1, available: true },
+      { id: 'quiz-dm5-propaed-int-med-lec-02', titleEn: 'Quiz: General Examination & Head/Neck Lymph Nodes', count: 1, available: true },
+      { id: 'quiz-dm5-propaed-int-med-lec-03', titleEn: 'Quiz: Examination of the Respiratory System', count: 1, available: true },
+      { id: 'quiz-dm5-propaed-int-med-lec-04', titleEn: 'Quiz: Examination of the Cardiovascular System', count: 1, available: true },
+      { id: 'quiz-dm5-propaed-int-med-lec-05', titleEn: 'Quiz: Abdominal and Digestive Examination in Dentistry', count: 1, available: true },
+      { id: 'quiz-dm5-propaed-int-med-lec-06', titleEn: 'Quiz: Clinical Lab Diagnostics & Electrocardiography (ECG)', count: 1, available: true },
       { id: 'quiz-propaed-int-med-01', titleEn: 'Propaedeutics Clinical Examination Question Bank', count: 2, available: true },
     ],
   },
@@ -151,6 +202,12 @@ const subjectCurricula: Record<
     practical: [
     ],
     quizzes: [
+      { id: 'quiz-dm5-pub-health-lec-01', titleEn: 'Quiz: Concepts and Principles of Public Health', count: 1, available: true },
+      { id: 'quiz-dm5-pub-health-lec-02', titleEn: 'Quiz: Statistical Methods and Health Data Analysis', count: 1, available: true },
+      { id: 'quiz-dm5-pub-health-lec-03', titleEn: 'Quiz: Demography and Health Indices (DMFT)', count: 1, available: true },
+      { id: 'quiz-dm5-pub-health-lec-04', titleEn: 'Quiz: Epidemiology and Morbidity Measures', count: 1, available: true },
+      { id: 'quiz-dm5-pub-health-lec-05', titleEn: 'Quiz: Healthcare Systems and Primary Health Care', count: 1, available: true },
+      { id: 'quiz-dm5-pub-health-lec-06', titleEn: 'Quiz: Health Economics and Disease Screening Strategies', count: 1, available: true },
       { id: 'quiz-pub-health-01', titleEn: 'Public Health & Epidemiology Comprehensive Question Bank', count: 2, available: true },
     ],
   },
@@ -165,6 +222,11 @@ const subjectCurricula: Record<
     practical: [
     ],
     quizzes: [
+      { id: 'quiz-dm5-res-meth-bio-med-lec-01', titleEn: 'Quiz: Scientific Principles & Laboratory Animal Models', count: 1, available: true },
+      { id: 'quiz-dm5-res-meth-bio-med-lec-02', titleEn: 'Quiz: Stem Cells and Regenerative Dental Medicine', count: 1, available: true },
+      { id: 'quiz-dm5-res-meth-bio-med-lec-03', titleEn: 'Quiz: Critical Appraisal of Medical Evidence', count: 1, available: true },
+      { id: 'quiz-dm5-res-meth-bio-med-lec-04', titleEn: 'Quiz: Morphometry and Quantitative Stereology', count: 1, available: true },
+      { id: 'quiz-dm5-res-meth-bio-med-lec-05', titleEn: 'Quiz: Electrophysiological Diagnostic Methods (EMG & Nerve Conduction)', count: 1, available: true },
       { id: 'quiz-res-meth-bio-med-01', titleEn: 'Research Methods & Evidence-Based Dentistry Question Bank', count: 2, available: true },
     ],
   },

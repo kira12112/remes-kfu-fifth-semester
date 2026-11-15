@@ -34,3 +34,4 @@ design-references/*.pdf
 # Local Python generator & audit scripts
 *.py
 generated_curricula.ts
+__pycache__/

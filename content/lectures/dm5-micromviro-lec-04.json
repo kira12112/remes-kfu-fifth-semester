@@ -44,5 +44,6 @@
   "keyPoints": [
     "Pseudomonas aeruginosa produces pyocyanin and thrives in moist biofilms.",
     "CDC mandates dental unit waterline output must contain < 500 CFU/mL of bacteria."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-micromviro-lec-04"
 }

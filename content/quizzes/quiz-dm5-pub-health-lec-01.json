@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pub-health-lec-01",
+  "subjectId": "dm5-pub-health",
+  "lectureId": "dm5-pub-health-lec-01",
+  "titleEn": "Quiz: Concepts and Principles of Public Health",
+  "titleAr": "كويز: مفاهيم ومبادئ الصحة العامة ومستويات الوقاية",
+  "description": "Dedicated practice and assessment quiz for 'Concepts and Principles of Public Health and Practice'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pub-01-1",
+      "subjectId": "dm5-pub-health",
+      "lectureId": "dm5-pub-health-lec-01",
+      "textEn": "Community water fluoridation and the application of pit-and-fissure sealants on sound posterior teeth are classical examples of which level of prevention?",
+      "textAr": "تفلور مياه الشرب المجتمعي وتطبيق السادات الميزابية (Sealants) على الأسنان السليمة هي أمثلة نموذجية على أي مستوى من مستويات الوقاية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Primary Prevention",
+          "textAr": "الوقاية الأولية (Primary Prevention)"
+        },
+        {
+          "id": "b",
+          "textEn": "Secondary Prevention",
+          "textAr": "الوقاية الثانوية"
+        },
+        {
+          "id": "c",
+          "textEn": "Tertiary Prevention",
+          "textAr": "الوقاية الثالثية"
+        },
+        {
+          "id": "d",
+          "textEn": "Quaternary Prevention",
+          "textAr": "الوقاية الرابعة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Primary prevention aims to intervene before health effects occur, through measures like vaccination, fluoridation, and fissure sealants that prevent disease onset in healthy populations.",
+      "explanationAr": "بصي يا ريهام، مستويات الوقاية دي من أهم أساسيات الصحة العامة: الوقاية الأولية (Primary) بنمنع المرض قبل ما يحصل أصلاً زي الفلورايد والتطعيمات والـ Fissure sealants، أما الثانوية (Secondary) فاكتشاف مبكر زي أشعة الـ Bitewing، والثالثية (Tertiary) علاج وترميم لمنع تفاقم العاهة.",
+      "difficulty": "easy"
+    }
+  ]
+}

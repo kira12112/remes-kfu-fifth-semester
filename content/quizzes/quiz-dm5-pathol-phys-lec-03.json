@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-03",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-03",
+  "titleEn": "Quiz: Cell Injury, Necrosis, and Apoptosis",
+  "titleAr": "كويز: أذية الخلية والموت الخلوي (التنخر والتنكس والموت المبرمج)",
+  "description": "Dedicated practice and assessment quiz for 'Cell Injury: Reversible Damage, Necrosis, and Apoptosis'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-03-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-03",
+      "textEn": "Which pattern of tissue necrosis is classically observed in hypoxic ischemic infarction of the brain and in acute bacterial abscesses containing polymorphonuclear pus?",
+      "textAr": "ما هو نمط التنخر النسيجي الذي يشاهد نموذجياً في الاحتشاء الدماغي الإقفاري وفي الخراجات البكتيرية الحادة المليئة بالصديد؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Liquefactive Necrosis",
+          "textAr": "التنخر التميعي (Liquefactive Necrosis)"
+        },
+        {
+          "id": "b",
+          "textEn": "Coagulative necrosis",
+          "textAr": "التنخر التخثري"
+        },
+        {
+          "id": "c",
+          "textEn": "Caseous necrosis",
+          "textAr": "التنخر الجبني"
+        },
+        {
+          "id": "d",
+          "textEn": "Fat necrosis",
+          "textAr": "التنخر الشحمي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Liquefactive necrosis occurs when enzymatic digestion transforms dead tissue into a viscous liquid mass, characteristic of CNS ischemic necrosis and pyogenic dental abscesses.",
+      "explanationAr": "بصي يا ريهام، الـ Liquefactive necrosis بيحصل في مكانين مهمين جداً في الامتحانات: في المخ (Brain infarct) وفي الخراج الصديدي (Abscess) لأن الإنزيمات بتهضم الأنسجة تماماً وتحولها لسائل وصديد.",
+      "difficulty": "medium"
+    }
+  ]
+}

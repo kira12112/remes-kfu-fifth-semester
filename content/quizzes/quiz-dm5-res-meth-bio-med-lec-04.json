@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-res-meth-bio-med-lec-04",
+  "subjectId": "dm5-res-meth-bio-med",
+  "lectureId": "dm5-res-meth-bio-med-lec-04",
+  "titleEn": "Quiz: Morphometry and Quantitative Stereology",
+  "titleAr": "كويز: قياس الأبعاد المجهري والستيريولوجيا الكمية في بحوث الأنسجة",
+  "description": "Dedicated practice and assessment quiz for 'Morphometry and Quantitative Stereology in Histological Research'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-res-04-1",
+      "subjectId": "dm5-res-meth-bio-med",
+      "lectureId": "dm5-res-meth-bio-med-lec-04",
+      "textEn": "In histological bone research and dental implant osseointegration studies, what fundamental geometric limitation does Quantitative Stereology solve?",
+      "textAr": "في بحوث العظم النسيجية ودراسات الاندماج العظمي لزرعات الأسنان، ما هو العائق الهندسي الأساسي الذي تحله الستيريولوجيا الكمية (Stereology)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Obtaining unbiased three-dimensional quantitative estimates of volume, surface area, and number from two-dimensional planar histological sections",
+          "textAr": "الحصول على تقديرات كمية ثلاثية الأبعاد (3D) غير متحيزة للحجم ومساحة السطح والعدد من خلال شرائح مجهرية مسطحة ثنائية الأبعاد (2D)"
+        },
+        {
+          "id": "b",
+          "textEn": "Replacing the need for optical microscopes completely",
+          "textAr": "الاستغناء الكامل عن المجاهر الضوئية"
+        },
+        {
+          "id": "c",
+          "textEn": "Changing the chemical color of titanium implants",
+          "textAr": "تغيير لون زرعة التيتانيوم"
+        },
+        {
+          "id": "d",
+          "textEn": "Eliminating the need to fix tissues in formalin",
+          "textAr": "إلغاء الحاجة لتثبيت العينات بالفورمالين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Stereology provides mathematically sound, unbiased sampling tools to extrapolate true 3D spatial properties (like bone-to-implant contact BIC) from 2D section cuts.",
+      "explanationAr": "بصي يا ريهام، الشريحة تحت الميكروسكوب مسطحة 2D، لكن زرعة الأسنان والعظم مجسم 3D في الواقع! علم الـ Stereology بيستخدم معادلات هندسية ذكية تترجم قياسات الشريحة الـ 2D لأرقام دقيقة وحقيقية في الأبعاد الثلاثية 3D بدون أي تحيز.",
+      "difficulty": "hard"
+    }
+  ]
+}

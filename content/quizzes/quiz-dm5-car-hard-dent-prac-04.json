@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-prac-04",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-prac-04",
+  "titleEn": "Quiz: Class IV Cavity Preparation & Beveling",
+  "titleAr": "كويز: تحضير وترميم الصنف الرابع وشطب الحواف المائلة",
+  "description": "Dedicated practice and assessment quiz for 'Practical 4: Class IV Cavity Preparation & Beveling'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-p4-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-prac-04",
+      "textEn": "What angle and width are recommended for the labial enamel bevel in a Class IV anterior restoration?",
+      "textAr": "ما هي الزاوية والعرض الموصى بهما لشطب الميناء المائل (Bevel) في ترميم الصنف الرابع بالأسنان الأمامية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "45-degree angle, 1.5 to 2.0 mm wide",
+          "textAr": "زاوية 45 درجة وبعرض 1.5 إلى 2.0 مم"
+        },
+        {
+          "id": "b",
+          "textEn": "90-degree butt joint",
+          "textAr": "زاوية قائمة 90 درجة"
+        },
+        {
+          "id": "c",
+          "textEn": "10-degree angle, 5 mm wide",
+          "textAr": "زاوية 10 درجات وبعرض 5 مم"
+        },
+        {
+          "id": "d",
+          "textEn": "No bevel is permitted on enamel",
+          "textAr": "ممنوع شطب الميناء"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "A 45-degree bevel of 1.5-2.0 mm exposes end-on enamel prisms for maximum acid etch adhesion and seamlessly masks restorative margins.",
+      "explanationAr": "الشطب المائل بزاوية 45 درجة وعرض 1.5-2 مم بيزود مساحة الالتصاق ويخفي الخط الفاصل بين السن والحشوة تجميلياً.",
+      "difficulty": "medium"
+    }
+  ]
+}

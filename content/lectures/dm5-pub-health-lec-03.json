@@ -44,5 +44,6 @@
   "keyPoints": [
     "IMR = (Deaths of infants < 1 year / Total live births in same year) x 1,000.",
     "IMR is the most sensitive global index of socioeconomic and healthcare conditions."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-pub-health-lec-03"
 }

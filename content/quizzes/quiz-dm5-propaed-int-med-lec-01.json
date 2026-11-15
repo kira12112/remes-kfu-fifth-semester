@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-propaed-int-med-lec-01",
+  "subjectId": "dm5-propaed-int-med",
+  "lectureId": "dm5-propaed-int-med-lec-01",
+  "titleEn": "Quiz: The Medical History and Art of Questioning",
+  "titleAr": "كويز: أخذ القصة السريرية وفن استجواب المريض في طب الأسنان",
+  "description": "Dedicated practice and assessment quiz for 'The Medical History and the Art of Questioning'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-prop-med-01-1",
+      "subjectId": "dm5-propaed-int-med",
+      "lectureId": "dm5-propaed-int-med-lec-01",
+      "textEn": "In clinical medicine, how should the Chief Complaint (CC) always be documented in the dental patient's permanent medical record?",
+      "textAr": "في الممارسة السريرية، كيف يجب توثيق 'الشكوى الرئيسية' (Chief Complaint) في الملف الطبي لمريض الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "In the patient's own exact words in quotation marks, along with the reported duration",
+          "textAr": "بكلمات المريض التعبيرية الحرفية بين علامتي تنصيص مع مدة استمرار الشكوى"
+        },
+        {
+          "id": "b",
+          "textEn": "As a finalized histological Latin diagnosis",
+          "textAr": "كتشخيص نسيجي لاتيني نهائي"
+        },
+        {
+          "id": "c",
+          "textEn": "As the dental clinic fee estimate",
+          "textAr": "كتكلفة علاجية تقديرية"
+        },
+        {
+          "id": "d",
+          "textEn": "Only using radiographic measurements in millimeters",
+          "textAr": "بأبعاد أشعة سينية فقط"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The Chief Complaint represents the subjective reason the patient sought care, recorded verbatim in the patient's own phrasing with duration (e.g., 'severe throbbing toothache on the lower right side for 3 days').",
+      "explanationAr": "بصي يا ريهام، الشكوى الرئيسية (Chief Complaint) قاعدة ذهبية: بتتكتب بلسان المريض نفسه بين أقواس ومدتها، زي: 'أسناني بتوجعني من تحت ومبعرفش أنام بقالي ٣ أيام'، ومينفعش تكتبي مكانها تشخيصك الشخصي.",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-anat-lec-06",
+  "subjectId": "dm5-pathol-anat",
+  "lectureId": "dm5-pathol-anat-lec-06",
+  "titleEn": "Quiz: Thermal Disorders, Fever, and Pulmonary Pathology",
+  "titleAr": "كويز: اضطرابات التنظيم الحراري والحمى وأمراض الرئة",
+  "description": "Dedicated practice and assessment quiz for 'Thermal Metabolism Disorders, Fever, and Pulmonary Pathology'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-anat-06-1",
+      "subjectId": "dm5-pathol-anat",
+      "lectureId": "dm5-pathol-anat-lec-06",
+      "textEn": "Which endogenous pyrogenic cytokines directly trigger the preoptic anterior hypothalamus to elevate the thermoregulatory set-point via PGE2 during a fever?",
+      "textAr": "أي السيتوكينات المولدة للحمى (Endogenous Pyrogens) تحفز تحت المهاد مباشرة لرفع نقطة التوازن الحراري عبر تصنيع PGE2 أثناء الحمى؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Interleukin-1 (IL-1) and Tumor Necrosis Factor-alpha (TNF-alpha)",
+          "textAr": "إنترلوكين-1 (IL-1) وعامل تنخر الورم ألفا (TNF-alpha)"
+        },
+        {
+          "id": "b",
+          "textEn": "Insulin and glucagon",
+          "textAr": "الإنسولين والجلوكاجون"
+        },
+        {
+          "id": "c",
+          "textEn": "Thyroxine (T4) and calcitonin",
+          "textAr": "الثيروكسين والكالسيتونين"
+        },
+        {
+          "id": "d",
+          "textEn": "Erythropoietin and renin",
+          "textAr": "إريثروبويتين ورينين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "IL-1, TNF-alpha, and IL-6 released by activated macrophages stimulate hypothalamic endothelial cells to synthesize Prostaglandin E2 (PGE2), resetting the body thermostat upwards.",
+      "explanationAr": "بصي يا ريهام، لما كرات الدم البيضاء تهاجم الميكروبات، بتفرز IL-1 و TNF-alpha ودول بيوصلوا لمركز الحرارة في المخ (Hypothalamus) ويحفزوا إنتاج PGE2، فترتفع حرارة الجسم (Fever). عشان كده خافض الحرارة زي Paracetamol بيوقف الـ PGE2 فالحرارة تنزل.",
+      "difficulty": "easy"
+    }
+  ]
+}

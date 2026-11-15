@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-prac-02",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-prac-02",
+  "titleEn": "Quiz: Class II Cavity Preparation & Proximal Box",
+  "titleAr": "كويز: تحضير حفر الصنف الثاني والصندوق الملاصق",
+  "description": "Dedicated practice and assessment quiz for 'Practical 2: Class II Cavity Preparation & Proximal Box'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-p2-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-prac-02",
+      "textEn": "What is the mandatory clearance between the proximal box margins and the adjacent tooth in a Class II preparation?",
+      "textAr": "ما هي المسافة الحرة (Clearance) الإلزامية بين حواف الصندوق الملاصق والسن المجاور في الصنف الثاني؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "0.5 mm buccally, lingually, and gingivally",
+          "textAr": "0.5 مم دهليزياً ولسانياً ولثوياً"
+        },
+        {
+          "id": "b",
+          "textEn": "2.0 mm",
+          "textAr": "2.0 مم"
+        },
+        {
+          "id": "c",
+          "textEn": "Zero (contacts must touch)",
+          "textAr": "صفر (ملامسة تامة)"
+        },
+        {
+          "id": "d",
+          "textEn": "4.0 mm",
+          "textAr": "4.0 مم"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "0.5 mm clearance breaks interproximal contact, allowing matrix band placement, finishing, and cleansability.",
+      "explanationAr": "المسافة الحرة القياسية لكسر نقطة التماس هي 0.5 مم من كافة النواحي لتركيب الـ Matrix band.",
+      "difficulty": "medium"
+    }
+  ]
+}

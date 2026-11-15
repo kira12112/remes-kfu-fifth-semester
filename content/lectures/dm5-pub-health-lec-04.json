@@ -45,5 +45,6 @@
     "Incidence = NEW cases / Population at risk per unit time.",
     "Prevalence = ALL existing cases (new + old) / Total population at a point in time.",
     "Prevalence = Incidence x Duration (P = I x D)."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-pub-health-lec-04"
 }

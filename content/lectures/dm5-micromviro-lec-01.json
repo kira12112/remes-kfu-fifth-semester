@@ -44,5 +44,6 @@
   "keyPoints": [
     "Autoclave standard cycle: 121°C at 15 psi for 15-20 minutes.",
     "Geobacillus stearothermophilus is the biological indicator for steam autoclaves."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-micromviro-lec-01"
 }

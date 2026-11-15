@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-propaed-int-med-lec-06",
+  "subjectId": "dm5-propaed-int-med",
+  "lectureId": "dm5-propaed-int-med-lec-06",
+  "titleEn": "Quiz: Clinical Lab Diagnostics & Electrocardiography (ECG)",
+  "titleAr": "كويز: التحاليل المخبرية السريرية وتخطيط كهربائية القلب (ECG)",
+  "description": "Dedicated practice and assessment quiz for 'Clinical Laboratory Diagnostics & Electrocardiography (ECG)'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-prop-med-06-1",
+      "subjectId": "dm5-propaed-int-med",
+      "lectureId": "dm5-propaed-int-med-lec-06",
+      "textEn": "On a standard 12-lead ECG strip, what electrical physiological event in the myocardium is represented by the 'P wave'?",
+      "textAr": "على مخطط رسم القلب القياسي (ECG)، ما هو الحدث الكهربائي الفسيولوجي الذي تمثله 'الموجة P'؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Atrial depolarization",
+          "textAr": "إلغاء استقطاب الأذينين (Atrial Depolarization)"
+        },
+        {
+          "id": "b",
+          "textEn": "Ventricular depolarization",
+          "textAr": "إلغاء استقطاب البطينين"
+        },
+        {
+          "id": "c",
+          "textEn": "Ventricular repolarization",
+          "textAr": "عودة استقطاب البطينين"
+        },
+        {
+          "id": "d",
+          "textEn": "Atrioventricular node refractory period",
+          "textAr": "فترة استعصاء العقدة الأذينية البطينية"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The P wave represents the spread of electrical impulse from the sinoatrial node across both atria (atrial depolarization). The QRS complex represents ventricular depolarization, and the T wave represents ventricular repolarization.",
+      "explanationAr": "بصي يا ريهام، موجات الـ ECG الأساسية: موجة P دي انقباض وكهرباء الأذينين، مركب QRS ده كهرباء البطينين، وموجة T دي فترة استراحة ورجوع استقطاب البطينين.",
+      "difficulty": "easy"
+    }
+  ]
+}

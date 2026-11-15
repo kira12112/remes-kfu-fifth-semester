@@ -44,5 +44,6 @@
   "keyPoints": [
     "Etiology = Cause; Pathogenesis = Mechanism of development; Morphology = Structural alterations.",
     "Symptoms are subjective complaints; Signs are objective clinical findings."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-pathol-phys-lec-01"
 }

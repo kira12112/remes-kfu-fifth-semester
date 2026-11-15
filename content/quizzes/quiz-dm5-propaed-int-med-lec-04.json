@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-propaed-int-med-lec-04",
+  "subjectId": "dm5-propaed-int-med",
+  "lectureId": "dm5-propaed-int-med-lec-04",
+  "titleEn": "Quiz: Examination of the Cardiovascular System",
+  "titleAr": "كويز: فحص جهاز الدوران وأصوات القلب وقياس ضغط الدم",
+  "description": "Dedicated practice and assessment quiz for 'Examination of the Cardiovascular System: Heart Sounds, Murmurs, and Blood Pressure'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-prop-med-04-1",
+      "subjectId": "dm5-propaed-int-med",
+      "lectureId": "dm5-propaed-int-med-lec-04",
+      "textEn": "The first heart sound (S1) is physiologically produced primarily by the abrupt closure of which heart valves?",
+      "textAr": "ينتج صوت القلب الأول (S1) فسيولوجياً بشكل أساسي عن الإغلاق المفاجئ لأي من صمامات القلب؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Mitral and Tricuspid (Atrioventricular) valves",
+          "textAr": "الصمام التاجي وثلاثي الشرف (الصمامات الأذينية البطينية)"
+        },
+        {
+          "id": "b",
+          "textEn": "Aortic and Pulmonic (Semilunar) valves",
+          "textAr": "الصمام الأبهري والرئوي"
+        },
+        {
+          "id": "c",
+          "textEn": "Eustachian valve only",
+          "textAr": "صمام يوستاكيان فقط"
+        },
+        {
+          "id": "d",
+          "textEn": "Coronary sinus opening",
+          "textAr": "فتحة الجيب التاجي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "S1 marks the beginning of ventricular systole and is caused by the sudden closure of the atrioventricular valves (Mitral and Tricuspid), while S2 is produced by semilunar valve closure (Aortic and Pulmonic).",
+      "explanationAr": "بصي يا ريهام، ضربة القلب المشهورة (Lub-Dub): الـ Lub ده الصوت الأول S1 وبيمثل قفلة الصمام الميترالي وثلاثي الشرفات، والـ Dub ده الصوت الثاني S2 وبيمثل قفلة صمامات الأورطي والرئوي.",
+      "difficulty": "easy"
+    }
+  ]
+}

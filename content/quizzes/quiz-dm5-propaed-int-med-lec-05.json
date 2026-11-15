@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-propaed-int-med-lec-05",
+  "subjectId": "dm5-propaed-int-med",
+  "lectureId": "dm5-propaed-int-med-lec-05",
+  "titleEn": "Quiz: Abdominal and Digestive Examination in Dentistry",
+  "titleAr": "كويز: فحص البطن والجهاز الهضمي والعلامات الفموية للقصور الكبدي",
+  "description": "Dedicated practice and assessment quiz for 'Examination of Digestive and Urinary Systems: Abdominal Signs'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-prop-med-05-1",
+      "subjectId": "dm5-propaed-int-med",
+      "lectureId": "dm5-propaed-int-med-lec-05",
+      "textEn": "In a patient with end-stage cirrhosis and liver failure, which life-threatening oral and dental complication must be evaluated before performing extractions?",
+      "textAr": "في مريض مصاب بتشمع وفشل الكبد المتقدم، ما هي المضاعفة الفموية المهددة للحياة التي يجب تقييمها بدقة قبل خلع الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Severe coagulopathy and uncontrollable hemorrhage due to deficiency of liver-synthesized clotting factors (II, VII, IX, X)",
+          "textAr": "اعتلال تخثر ونزيف دموي لا يمكن السيطرة عليه بسبب نقص عوامل التخثر المصنعة في الكبد (عوامل II و VII و IX و X)"
+        },
+        {
+          "id": "b",
+          "textEn": "Accelerated jawbone hyperossification",
+          "textAr": "فرط تكلس عظام الفك سريعاً"
+        },
+        {
+          "id": "c",
+          "textEn": "Immediate loss of sensory taste receptors",
+          "textAr": "فقدان فوري لحليمات التذوق"
+        },
+        {
+          "id": "d",
+          "textEn": "Formation of multiple supernumerary premolars",
+          "textAr": "ظهور أسنان ضاحكة زائدة متعددة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The liver synthesizes all vitamin K-dependent clotting factors (II, VII, IX, X) and fibrinogen. Liver failure produces marked coagulopathy, mandating PT/INR and platelet counts prior to any dental surgery.",
+      "explanationAr": "بصي يا ريهام، الكبد هو المصنع اللي بيصنع عوامل التجلط في الجسم، فمريض تليف أو فشل الكبد لو خلعتي له ضرس من غير ما تعملي له تحليل سيولة (PT and INR) وصفائح دموية، هينزف بشدة ومش هتعرفي توقفي النزيف!",
+      "difficulty": "medium"
+    }
+  ]
+}

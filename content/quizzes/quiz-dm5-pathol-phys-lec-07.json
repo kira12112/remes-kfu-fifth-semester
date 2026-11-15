@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-07",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-07",
+  "titleEn": "Quiz: Circulatory Disturbances: Thrombosis and Shock",
+  "titleAr": "كويز: اضطرابات الدوران (الخثار، الصمة، والصدمة الدورانية)",
+  "description": "Dedicated practice and assessment quiz for 'Circulatory Disturbances: Edema, Hyperemia, Thrombosis, Embolism, and Shock'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-07-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-07",
+      "textEn": "What three interdependent pathophysiological factors constitute 'Virchow's Triad', predisposing to intravascular thrombosis?",
+      "textAr": "ما هي العوامل المرضية الثلاثة المترابطة التي تشكل 'ثالوث فيرشو' (Virchow's Triad) وتؤهب لحدوث الخثار داخل الأوعية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Endothelial injury, Stasis or turbulence of blood flow, and Hypercoagulability",
+          "textAr": "أذية البطانة الوعائية، ركودة أو اضطراب الجريان الدموي، وفرط خثورية الدم"
+        },
+        {
+          "id": "b",
+          "textEn": "Hypertension, hyperglycemia, and hyperlipidemia",
+          "textAr": "ارتفاع ضغط الدم والسكري ودهون الدم"
+        },
+        {
+          "id": "c",
+          "textEn": "Hypothermia, tachycardia, and jaundice",
+          "textAr": "انخفاض الحرارة وتسرع القلب واليرقان"
+        },
+        {
+          "id": "d",
+          "textEn": "Leukocytosis, anemia, and thrombocytopenia",
+          "textAr": "زيادة البيض وفقر الدم ونقص الصفيحات"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Virchow's Triad represents the fundamental pillars of intravascular thrombus generation: endothelial damage, alteration in normal blood flow (stasis/turbulence), and hypercoagulable state of blood.",
+      "explanationAr": "بصي يا ريهام، أي جلطة دموية في الدنيا عشان تتكون محتاجة ثالوث فيرشو (Virchow's Triad): تعويرة في جدار الوعاء (Endothelial injury)، أو دم راكد ومبيتحركش (Stasis)، أو دم لزج بزيادة وقابل للتجلط (Hypercoagulability).",
+      "difficulty": "medium"
+    }
+  ]
+}

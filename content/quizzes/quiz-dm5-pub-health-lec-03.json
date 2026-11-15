@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pub-health-lec-03",
+  "subjectId": "dm5-pub-health",
+  "lectureId": "dm5-pub-health-lec-03",
+  "titleEn": "Quiz: Demography and Health Indices (DMFT)",
+  "titleAr": "كويز: الديموغرافيا والمؤشرات الصحية ومؤشر نخر الأسنان (DMFT)",
+  "description": "Dedicated practice and assessment quiz for 'Demography and Health Measures: Vital Statistics and Indices'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pub-03-1",
+      "subjectId": "dm5-pub-health",
+      "lectureId": "dm5-pub-health-lec-03",
+      "textEn": "In epidemiological dental surveys, what does the internationally standardized DMFT index quantify?",
+      "textAr": "في المسوح الوبائية لصحة الفم والأسنان، ماذا يقيس مؤشر DMFT المعتمد من منظمة الصحة العالمية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "The total number of Decayed, Missing (due to caries), and Filled permanent Teeth in an individual",
+          "textAr": "العدد الإجمالي للأسنان الدائمة المنخورة (Decayed)، والمفقودة بسبب النخر (Missing)، والمحشوة (Filled) عند الفرد"
+        },
+        {
+          "id": "b",
+          "textEn": "The depth of periodontal pockets in millimeters",
+          "textAr": "عمق الجيوب اللثوية بالملليمتر"
+        },
+        {
+          "id": "c",
+          "textEn": "The microscopic density of oral fibroblasts",
+          "textAr": "الكثافة المجهرية للفايبروبلاست"
+        },
+        {
+          "id": "d",
+          "textEn": "Daily dietary sugar intake in grams",
+          "textAr": "كمية السكر المتناولة يومياً بالجرامات"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "DMFT (Decayed, Missing, Filled Teeth) is the global epidemiological indicator assessing lifetime dental caries experience in permanent dentition (dmft in lowercase for primary dentition).",
+      "explanationAr": "بصي يا ريهام، مؤشر الـ DMFT ده العمود الفقري لطب أسنان المجتمع: بنعد فيه الأسنان المسوسة (D)، واللي اتخلعت بسبب التسوس (M)، واللي اتعالجت واتحشت (F)، ولو بحروف صغيرة (dmft) يبقى للأسنان اللبنية عند الأطفال.",
+      "difficulty": "easy"
+    }
+  ]
+}

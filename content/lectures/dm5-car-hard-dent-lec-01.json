@@ -62,12 +62,32 @@
         {
           "type": "table",
           "tableData": {
-            "headers": ["Diagnostic Modality", "Primary Clinical Indication", "Advantages & Limitations"],
+            "headers": [
+              "Diagnostic Modality",
+              "Primary Clinical Indication",
+              "Advantages & Limitations"
+            ],
             "rows": [
-              ["Visual Examination", "Smooth surfaces, Pits & Fissures", "Requires clean, dry tooth; identifies early white spot lesions."],
-              ["Tactile (Blunt probe)", "Checking surface texture & margins", "Must use light pressure to avoid surface damage."],
-              ["Bitewing Radiography", "Proximal (Interproximal) caries", "Gold standard for proximal lesions and monitoring depth."],
-              ["Fiber-optic Transillumination (FOTI)", "Anterior interproximal lesions", "Non-invasive; uses light scatter to reveal shadow of decay."]
+              [
+                "Visual Examination",
+                "Smooth surfaces, Pits & Fissures",
+                "Requires clean, dry tooth; identifies early white spot lesions."
+              ],
+              [
+                "Tactile (Blunt probe)",
+                "Checking surface texture & margins",
+                "Must use light pressure to avoid surface damage."
+              ],
+              [
+                "Bitewing Radiography",
+                "Proximal (Interproximal) caries",
+                "Gold standard for proximal lesions and monitoring depth."
+              ],
+              [
+                "Fiber-optic Transillumination (FOTI)",
+                "Anterior interproximal lesions",
+                "Non-invasive; uses light scatter to reveal shadow of decay."
+              ]
             ]
           }
         }
@@ -112,5 +132,5 @@
     "Bitewing radiographs are indispensable for diagnosing interproximal caries in posterior teeth.",
     "Arrested caries is smooth, hard, and shiny, requiring conservative remineralization and monitoring rather than surgical restoration."
   ],
-  "relatedQuizId": "quiz-car-hard-dent-01"
+  "relatedQuizId": "quiz-dm5-car-hard-dent-lec-01"
 }

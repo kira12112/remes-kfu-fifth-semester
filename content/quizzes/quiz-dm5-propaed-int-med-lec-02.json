@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-propaed-int-med-lec-02",
+  "subjectId": "dm5-propaed-int-med",
+  "lectureId": "dm5-propaed-int-med-lec-02",
+  "titleEn": "Quiz: General Examination & Head/Neck Lymph Nodes",
+  "titleAr": "كويز: الفحص السريري العام وجس العقد اللمفاوية للرأس والعنق",
+  "description": "Dedicated practice and assessment quiz for 'General (External) Examination of the Patient and Head & Neck Lymph Nodes'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-prop-med-02-1",
+      "subjectId": "dm5-propaed-int-med",
+      "lectureId": "dm5-propaed-int-med-lec-02",
+      "textEn": "Upon clinical palpation, which triad of findings strongly suggests metastatic malignant involvement of a cervical lymph node rather than acute reactive infection?",
+      "textAr": "أثناء الجس السريري، أي ثلاثي من العلامات يرجح بقوة إصابة العقدة اللمفاوية العريضة بنقائل ورمية خبيثة وليس التهاباً حاداً؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Hard (stony), fixed to underlying tissues, and painless",
+          "textAr": "صلبة كالحجر (Stony hard)، ملتصقة بالأنسجة العميقة وغير متحركة، وغير مؤلمة"
+        },
+        {
+          "id": "b",
+          "textEn": "Soft, freely mobile, and acutely exquisitely tender",
+          "textAr": "طرية ومتحركة بحرية ومؤلمة جداً باللمس"
+        },
+        {
+          "id": "c",
+          "textEn": "Fluctuant, warm, with active erythema",
+          "textAr": "متموجة ودافئة مع احمرار بالجلد"
+        },
+        {
+          "id": "d",
+          "textEn": "Disappearing completely upon light pressure",
+          "textAr": "تختفي تماماً بالضغط الخفيف"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Malignant lymph nodes are typically stony hard, non-tender, and matted or fixed to underlying fascia/skin due to capsular tumor invasion, whereas inflammatory nodes are soft, tender, and freely mobile.",
+      "explanationAr": "بصي يا ريهام، فحص الغدد اللمفاوية في الرقبة من أهم مهارات طبيب الأسنان: لو لقيتي العقدة حجرية صلبة، ثابتة في مكانها مبتتحركش، والمريض مش حاسس بوجع فيها خالص، دي علامة إنذار لورم خبيث! أما لو طرية وبتوجعه ومتحركة، فده غالباً التهاب صديدي حميد.",
+      "difficulty": "medium"
+    }
+  ]
+}

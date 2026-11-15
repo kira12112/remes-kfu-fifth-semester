@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-04",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-04",
+  "titleEn": "Quiz: Acute and Chronic Inflammation Mechanisms",
+  "titleAr": "كويز: آليات الالتهاب الحاد والمزمن والوسطاء الكيميائيون",
+  "description": "Dedicated practice and assessment quiz for 'Inflammation: Acute & Chronic Mechanisms and Chemical Mediators'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-04-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-04",
+      "textEn": "What are the five cardinal classical signs of acute local inflammation originally described by Celsus and Virchow?",
+      "textAr": "ما هي العلامات الكاردينالية الخمس للالتهاب الموضعي الحاد التي وصفها سيلسوس وفيرشو؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Rubor (redness), Calor (heat), Tumor (swelling), Dolor (pain), and Functio Laesa (loss of function)",
+          "textAr": "الاحمرار (Rubor)، الحرارة (Calor)، التورم (Tumor)، الألم (Dolor)، واضطراب الوظيفة (Functio Laesa)"
+        },
+        {
+          "id": "b",
+          "textEn": "Cyanosis, hypothermia, petechiae, atrophy, and fibrosis",
+          "textAr": "زرقة، انخفاض حرارة، حبرات، ضمور، وتليف"
+        },
+        {
+          "id": "c",
+          "textEn": "Jaundice, pruritus, hematuria, oliguria, and syncope",
+          "textAr": "يرقان، حكة، بيلة دموية، شح بول، وإغماء"
+        },
+        {
+          "id": "d",
+          "textEn": "Paleness, numbness, tingling, calcification, and gangrene",
+          "textAr": "شحوب، خدر، تنميل، تكلس، وغرغرينا"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Rubor, Calor, Tumor, Dolor, and Functio Laesa represent the physiological hallmarks of acute inflammation driven by arteriolar vasodilation, increased microvascular permeability, and nociceptive nerve sensitization.",
+      "explanationAr": "بصي يا ريهام، الخمس علامات الكلاسيكية للالتهاب باللاتيني لازم تحفظيهم عن ظهر قلب: Rubor (احمرار)، Calor (سخونة)، Tumor (ورم)، Dolor (وجع)، و Functio laesa (فقدان الوظيفة).",
+      "difficulty": "easy"
+    }
+  ]
+}

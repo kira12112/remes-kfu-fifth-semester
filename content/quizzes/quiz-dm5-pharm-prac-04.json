@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-prac-04",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-prac-04",
+  "titleEn": "Quiz: Medical Emergencies & Emergency Drug Kit",
+  "titleAr": "كويز عملي: الطوارئ الطبية وصندوق الأدوية الإسعافية في عيادة الأسنان",
+  "description": "Dedicated practice and assessment quiz for 'Practical 4: Medical Emergencies in the Dental Chair and Emergency Drug Kit'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-p4-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-prac-04",
+      "textEn": "When a conscious diabetic patient develops acute hypoglycemic diaphoresis, trembling, and confusion in the dental chair, the immediate first management step is:",
+      "textAr": "عندما تظهر على مريض سكري واعٍ في عيادة الأسنان أعراض هبوط السكر الحاد (تعرق، رجفة، ارتباك)، ما هي الخطوة الإسعافية الأولى فوراً؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Administer 15-20 grams of rapid-acting oral carbohydrates (fruit juice, glucose tablets, or sweetened soda)",
+          "textAr": "إعطاء 15-20 جراماً من الكربوهيدرات الفموية سريعة الامتصاص (عصير فواكه أو أقراص جلوكوز)"
+        },
+        {
+          "id": "b",
+          "textEn": "Inject 10 units of regular insulin subcutaneously",
+          "textAr": "حقن 10 وحدات إنسولين تحت الجلد"
+        },
+        {
+          "id": "c",
+          "textEn": "Place the patient in an upright vertical position and induce vomiting",
+          "textAr": "إجلاس المريض عمودياً وإجباره على التقيؤ"
+        },
+        {
+          "id": "d",
+          "textEn": "Administer 100% nitrous oxide sedation",
+          "textAr": "إعطاء غاز الضحك للتسكين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "According to the 'Rule of 15', a conscious patient in hypoglycemia should receive 15-20g of simple oral sugars immediately, followed by blood glucose re-checking after 15 minutes.",
+      "explanationAr": "بصي يا ريهام، طالما المريض واعي وقادر يبلع وعنده أعراض هبوط سكر، اديله على طول عصير مسكر أو معلقة سكر (Rule of 15)، وإياكي تفكري تديله إنسولين لأنك هتموتيه!",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-08",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-08",
+  "titleEn": "Quiz: Neoplasia & Biology of Oral Squamous Cell Carcinoma",
+  "titleAr": "كويز: التنشؤ والأورام الحبيبة وبيولوجيا سرطان الفم (OSCC)",
+  "description": "Dedicated practice and assessment quiz for 'Neoplasia: Biology of Benign vs Malignant Tumors and Oral Cancer'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-08-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-08",
+      "textEn": "What histological finding unequivocally confirms malignancy rather than a benign epithelial neoplasm?",
+      "textAr": "ما هي الميزة النسيجية التي تؤكد بشكل قاطع الطبيعة الخبيثة للورم بدلاً من كونه ورماً حميداً؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Invasion through the epithelial basement membrane into surrounding stroma and distant metastasis",
+          "textAr": "اختراق الغشاء القاعدي الظهاري والغزو للأنسجة العميقة والانتشار البعيد (Metastasis)"
+        },
+        {
+          "id": "b",
+          "textEn": "Uniform cell size and preserved polarity",
+          "textAr": "حجم خلايا متجانس وقطبية خلوية سليمة"
+        },
+        {
+          "id": "c",
+          "textEn": "Intact fibrous capsule circumscribing the tumor",
+          "textAr": "محفظة ليفية سليمة تحيط بالورم تماماً"
+        },
+        {
+          "id": "d",
+          "textEn": "Low nucleus-to-cytoplasm ratio",
+          "textAr": "نسبة منخفضة بين النواة والسيتوبلازم"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Invasion across the basement membrane and the ability to metastasize to regional lymph nodes and distant organs are the definitive criteria of malignancy.",
+      "explanationAr": "بصي يا ريهام، الفرق القاطع بين الورم الحميد والخبيث: الورم الخبيث بيكسر الـ Basement membrane ويغزو الأنسجة العميقة ويبعت ثانويات (Metastasis) للغدد الليمفاوية وباقي الجسم.",
+      "difficulty": "easy"
+    }
+  ]
+}

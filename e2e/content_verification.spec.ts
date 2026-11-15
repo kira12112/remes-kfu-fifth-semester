@@ -65,4 +65,13 @@ test.describe('Content Implementation Verification', () => {
     await page.fill('input[type="search"]', 'Caries');
     await expect(page.locator('text=Diagnosis for Dental Caries').first()).toBeVisible();
   });
+
+  test('9. Dedicated quiz for lecture opens directly from lecture viewer CTA', async ({ page }) => {
+    await page.goto('/subjects/dm5-car-hard-dent/lectures/dm5-car-hard-dent-lec-01', { waitUntil: 'domcontentloaded' });
+    const quizLink = page.locator('a:has-text("Start Quiz Now")');
+    await expect(quizLink).toBeVisible();
+    await quizLink.click();
+    await expect(page).toHaveURL(/.*\/quiz\/quiz-dm5-car-hard-dent-lec-01/);
+    await expect(page.locator('text=Diagnosis & Assessment').first()).toBeVisible();
+  });
 });

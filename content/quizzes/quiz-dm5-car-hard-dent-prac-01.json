@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-prac-01",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-prac-01",
+  "titleEn": "Quiz: Class I Cavity Preparation Principles",
+  "titleAr": "كويز: مبادئ تحضير حفر الصنف الأول العملية",
+  "description": "Dedicated practice and assessment quiz for 'Practical 1: Class I Cavity Preparation'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-p1-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-prac-01",
+      "textEn": "What is the recommended initial pulpal floor depth for a Class I cavity preparation in molars?",
+      "textAr": "ما هو العمق الموصى به لأرضية اللب (Pulpal floor) في تحضير الصنف الأول في الأرحاء؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "1.5 to 2.0 mm (0.2-0.5 mm beyond the DEJ)",
+          "textAr": "1.5 إلى 2.0 مم (0.2-0.5 مم داخل العاج بعد ملتقى الميناء والعاج)"
+        },
+        {
+          "id": "b",
+          "textEn": "0.5 mm in enamel only",
+          "textAr": "0.5 مم في الميناء فقط"
+        },
+        {
+          "id": "c",
+          "textEn": "4.5 mm into the pulp chamber",
+          "textAr": "4.5 مم داخل حجرة اللب"
+        },
+        {
+          "id": "d",
+          "textEn": "Variable depth with rounded pulpal floor",
+          "textAr": "عمق عشوائي بأرضية محدبة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Ideal initial pulpal depth is 1.5 to 2.0 mm, establishing a flat floor in dentin to provide resistance form against occlusal forces.",
+      "explanationAr": "العمق المثالي في المعمل هو 1.5 لـ 2.0 مم مع أرضية مسطحة تماماً (Flat pulpal floor) لتوزيع قوى المضغ.",
+      "difficulty": "easy"
+    }
+  ]
+}

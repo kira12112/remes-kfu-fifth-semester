@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pub-health-lec-06",
+  "subjectId": "dm5-pub-health",
+  "lectureId": "dm5-pub-health-lec-06",
+  "titleEn": "Quiz: Health Economics and Disease Screening Strategies",
+  "titleAr": "كويز: اقتصاديات الصحة واستراتيجيات المسح والكشف المبكر عن الأمراض",
+  "description": "Dedicated practice and assessment quiz for 'Health Economics, Screening, and Disease Prevention Strategies'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pub-06-1",
+      "subjectId": "dm5-pub-health",
+      "lectureId": "dm5-pub-health-lec-06",
+      "textEn": "In public health screening evaluation, what does the 'Sensitivity' of a diagnostic screening test represent?",
+      "textAr": "في تقييم فحوصات المسح والكشف المبكر بالصحة العامة، ماذا تمثل 'حساسية الفحص' (Sensitivity)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "The ability of the test to correctly identify individuals who truly have the disease (True Positive Rate)",
+          "textAr": "قدرة الفحص على تحديد الأشخاص المصابين بالمرض فعلياً بشكل صحيح (معدل الإيجابية الحقيقية)"
+        },
+        {
+          "id": "b",
+          "textEn": "The ability of the test to identify healthy individuals who do not have the disease",
+          "textAr": "قدرة الفحص على تحديد الأصحاء غير المصابين"
+        },
+        {
+          "id": "c",
+          "textEn": "The economic market price of the testing kit",
+          "textAr": "السعر المادي للتحليل"
+        },
+        {
+          "id": "d",
+          "textEn": "The patient's emotional reaction to positive results",
+          "textAr": "رد فعل المريض النفسي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Sensitivity measures the proportion of actual positives that are correctly detected by the test [TP / (TP + FN)], minimizing missed diagnoses.",
+      "explanationAr": "بصي يا ريهام، احفظي الفرق ده كويس جداً: الـ Sensitivity يعني التحليل شاطر في لقط العيانين (True Positives) وميفوتش حد مريض، أما الـ Specificity فيعني التحليل شاطر في تأكيد إن السليم سليم وميطلعش إيجابي كاذب (True Negatives).",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-lec-01",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-lec-01",
+  "titleEn": "Quiz: Drug Nomenclature and Pharmacokinetics",
+  "titleAr": "كويز: تسمية الأدوية والحرائك الدوائية (ADME)",
+  "description": "Dedicated practice and assessment quiz for 'General Pharmacology: Drug Nomenclature and Pharmacokinetics'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-01-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-01",
+      "textEn": "What is the defining characteristic of drug administration via the intravenous (IV) route regarding bioavailability?",
+      "textAr": "ما هي السمة المميزة لإعطاء الدواء عن طريق الوريد (IV) فيما يتعلق بالتوافر الحيوي (Bioavailability)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "It undergoes extensive first-pass intestinal metabolism",
+          "textAr": "يخضع لأيض معوي واسع عند المرور الأول"
+        },
+        {
+          "id": "b",
+          "textEn": "Bioavailability is exactly 100% because the entire dose enters systemic circulation directly",
+          "textAr": "التوافر الحيوي 100% بالضبط لأن الجرعة بالكامل تدخل الدورة الدموية مباشرة"
+        },
+        {
+          "id": "c",
+          "textEn": "It is absorbed through passive lipid diffusion in the duodenum",
+          "textAr": "يمتص عبر الانتشار الغشائي البسيط في الاثني عشر"
+        },
+        {
+          "id": "d",
+          "textEn": "It requires cytochrome P450 activation before taking effect",
+          "textAr": "يتطلب تنشيطاً بواسطة إنزيمات السيتوكروم P450 قبل بدء مفعوله"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Intravenous administration bypasses absorption barriers and first-pass hepatic metabolism, resulting in 100% bioavailability by definition.",
+      "explanationAr": "بصي يا ريهام، الحقن الوريدي (IV) بيدخل الدواء مباشرة جوة مجرى الدم، فبالتالي مفيش أي فقد ولا First-pass metabolism، والـ Bioavailability بتكون 100% دائماً.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-pharm-01-2",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-01",
+      "textEn": "Which term describes the physiological process where an orally administered drug is metabolized in the liver and gut wall before reaching systemic circulation?",
+      "textAr": "ما هو المصطلح الذي يصف استقلاب الدواء الفموي في الكبد وجدار الأمعاء قبل وصوله للدورة الدموية الجهازية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "First-pass metabolism (pre-systemic elimination)",
+          "textAr": "تأثير المرور الكبدي الأول (First-pass metabolism)"
+        },
+        {
+          "id": "b",
+          "textEn": "Renal tubular reabsorption",
+          "textAr": "إعادة الامتصاص الأنبوبي الكلوي"
+        },
+        {
+          "id": "c",
+          "textEn": "Therapeutic index saturation",
+          "textAr": "تشبع المؤشر العلاجي"
+        },
+        {
+          "id": "d",
+          "textEn": "Plasma protein binding displacement",
+          "textAr": "إزاحة الارتباط ببروتينات البلازما"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "First-pass metabolism occurs when an orally absorbed drug travels via the portal vein directly to the liver, where a substantial fraction may be inactivated before systemic distribution.",
+      "explanationAr": "بصي يا ريهام، لما المريض بيبتلع قرص دواء، بيمتص للأوردة البابية ويروح الكبد الأول، والكبد بيكسر جزء منه قبل ما يروح لباقي الجسم، وده اسمه First-pass effect.",
+      "difficulty": "medium"
+    }
+  ]
+}

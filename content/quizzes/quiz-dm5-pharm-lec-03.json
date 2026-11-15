@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-lec-03",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-lec-03",
+  "titleEn": "Quiz: Sympathomimetics and Adrenergic Blockers",
+  "titleAr": "كويز: محاكيات وحاصرات الجهاز الودي الأدريناليني",
+  "description": "Dedicated practice and assessment quiz for 'Autonomic Pharmacology: Sympathomimetics and Adrenergic Blockers'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-03-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-03",
+      "textEn": "What is the primary rationale for including epinephrine (adrenaline) in dental local anesthetic cartridges?",
+      "textAr": "ما هو السبب الرئيسي لإضافة الأدرينالين (Epinephrine) إلى أمبولات التخدير الموضعي في طب الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "To stimulate alpha-1 adrenergic vasoconstriction, localizing the anesthetic and prolonging pulpal anesthesia duration while minimizing systemic toxicity",
+          "textAr": "لتحفيز مستقبلات ألفا-1 وإحداث تقبض وعائي موضعي يطيل مدة التخدير ويقلل النزيف والسمية الجهازية"
+        },
+        {
+          "id": "b",
+          "textEn": "To alkalize the local anesthetic solution for faster nerve penetration",
+          "textAr": "لقلوية محلول البنج لتسريع اختراق العصب"
+        },
+        {
+          "id": "c",
+          "textEn": "To eliminate the need for nerve block injections",
+          "textAr": "لإلغاء الحاجة لحقن الحصار العصبي"
+        },
+        {
+          "id": "d",
+          "textEn": "To act as an antimicrobial preservative inside the cartridge",
+          "textAr": "ليعمل كمادة حافظة مضادة للجراثيم داخل الكاربول"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Epinephrine causes localized vasoconstriction via vascular alpha-1 receptors, slowing systemic absorption of local anesthetic, prolonging action, and reducing operative bleeding.",
+      "explanationAr": "بصي يا ريهام، الأدرينالين بيعمل Vasoconstriction في الأوعية الدموية باللثة عن طريق Alpha-1 receptors، فالبنج ميمشيش بسرعة في الدم، فيفضل مخدر العصب لوقت أطول ويقلل النزيف.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-pharm-03-2",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-03",
+      "textEn": "Administering standard epinephrine-containing dental local anesthesia to a patient taking non-selective beta-blockers (such as propranolol) carries the risk of:",
+      "textAr": "إعطاء بنج أسنان يحتوي على الأدرينالين لمريض يتناول حاصرات بيتا غير الانتقائية (مثل Propranolol) يهدد بحدوث:",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Severe acute hypertensive spike and reflex bradycardia (unopposed alpha-1 stimulation)",
+          "textAr": "ارتفاع حاد وخطير في ضغط الدم مع تباطؤ نبضات القلب الانعكاسي (تحفيز ألفا غير المعاكس)"
+        },
+        {
+          "id": "b",
+          "textEn": "Profound systemic hypotension and syncope",
+          "textAr": "هبوط حاد في ضغط الدم وإغماء"
+        },
+        {
+          "id": "c",
+          "textEn": "Acute bronchial asthma attack",
+          "textAr": "نوبة ربو شعبي حادة"
+        },
+        {
+          "id": "d",
+          "textEn": "Immediate loss of all deep tendon reflexes",
+          "textAr": "فقدان فوري للمنعكسات الوترية العميقة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "When beta-2 vasodilatory receptors are blocked by propranolol, exogenous epinephrine acts solely on alpha-1 receptors, causing unchecked peripheral vasoconstriction and severe hypertension with reflex bradycardia.",
+      "explanationAr": "بصي يا ريهام، الـ Propranolol قافل Beta-2 اللي كانت بتوسع الأوعية، فلما تدي أدرينالين، هيروح كله على Alpha-1 ويعمل Vasoconstriction عنيف جداً، وضغط الدم يعلى في السماء ونبض القلب يبطأ بشكل انعكاسي!",
+      "difficulty": "hard"
+    }
+  ]
+}

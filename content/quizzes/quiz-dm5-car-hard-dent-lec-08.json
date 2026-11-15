@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-08",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-08",
+  "titleEn": "Quiz: Teeth Whitening and Bleaching Protocols",
+  "titleAr": "كويز: تبييض الأسنان: الكيمياء الحيوية والبروتوكولات السريرية",
+  "description": "Dedicated practice and assessment quiz for 'Teeth Whitening and Bleaching Mechanisms'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-08-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-08",
+      "textEn": "Ten percent (10%) Carbamide Peroxide decomposes into approximately what concentration of active Hydrogen Peroxide?",
+      "textAr": "يتحلل بيروكسيد الكارباميد بتركيز 10% كيميائياً إلى ما يقارب كم من بيروكسيد الهيدروجين الفعال؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "3.35% Hydrogen Peroxide (and 6.65% urea)",
+          "textAr": "3.35% بيروكسيد الهيدروجين (و 6.65% يوريا)"
+        },
+        {
+          "id": "b",
+          "textEn": "10% Hydrogen Peroxide",
+          "textAr": "10% بيروكسيد الهيدروجين"
+        },
+        {
+          "id": "c",
+          "textEn": "0.5% Hydrogen Peroxide",
+          "textAr": "0.5% بيروكسيد الهيدروجين"
+        },
+        {
+          "id": "d",
+          "textEn": "20% Hydrogen Peroxide",
+          "textAr": "20% بيروكسيد الهيدروجين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Carbamide peroxide breaks down into roughly 1/3 hydrogen peroxide and 2/3 urea; 10% carbamide peroxide yields ~3.35% active H2O2.",
+      "explanationAr": "كل 10% بيروكسيد كارباميد بتتحلل لتلت الكمية تقريباً (3.35%) بيروكسيد هيدروجين فعال.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-car-08-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-08",
+      "textEn": "How do hydrogen peroxide free radicals achieve tooth whitening?",
+      "textAr": "كيف تحقق الجذور الحرة لبيروكسيد الهيدروجين تفتيح وتبييض لون الأسنان؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "By oxidizing and cleaving double bonds in dark organic chromophore molecules in dentin",
+          "textAr": "بأكسدة وتكسير الروابط المزدوجة في جزيئات التصبغات الكبيرة (الكروموفور) في العاج"
+        },
+        {
+          "id": "b",
+          "textEn": "By stripping the entire enamel prism layer off the tooth",
+          "textAr": "بإزالة طبقة الميناء كاملة"
+        },
+        {
+          "id": "c",
+          "textEn": "By staining teeth with white calcium precipitate",
+          "textAr": "بصبغ الأسنان بالكالسيوم"
+        },
+        {
+          "id": "d",
+          "textEn": "By destroying the dental pulp circulation",
+          "textAr": "بتدمير أوعية اللب"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Perhydroxyl and oxygen free radicals oxidize conjugated double bonds in complex pigmented chromophores, turning them into smaller, lighter unpigmented compounds.",
+      "explanationAr": "الجذور الحرة بتكسر الروابط المزدوجة في جزيئات التصبغات (Chromophores) وتحولها لجزيئات صغيرة بتعكس الضوء الأبيض.",
+      "difficulty": "easy"
+    }
+  ]
+}

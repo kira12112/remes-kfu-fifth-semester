@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-micromviro-lec-06",
+  "subjectId": "dm5-micromviro",
+  "lectureId": "dm5-micromviro-lec-06",
+  "titleEn": "Quiz: Oral Microbiome & Periodontal Pathogens",
+  "titleAr": "كويز: ميكروبيوم الفم وبيوفيلم اللويحة وجراثيم أمراض اللثة الحادة",
+  "description": "Dedicated practice and assessment quiz for 'Oral Microbiome, Dental Plaque Biofilm, and Periodontal Pathogens'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-micro-06-1",
+      "subjectId": "dm5-micromviro",
+      "lectureId": "dm5-micromviro-lec-06",
+      "textEn": "Which triad of anaerobic bacterial species constitutes the notorious 'Red Complex' of Socransky, strongly correlated with severe chronic periodontitis and bone loss?",
+      "textAr": "أي ثلاثي من البكتيريا اللاهوائية يشكل 'المعقد الأحمر' (Red Complex) لسوكرانسكي المرتبط بالتهاب دواعم السن التخريبي الشديد؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Porphyromonas gingivalis, Treponema denticola, and Tannerella forsythia",
+          "textAr": "Porphyromonas gingivalis و Treponema denticola و Tannerella forsythia"
+        },
+        {
+          "id": "b",
+          "textEn": "Streptococcus mutans, Streptococcus sobrinus, and Lactobacillus acidophilus",
+          "textAr": "ستربتوكوكاس ميوتانس ولاكتوباسيلوس"
+        },
+        {
+          "id": "c",
+          "textEn": "Staphylococcus aureus, Streptococcus pyogenes, and Enterococcus",
+          "textAr": "ستاف أوريوس وستربت باوجينز"
+        },
+        {
+          "id": "d",
+          "textEn": "Actinomyces viscosus, Rothia dentocariosa, and Veillonella",
+          "textAr": "أكتينومايسس وفيلونيلا"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Socransky's Red Complex consists of Porphyromonas gingivalis, Treponema denticola, and Tannerella forsythia, which produce potent tissue-destructive virulence factors in deep periodontal pockets.",
+      "explanationAr": "بصي يا ريهام، الـ Red Complex ده مثلث الرعب في أمراض اللثة: P. gingivalis و T. denticola و T. forsythia، دول لما بيستوطنوا في الجيوب اللثوية العميقة بيعملوا Bone destruction سريع جداً.",
+      "difficulty": "medium"
+    }
+  ]
+}

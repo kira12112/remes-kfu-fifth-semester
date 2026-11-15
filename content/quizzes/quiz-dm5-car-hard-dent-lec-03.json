@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-lec-03",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-03",
+  "titleEn": "Quiz: Prevention of Dental Caries: Fluoride and Sealants",
+  "titleAr": "كويز: الوقاية من تسوس الأسنان: الفلورايد وسادات الشقوق",
+  "description": "Dedicated practice and assessment quiz for 'Prevention of Dental Caries: Fluoride and Sealants'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-03-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-03",
+      "textEn": "What is the critical pH of Fluorapatite formed when fluoride incorporates into enamel crystals?",
+      "textAr": "ما هي درجة الحموضة الحرجة لبلورات الفلورأباتيت (Fluorapatite) بعد دمج الفلورايد بالميناء؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "pH 5.5",
+          "textAr": "5.5"
+        },
+        {
+          "id": "b",
+          "textEn": "pH 4.5",
+          "textAr": "4.5"
+        },
+        {
+          "id": "c",
+          "textEn": "pH 6.5",
+          "textAr": "6.5"
+        },
+        {
+          "id": "d",
+          "textEn": "pH 7.0",
+          "textAr": "7.0"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Fluorapatite has a critical pH of ~4.5, making it substantially more acid-resistant than native hydroxyapatite (critical pH 5.5).",
+      "explanationAr": "الفلورأباتيت مقاومته للأحماض أعلى بكتير لأن درجة ذوبانه بتنزل لـ 4.5 بدل 5.5.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-car-03-2",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-03",
+      "textEn": "Which bacterial enzyme in the glycolytic pathway is directly inhibited by fluoride, suppressing acid production?",
+      "textAr": "أي إنزيم بكتيري في مسار تحلل السكر يثبطه الفلورايد مباشرة لمنع تصنيع الأحماض؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Enolase",
+          "textAr": "إينولاز (Enolase)"
+        },
+        {
+          "id": "b",
+          "textEn": "DNA polymerase",
+          "textAr": "بوليميراز الدنا"
+        },
+        {
+          "id": "c",
+          "textEn": "Glucokinase",
+          "textAr": "جلوكوكيناز"
+        },
+        {
+          "id": "d",
+          "textEn": "Amylase",
+          "textAr": "أميليز"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Fluoride complexes with magnesium and phosphate to inhibit bacterial enolase, halting intracellular glycolysis and lactic acid output.",
+      "explanationAr": "الفلورايد بيوقف إنزيم الـ Enolase في بكتيريا التسوس فمتعرفش تنتج Lactic acid.",
+      "difficulty": "medium"
+    }
+  ]
+}

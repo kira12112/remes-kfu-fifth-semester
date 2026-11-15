@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-phys-lec-01",
+  "subjectId": "dm5-pathol-phys",
+  "lectureId": "dm5-pathol-phys-lec-01",
+  "titleEn": "Quiz: General Nosology, Etiology, and Pathogenesis",
+  "titleAr": "كويز: علم تصنيف الأمراض (Nosology) والسببيات والآليات الإمراضية",
+  "description": "Dedicated practice and assessment quiz for 'General Nosology: Etiology, Pathogenesis, and Disease Concepts'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-phys-01-1",
+      "subjectId": "dm5-pathol-phys",
+      "lectureId": "dm5-pathol-phys-lec-01",
+      "textEn": "In the chronological course of an infectious or systemic disease, what characterizes the 'Prodromal Period'?",
+      "textAr": "في المسار الزمني لتطور المرض الإنتاني أو الجهازي، بماذا تتميز 'مرحلة البوادر' (Prodromal Period)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Appearance of early non-specific constitutional symptoms (e.g., malaise, fatigue, low-grade fever) before full disease manifestations develop",
+          "textAr": "ظهور أعراض مبكرة عامة غير نوعية (مثل الإرهاق والصداع وتوعك الجسم) قبل ظهور الأعراض السريرية الصريحة"
+        },
+        {
+          "id": "b",
+          "textEn": "Complete microscopic healing of damaged organs",
+          "textAr": "الشفاء المجهري الكامل للأعضاء المتضررة"
+        },
+        {
+          "id": "c",
+          "textEn": "Total absence of any microorganism or cellular reaction",
+          "textAr": "غياب تام لأي ميكروب أو تفاعل خلوي"
+        },
+        {
+          "id": "d",
+          "textEn": "Irreversible fatal cardiovascular collapse",
+          "textAr": "هبوط قلبي وعائي مميت لا رجعة فيه"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "The prodromal period follows the incubation/latent period and features vague, generalized non-specific symptoms preceding the hallmark signs of the illness.",
+      "explanationAr": "بصي يا ريهام، الـ Prodromal period دي فترة البوادر اللي المريض يقولك فيها 'جسمي مكسر وحاسس إني داخل على دور عيا'، قبل ما تظهر عليه الأعراض الكلاسيكية للمرض.",
+      "difficulty": "easy"
+    }
+  ]
+}

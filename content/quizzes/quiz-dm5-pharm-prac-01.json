@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-prac-01",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-prac-01",
+  "titleEn": "Quiz: Pharmaceutical Dosage Forms and Routes",
+  "titleAr": "كويز عملي: الأشكال الصيدلانية وطرق إعطاء الدواء",
+  "description": "Dedicated practice and assessment quiz for 'Practical 1: Pharmaceutical Dosage Forms and Routes of Administration'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-p1-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-prac-01",
+      "textEn": "Why is nitroglycerin administered sublingually rather than swallowed as an oral tablet during an acute anginal episode?",
+      "textAr": "لماذا يعطى النيتروجليسرين تحت اللسان وليس بالبلع الفموي أثناء نوبة الذبحة الصدرية الحادة؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Rapid venous absorption through non-keratinized sublingual mucosa directly into systemic veins, completely avoiding first-pass hepatic metabolism",
+          "textAr": "امتصاص وريدي فوري عبر الغشاء المخاطي تحت اللسان إلى الدورة الدموية مباشرة وتفادي المرور الكبدي"
+        },
+        {
+          "id": "b",
+          "textEn": "Nitroglycerin is digested into toxic cyanide in the stomach",
+          "textAr": "النيتروجليسرين يتحول لسيانيد سام في المعدة"
+        },
+        {
+          "id": "c",
+          "textEn": "It only acts as a topical disinfectant on the floor of the mouth",
+          "textAr": "يعمل فقط كمطهر سطحي لأرضية الفم"
+        },
+        {
+          "id": "d",
+          "textEn": "Sublingual route delays drug absorption to prevent sudden tachycardia",
+          "textAr": "الطريق تحت اللسان يبطئ الامتصاص لمنع التسرع القلبي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Sublingual administration allows rapid diffusion into the extensive sublingual venous plexus, reaching the heart in under 2 minutes without hepatic first-pass loss.",
+      "explanationAr": "بصي يا ريهام، تحت اللسان الأوعية الدموية سطحية جداً والـ Mucosa مش متقرنة، فالنيتروجليسرين بيوصل للقلب في دقيقة واحدة ومبيعديش على الكبد خالص، وده ينقذ مريض الذبحة فوراً.",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-car-hard-dent-prac-05",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-prac-05",
+  "titleEn": "Quiz: Class V Cavity Preparation",
+  "titleAr": "كويز: تحضير حفر الصنف الخامس وأخاديد التثبيت",
+  "description": "Dedicated practice and assessment quiz for 'Practical 5: Class V Cavity Preparation'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-car-p5-1",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-prac-05",
+      "textEn": "In a Class V cavity preparation, why must the axial wall follow the external curvature of the tooth surface?",
+      "textAr": "في تحضير الصنف الخامس، لماذا يجب أن يتبع الجدار المحوري (Axial wall) الانحناء الخارجي للسن؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "To maintain a uniform, safe distance from the pulp and prevent accidental exposure",
+          "textAr": "للحفاظ على مسافة أمان موحدة مع اللب وتفادي انكشاف العصب غير المقصود"
+        },
+        {
+          "id": "b",
+          "textEn": "To allow easy flow of impression material",
+          "textAr": "لتسهيل دخول مادة الطبعة"
+        },
+        {
+          "id": "c",
+          "textEn": "To weaken the cervical enamel rods",
+          "textAr": "لإضعاف الميناء العنقي"
+        },
+        {
+          "id": "d",
+          "textEn": "To make cavity preparation triangular",
+          "textAr": "لجعل الحفرة مثلثة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Because the external tooth surface is convex, cutting a flat axial wall would penetrate dangerously close to the pulp chamber at the center.",
+      "explanationAr": "السن محدب من الخارج، فلو عملتي جدار مسطح هتدخلي في عصب السن في النص! لازم الجدار يكون محدب موازي لانحناء السن لحماية اللب.",
+      "difficulty": "medium"
+    }
+  ]
+}

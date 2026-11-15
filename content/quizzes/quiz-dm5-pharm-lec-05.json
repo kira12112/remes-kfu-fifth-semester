@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pharm-lec-05",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-lec-05",
+  "titleEn": "Quiz: CNS Analgesics, Opioids, and NSAIDs",
+  "titleAr": "كويز: مسكنات الألم ومضادات الالتهاب غير الستيرويدية والمهدئات",
+  "description": "Dedicated practice and assessment quiz for 'CNS Pharmacology: Analgesics, Opioids, NSAIDs, and Sedatives'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-pharm-05-1",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-05",
+      "textEn": "Why should Aspirin and non-selective NSAIDs be avoided in patients with active peptic ulcer disease?",
+      "textAr": "لماذا يجب تجنب الأسبرين ومضادات الالتهاب غير الستيرويدية غير الانتقائية عند مرضى القرحة الهضمية النشطة؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "They inhibit COX-1, depleting gastroprotective prostaglandins (PGE2 and PGI2) and causing gastric mucosal damage",
+          "textAr": "لأنها تثبط إنزيم COX-1 فتنقص البروستاغلاندين الحامي لبطانة المعدة وتزيد خطر النزيف والانثقاب"
+        },
+        {
+          "id": "b",
+          "textEn": "They directly stimulate hydrochloric acid hypersecretion by G-cells",
+          "textAr": "لأنها تحفز إفراز حمض الهيدروكلوريك من خلايا G"
+        },
+        {
+          "id": "c",
+          "textEn": "They destroy gastric parietal cells immediately",
+          "textAr": "لأنها تدمر الخلايا الجدارية فوراً"
+        },
+        {
+          "id": "d",
+          "textEn": "They prevent salivary amylase from digesting starch",
+          "textAr": "لأنها تمنع هضم النشويات في اللعاب"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Constitutive COX-1 generates PGE2 and prostacyclin, which maintain gastric mucous lining and bicarbonate secretion. Non-selective NSAIDs compromise this barrier, causing ulceration.",
+      "explanationAr": "بصي يا ريهام، إنزيم COX-1 ده صديق المعدة بيطلع prostaglandins بتحمي جدار المعدة، فلما المريض ياخد NSAIDs عشوائي بيبهدل جدار معدته وممكن يدخل في Gastrointestinal bleeding.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-pharm-05-2",
+      "subjectId": "dm5-pharm",
+      "lectureId": "dm5-pharm-lec-05",
+      "textEn": "What specific antidote is administered intravenously to reverse acute opioid-induced respiratory depression and coma?",
+      "textAr": "ما هو الترياق النوعي الذي يعطى وريدياً لمعاكسة التثبيط التنفسي والغيبوبة الناتجة عن التسمم بالأفيونات (Opioids)؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Naloxone",
+          "textAr": "نالوكسون (Naloxone)"
+        },
+        {
+          "id": "b",
+          "textEn": "Flumazenil",
+          "textAr": "فلومازينيل"
+        },
+        {
+          "id": "c",
+          "textEn": "Acetylcysteine",
+          "textAr": "أسيتيل سيستئين"
+        },
+        {
+          "id": "d",
+          "textEn": "Protamine sulfate",
+          "textAr": "كبريتات البروتامين"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Naloxone is a pure competitive opioid receptor antagonist that rapidly displaces opioids from mu receptors, reversing fatal respiratory depression.",
+      "explanationAr": "بصي يا ريهام، الـ Naloxone هو الترياق المباشر للـ Opioids، بينما الـ Flumazenil هو ترياق الـ Benzodiazepines، فرقي بينهم كويس جداً في امتحانات الفارما!",
+      "difficulty": "medium"
+    }
+  ]
+}

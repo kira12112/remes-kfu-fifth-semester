@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-res-meth-bio-med-lec-02",
+  "subjectId": "dm5-res-meth-bio-med",
+  "lectureId": "dm5-res-meth-bio-med-lec-02",
+  "titleEn": "Quiz: Stem Cells and Regenerative Dental Medicine",
+  "titleAr": "كويز: الخلايا الجذعية في البيولوجيا والطب التجديدي في طب الأسنان",
+  "description": "Dedicated practice and assessment quiz for 'Stem Cells in Biology and Regenerative Dental Medicine'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-res-02-1",
+      "subjectId": "dm5-res-meth-bio-med",
+      "lectureId": "dm5-res-meth-bio-med-lec-02",
+      "textEn": "Which distinct population of adult mesenchymal stem cells isolated from dental pulp tissue demonstrates multilineage differentiation potential into odontoblasts, osteoblasts, and chondrocytes?",
+      "textAr": "أي مجتمع مميز من الخلايا الجذعية البالغة المعزولة من أنسجة لب السن يمتلك القدرة على التمايز إلى خلايا مولدة للعاج وخلايا عظمية وغضروفية؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Dental Pulp Stem Cells (DPSCs)",
+          "textAr": "خلايا لب السن الجذعية (Dental Pulp Stem Cells - DPSCs)"
+        },
+        {
+          "id": "b",
+          "textEn": "Mature enamel ameloblasts",
+          "textAr": "خلايا مصورات الميناء الناضجة"
+        },
+        {
+          "id": "c",
+          "textEn": "Erythroblasts from circulating blood",
+          "textAr": "أرومات الحمر"
+        },
+        {
+          "id": "d",
+          "textEn": "Epidermal melanocytes",
+          "textAr": "الخلايا الصباغية الجلدية"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "DPSCs isolated from pulp tissue possess self-renewal and multipotency, serving as the cornerstone for modern dental tissue engineering and pulp-dentin complex regeneration.",
+      "explanationAr": "بصي يا ريهام، الـ Dental Pulp Stem Cells (DPSCs) دي كنز طب الأسنان التجديدي، خلايا جذعية موجودة جوة لب السن الطبيعي وممكن نستخدمها لترميم العاج وإعادة بناء العصب والعظام في المستقبل القريب.",
+      "difficulty": "medium"
+    }
+  ]
+}

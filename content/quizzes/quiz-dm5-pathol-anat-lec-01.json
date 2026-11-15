@@ -1,0 +1,78 @@
+{
+  "$schema": "../schemas/quiz.schema.json",
+  "id": "quiz-dm5-pathol-anat-lec-01",
+  "subjectId": "dm5-pathol-anat",
+  "lectureId": "dm5-pathol-anat-lec-01",
+  "titleEn": "Quiz: Autoimmune Diseases and Hypersensitivity",
+  "titleAr": "كويز: أمراض المناعة الذاتية واضطرابات فرط التحسس",
+  "description": "Dedicated practice and assessment quiz for 'Autoimmune Diseases and Hypersensitivity Disorders'. Includes clinically grounded multiple-choice questions with Egyptian Arabic rationale.",
+  "estimatedMinutes": 10,
+  "questions": [
+    {
+      "id": "q-path-anat-01-1",
+      "subjectId": "dm5-pathol-anat",
+      "lectureId": "dm5-pathol-anat-lec-01",
+      "textEn": "Which classical autoantibodies targeting SSA (Ro) and SSB (La) antigens are strongly associated with Sjögren's Syndrome, manifesting as xerostomia and keratoconjunctivitis sicca?",
+      "textAr": "ما هي الأجسام المضادة الذاتية النوعية التي تستهدف مستضدات SSA (Ro) و SSB (La) وترتبط بقوة بمتلازمة شوغرن المترافقة مع جفاف الفم والعينين؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Anti-SSA/Ro and Anti-SSB/La autoantibodies",
+          "textAr": "الأجسام المضادة Anti-SSA/Ro و Anti-SSB/La"
+        },
+        {
+          "id": "b",
+          "textEn": "Anti-mitochondrial antibodies (AMA)",
+          "textAr": "أجسام مضادة للميتوكوندريا"
+        },
+        {
+          "id": "c",
+          "textEn": "Anti-centromere antibodies",
+          "textAr": "أجسام مضادة للسنترومير"
+        },
+        {
+          "id": "d",
+          "textEn": "Anti-smooth muscle antibodies",
+          "textAr": "أجسام مضادة للعضلات الملساء"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Anti-Ro (SSA) and Anti-La (SSB) are pathognomonic serological markers for primary Sjögren's syndrome, an autoimmune exocrinopathy targeting salivary and lacrimal glands.",
+      "explanationAr": "بصي يا ريهام، متلازمة Sjögren's syndrome بتدمر الغدد اللعابية والدمعية فالمريض يشتكي من جفاف شديد، والتحليل المميز جداً ليها هو Anti-SSA (Ro) و Anti-SSB (La).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-path-anat-01-2",
+      "subjectId": "dm5-pathol-anat",
+      "lectureId": "dm5-pathol-anat-lec-01",
+      "textEn": "Which Gel and Coombs hypersensitivity reaction type is mediated by IgE antibodies bound to mast cells, triggering immediate vasoactive mediator degranulation?",
+      "textAr": "أي نوع من تفاعلات فرط التحسس (حسب تصنيف Gel & Coombs) يتواسطه الغلوبولين المناعي IgE المرتبط بالخلايا البدينة محفزاً تحرر الهيستامين الفوري؟",
+      "options": [
+        {
+          "id": "a",
+          "textEn": "Type I Hypersensitivity (Immediate / Anaphylactic)",
+          "textAr": "النمط الأول: فرط التحسس الفوري / التأقي (Type I)"
+        },
+        {
+          "id": "b",
+          "textEn": "Type II (Cytotoxic antibody-mediated)",
+          "textAr": "النمط الثاني: السمي للخلايا"
+        },
+        {
+          "id": "c",
+          "textEn": "Type III (Immune complex-mediated)",
+          "textAr": "النمط الثالث: المعقدات المناعية"
+        },
+        {
+          "id": "d",
+          "textEn": "Type IV (Delayed cell-mediated)",
+          "textAr": "النمط الرابع: المتأخر الخلوي"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanationEn": "Type I hypersensitivity involves antigen cross-linking of IgE on mast cell surfaces, causing immediate degranulation of histamine, leukotrienes, and prostaglandins.",
+      "explanationAr": "بصي يا ريهام، حساسية البنسلين وحبوب اللقاح والصدمة التأقية (Anaphylaxis) كلها Type I hypersensitivity، المسؤول عنها هو IgE اللي بيفجر خلايا الـ Mast cells ويطلع هيستامين فوراً.",
+      "difficulty": "easy"
+    }
+  ]
+}

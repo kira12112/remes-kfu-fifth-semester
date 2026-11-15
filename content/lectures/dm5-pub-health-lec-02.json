@@ -44,5 +44,6 @@
   "keyPoints": [
     "A p-value < 0.05 indicates statistical significance (rejection of null hypothesis).",
     "Type I error is a false positive (alpha); Type II error is a false negative (beta)."
-  ]
+  ],
+  "relatedQuizId": "quiz-dm5-pub-health-lec-02"
 }
