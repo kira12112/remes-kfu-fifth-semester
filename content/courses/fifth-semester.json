@@ -1,0 +1,212 @@
+{
+  "id": "kfu-dm-fifth-semester",
+  "university": "Kazan Federal University",
+  "program": "Doctor of Medicine (Dentistry)",
+  "semester": "Fifth",
+  "year": "3rd Year",
+  "academicYear": "2026-2027",
+  "lastUpdated": "2026-11-15",
+  "subjects": [
+    {
+      "id": "dm5-car-hard-dent",
+      "code": "DM.5 CAR HARD DENT",
+      "titleEn": "Caries and Diseases of Hard Dental Tissues",
+      "titleAr": "تسوس الأسنان وأمراض الأنسجة السنية الصلبة",
+      "descriptionEn": "Comprehensive study of dental caries etiology, pathogenesis, classification, diagnostic methods, cavity preparation (Classes I-V), and prevention based on Kazan Cariology syllabus.",
+      "descriptionAr": "دراسة متعمقة لتشخيص وعلاج تسوس الأسنان وأمراض الأنسجة الصلبة، مع خطوات تحضير الحفر والوقاية السنية",
+      "icon": "Tooth",
+      "color": "teal",
+      "status": "available",
+      "sourceFiles": [
+        "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+        "k Logbook cariology_a7cc31d6f919c918fa51437132bc5de5.pdf",
+        "k practical handout_7797a08093cd0f21e7e67862a7cbbb0a.pdf"
+      ],
+      "theoreticalCount": 8,
+      "practicalCount": 5,
+      "order": 1
+    },
+    {
+      "id": "dm5-epes",
+      "code": "DM.5 EPES",
+      "titleEn": "Elective Courses in Physical Education and Sports",
+      "titleAr": "مقررات اختيارية في التربية البدنية والرياضة",
+      "descriptionEn": "Physical education and sports elective program.",
+      "descriptionAr": "برنامج التربية البدنية والرياضة الاختياري",
+      "icon": "Dumbbell",
+      "color": "green",
+      "status": "coming-soon",
+      "sourceFiles": [],
+      "theoreticalCount": 0,
+      "practicalCount": 0,
+      "order": 2
+    },
+    {
+      "id": "dm5-fund-terr-ext",
+      "code": "DM.5 FUND TERR EXT",
+      "titleEn": "Fundamentals of Prevention and Counteraction to Terrorism and Extremism",
+      "titleAr": "أسس الوقاية ومكافحة الإرهاب والتطرف",
+      "descriptionEn": "Study of terrorism prevention, legal frameworks, and counteraction strategies.",
+      "descriptionAr": "دراسة الوقاية من الإرهاب والأطر القانونية واستراتيجيات المكافحة",
+      "icon": "Shield",
+      "color": "slate",
+      "status": "coming-soon",
+      "sourceFiles": [],
+      "theoreticalCount": 0,
+      "practicalCount": 0,
+      "order": 3
+    },
+    {
+      "id": "dm5-micromviro",
+      "code": "DM.5 MICROMVIRO",
+      "titleEn": "Microbiology, Virology",
+      "titleAr": "علم الأحياء الدقيقة والفيروسات",
+      "descriptionEn": "Medical bacteriology, virology, sanitary microbiology, Gram-positive/negative cocci and bacilli, and oral microbiome.",
+      "descriptionAr": "دراسة البكتيريا الطبية، الفيروسات، الميكروبيولوجيا الصحية، وفلورا الفم الميكروبية",
+      "icon": "Microscope",
+      "color": "purple",
+      "status": "available",
+      "sourceFiles": [
+        "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+        "KFU, DM-3rd year Microbiology, virology  Practical book_5959e5451262072d38e5ab4d0bcf1542.pdf"
+      ],
+      "theoreticalCount": 9,
+      "practicalCount": 4,
+      "order": 4
+    },
+    {
+      "id": "dm5-pathol-anat",
+      "code": "DM.5 PATHOL ANAT",
+      "titleEn": "Pathological Anatomy",
+      "titleAr": "علم التشريح المرضي",
+      "descriptionEn": "Structural modifications in tissues and organs: autoimmune disorders, hypersensitivity, CHO metabolism disorders, acid-base imbalances, and cardiovascular lesions.",
+      "descriptionAr": "دراسة التغيرات المورفولوجية والنسيجية الناتجة عن أمراض المناعة الذاتية، الحساسية، والاضطرابات الوعائية",
+      "icon": "FlaskConical",
+      "color": "red",
+      "status": "available",
+      "sourceFiles": [
+        "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf"
+      ],
+      "theoreticalCount": 6,
+      "practicalCount": 3,
+      "order": 5
+    },
+    {
+      "id": "dm5-pathol-phys",
+      "code": "DM.5 PATHOL PHYS",
+      "titleEn": "Pathological Physiology",
+      "titleAr": "علم وظائف الأعضاء المرضي",
+      "descriptionEn": "Functional alterations in disease: General nosology, cellular adaptation, reversible/irreversible cell injury, and inflammatory pathogenesis.",
+      "descriptionAr": "التغيرات الوظيفية المصاحبة للمرض: آليات التكيف الخلوي، الموت الخلوي، والتفاعلات الالتهابية",
+      "icon": "Activity",
+      "color": "orange",
+      "status": "available",
+      "sourceFiles": [
+        "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf"
+      ],
+      "theoreticalCount": 7,
+      "practicalCount": 3,
+      "order": 6
+    },
+    {
+      "id": "dm5-pharm",
+      "code": "DM.5 PHARM",
+      "titleEn": "Pharmacology",
+      "titleAr": "علم الأدوية",
+      "descriptionEn": "Medical pharmacology for dental students: General pharmacology, pharmacokinetics, pharmacodynamics, and autonomic drugs (sympathomimetics, parasympathomimetics).",
+      "descriptionAr": "علم الأدوية لطلاب طب الأسنان: الحرائك الدوائية، آليات العمل، وأدوية الجهاز العصبي الذاتي",
+      "icon": "Pill",
+      "color": "blue",
+      "status": "available",
+      "sourceFiles": [
+        "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+        "DM.5.PHARM.Practical_4fcdee63caa7c87bf9cd7d54d34aac5a.pdf"
+      ],
+      "theoreticalCount": 6,
+      "practicalCount": 4,
+      "order": 7
+    },
+    {
+      "id": "dm5-propaed-int-med",
+      "code": "DM.5 PROPAED INT MED",
+      "titleEn": "Propaedeutics of Internal Diseases",
+      "titleAr": "مقدمة أمراض الباطنة والتشخيص السريري",
+      "descriptionEn": "Clinical examination fundamentals for dentistry: Medical history taking, general physical examination, respiratory and cardiovascular physical signs.",
+      "descriptionAr": "أساسيات الفحص السريري لطلاب طب الأسنان: أخذ التاريخ المرضي، الفحص العام، وفحص الصدر والقلب",
+      "icon": "Stethoscope",
+      "color": "cyan",
+      "status": "available",
+      "sourceFiles": [
+        "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf"
+      ],
+      "theoreticalCount": 6,
+      "practicalCount": 3,
+      "order": 8
+    },
+    {
+      "id": "dm5-pub-health",
+      "code": "DM.5 PUB HEALTH",
+      "titleEn": "Public Health and Healthcare",
+      "titleAr": "الصحة العامة والرعاية الصحية",
+      "descriptionEn": "Concepts of public health, biostatistics, demography, health indicators, epidemiology of morbidity, and health systems.",
+      "descriptionAr": "مفاهيم الصحة العامة، الإحصاء الحيوي، المؤشرات الديموغرافية والوبائية وأنظمة الرعاية الصحية",
+      "icon": "HeartPulse",
+      "color": "emerald",
+      "status": "available",
+      "sourceFiles": [
+        "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf"
+      ],
+      "theoreticalCount": 6,
+      "practicalCount": 2,
+      "order": 9
+    },
+    {
+      "id": "dm5-rad-diag",
+      "code": "DM.5 RAD DIAG",
+      "titleEn": "Radiation Diagnostics",
+      "titleAr": "التشخيص الإشعاعي",
+      "descriptionEn": "Radiological diagnostic principles, X-ray physics, dental radiography, orthopantomography, and cone-beam computed tomography (CBCT).",
+      "descriptionAr": "طرق التشخيص الإشعاعي، فيزياء الأشعة السينية، والتصوير المقطعي للفك والأسنان",
+      "icon": "Scan",
+      "color": "violet",
+      "status": "coming-soon",
+      "sourceFiles": [],
+      "theoreticalCount": 0,
+      "practicalCount": 0,
+      "order": 10
+    },
+    {
+      "id": "dm5-res-meth-bio-med",
+      "code": "DM.5 RES METH BIO MED",
+      "titleEn": "Research Methods in Biology and Medicine",
+      "titleAr": "مناهج البحث في علم الأحياء والطب",
+      "descriptionEn": "Biomedical research methodology, scientific design, biostatistics, and electrophysiological investigation techniques.",
+      "descriptionAr": "منهجية البحث الطبي والحيوي، تصميم التجارب السريرية، وتقنيات الفيزيولوجيا الكهربية",
+      "icon": "BarChart3",
+      "color": "indigo",
+      "status": "available",
+      "sourceFiles": [
+        "DM.5.RES METH BIO MED Part 1 2026_c216ed4b51f71c2a57572e803c4be03f.pdf",
+        "DM.5.RES METH BIO MED Part 2 2026 Electrophysiology_deb2d669f06b8184c1cc08579b1c0019.pdf"
+      ],
+      "theoreticalCount": 5,
+      "practicalCount": 3,
+      "order": 11
+    },
+    {
+      "id": "dm5-topogr-anat",
+      "code": "DM.5 TOPOGR ANAT",
+      "titleEn": "Topographic Anatomy and Operative Surgery",
+      "titleAr": "التشريح الطبوغرافي والجراحة التشغيلية",
+      "descriptionEn": "Surgical and regional head & neck anatomy, fascial spaces, operative approaches, and neurovascular anatomy for dental surgery.",
+      "descriptionAr": "التشريح الجراحي للرأس والعنق، الفراغات اللفافية، والمسارات الجراحية لجراحة الوجه والفكين",
+      "icon": "Scissors",
+      "color": "rose",
+      "status": "coming-soon",
+      "sourceFiles": [],
+      "theoreticalCount": 0,
+      "practicalCount": 0,
+      "order": 12
+    }
+  ]
+}

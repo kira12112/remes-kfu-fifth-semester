@@ -1,0 +1,95 @@
+{
+  "id": "quiz-pharm-basics-01",
+  "subjectId": "dm5-pharm",
+  "titleEn": "Basic Pharmacology — Sample Quiz",
+  "titleAr": "اختبار أساسيات علم الأدوية",
+  "description": "5 MCQ questions covering fundamental pharmacology concepts: pharmacokinetics, pharmacodynamics, drug interactions, and receptor theory.",
+  "estimatedMinutes": 8,
+  "questions": [
+    {
+      "id": "pharm-q01",
+      "subjectId": "dm5-pharm",
+      "textEn": "Which pharmacokinetic parameter describes the volume of plasma cleared of a drug per unit time?",
+      "textAr": "أي من المعاملات الحرائكية الدوائية يصف حجم البلازما الذي يُنظَّف من الدواء في وحدة الزمن؟",
+      "options": [
+        { "id": "a", "textEn": "Volume of distribution (Vd)", "textAr": "حجم التوزيع" },
+        { "id": "b", "textEn": "Clearance (CL)", "textAr": "الإزالة" },
+        { "id": "c", "textEn": "Half-life (t½)", "textAr": "عمر النصف" },
+        { "id": "d", "textEn": "Bioavailability (F)", "textAr": "التوافر البيولوجي" }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Clearance (CL) is defined as the volume of plasma from which a drug is completely removed per unit time (mL/min or L/h). It reflects the efficiency of drug elimination by all routes combined.",
+      "explanationAr": "الإزالة (CL) هي حجم البلازما اللي بيتنظف من الدواء في وحدة الزمن. بتعبر عن كفاءة الجسم في التخلص من الدواء عن طريق الكِلى والكبد وغيرهم.",
+      "difficulty": "medium",
+      "tags": ["pharmacokinetics", "clearance", "ADME"]
+    },
+    {
+      "id": "pharm-q02",
+      "subjectId": "dm5-pharm",
+      "textEn": "A drug that binds to a receptor and produces a maximal biological response is called:",
+      "textAr": "الدواء الذي يرتبط بالمستقبل وينتج أقصى استجابة بيولوجية يُسمى:",
+      "options": [
+        { "id": "a", "textEn": "Partial agonist", "textAr": "ناهض جزئي" },
+        { "id": "b", "textEn": "Competitive antagonist", "textAr": "معاكس تنافسي" },
+        { "id": "c", "textEn": "Full agonist", "textAr": "ناهض كامل" },
+        { "id": "d", "textEn": "Inverse agonist", "textAr": "ناهض عكسي" }
+      ],
+      "correctOptionId": "c",
+      "explanationEn": "A full agonist binds to a receptor and activates it to produce the maximum possible response (Emax). It has both high affinity (binds the receptor) and high intrinsic efficacy (activates it fully).",
+      "explanationAr": "الناهض الكامل (Full agonist) هو الدواء اللي بيرتبط بالمستقبل ويحفزه بالشكل الكامل، فبيطلع منه أقصى تأثير ممكن. زي المورفين على مستقبلات الأفيون.",
+      "difficulty": "easy",
+      "tags": ["pharmacodynamics", "receptor theory", "agonist"]
+    },
+    {
+      "id": "pharm-q03",
+      "subjectId": "dm5-pharm",
+      "textEn": "Warfarin's anticoagulant effect is significantly enhanced when co-administered with which of the following?",
+      "textAr": "تأثير الوارفارين المضاد للتخثر يتضخم بشكل ملحوظ عند إعطائه مع أي من التالي؟",
+      "options": [
+        { "id": "a", "textEn": "Rifampicin", "textAr": "ريفامبيسين" },
+        { "id": "b", "textEn": "Phenobarbital", "textAr": "فينوباربيتال" },
+        { "id": "c", "textEn": "Fluconazole", "textAr": "فلوكونازول" },
+        { "id": "d", "textEn": "Carbamazepine", "textAr": "كاربامازيبين" }
+      ],
+      "correctOptionId": "c",
+      "explanationEn": "Fluconazole is a potent CYP2C9 inhibitor. Warfarin is primarily metabolized by CYP2C9; inhibiting this enzyme raises warfarin plasma levels, prolonging the INR and increasing bleeding risk. The other options (rifampicin, phenobarbital, carbamazepine) are CYP inducers that reduce warfarin levels.",
+      "explanationAr": "الفلوكونازول بيثبط إنزيم CYP2C9 اللي بيكسر الوارفارين في الكبد. لما الإنزيم ده بيتثبط، الوارفارين بيتراكم في الدم وتأثيره بيزيد وممكن يحصل نزيف. أما الريفامبيسين والفينوباربيتال والكاربامازيبين فهم محرِّضين (Inducers) بيقللوا تأثير الوارفارين.",
+      "difficulty": "hard",
+      "tags": ["drug interactions", "CYP450", "anticoagulants", "warfarin"]
+    },
+    {
+      "id": "pharm-q04",
+      "subjectId": "dm5-pharm",
+      "textEn": "The first-pass effect (hepatic first-pass metabolism) is most relevant for drugs administered via which route?",
+      "textAr": "تأثير المرور الأول عبر الكبد يكون أكثر أهمية للأدوية التي تُعطى عن طريق:",
+      "options": [
+        { "id": "a", "textEn": "Intravenous (IV)", "textAr": "الوريد" },
+        { "id": "b", "textEn": "Oral (PO)", "textAr": "الفم" },
+        { "id": "c", "textEn": "Sublingual", "textAr": "تحت اللسان" },
+        { "id": "d", "textEn": "Inhalation", "textAr": "الاستنشاق" }
+      ],
+      "correctOptionId": "b",
+      "explanationEn": "Orally administered drugs are absorbed from the GI tract and pass through the portal vein to the liver before reaching systemic circulation. The liver may metabolize a significant fraction of the drug on this first pass, reducing its bioavailability. IV, sublingual, and inhalation routes bypass this first-pass effect.",
+      "explanationAr": "الأدوية اللي بتتاخد عن طريق الفم بتتمص من الأمعاء وتعدي الكبد قبل ما توصل للدم. الكبد ممكن يكسر جزء كبير منها في أول مرور — ده اللي بنسميه First-pass effect. علشان كده جرعة الدواء الأكلي بتبقى أكبر من جرعة الوريدي.",
+      "difficulty": "easy",
+      "tags": ["pharmacokinetics", "bioavailability", "first-pass", "oral route"]
+    },
+    {
+      "id": "pharm-q05",
+      "subjectId": "dm5-pharm",
+      "textEn": "Which of the following beta-blockers is cardioselective (β1-selective)?",
+      "textAr": "أي من حاصرات بيتا التالية يعتبر انتقائياً للقلب (انتقائي لـ β1)؟",
+      "options": [
+        { "id": "a", "textEn": "Propranolol", "textAr": "بروبرانولول" },
+        { "id": "b", "textEn": "Carvedilol", "textAr": "كارفيديلول" },
+        { "id": "c", "textEn": "Metoprolol", "textAr": "ميتوبرولول" },
+        { "id": "d", "textEn": "Labetalol", "textAr": "لابيتالول" }
+      ],
+      "correctOptionId": "c",
+      "explanationEn": "Metoprolol is a cardioselective β1-adrenergic blocker. It preferentially blocks β1 receptors in the heart (reducing heart rate and contractility) with less effect on β2 receptors in the bronchi and blood vessels. Propranolol is non-selective (β1+β2). Carvedilol blocks β1, β2, and α1. Labetalol blocks β1, β2, and α1.",
+      "explanationAr": "الميتوبرولول بيحصر مستقبلات β1 في القلب بشكل انتقائي، فبيقلل سرعة القلب وقوة ضربه من غير ما يأثر كتير على مستقبلات β2 في الرئة. ده مفيد جداً لمرضى القلب اللي عندهم كمان أزمة. أما البروبرانولول فغير انتقائي وممكن يضيق الشُّعب الهوائية.",
+      "difficulty": "medium",
+      "tags": ["beta-blockers", "cardioselectivity", "adrenergic pharmacology", "metoprolol"]
+    }
+  ]
+}

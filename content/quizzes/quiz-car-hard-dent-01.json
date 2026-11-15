@@ -1,0 +1,115 @@
+{
+  "id": "quiz-car-hard-dent-01",
+  "subjectId": "dm5-car-hard-dent",
+  "lectureId": "dm5-car-hard-dent-lec-01",
+  "titleEn": "Cariology Diagnosis & Clinical Assessment Quiz",
+  "titleAr": "اختبار تشخيص تسوس الأسنان وتقييم الحالة السريرية",
+  "description": "Comprehensive multiple choice assessment verifying clinical diagnostic modalities, lesion activity assessment, and examination principles based on Kazan Cariology curriculum.",
+  "estimatedMinutes": 8,
+  "questions": [
+    {
+      "id": "q-car-diag-01",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-01",
+      "difficulty": "medium",
+      "textEn": "Why is the aggressive use of a sharp explorer tip contraindicated during the examination of incipient enamel lesions in pits and fissures?",
+      "textAr": "لماذا يُمنع استخدام طرف المجس الحاد بقوة أثناء فحص آفات الميناء الأولية في الشقوق والميازيب السنية؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "It causes acute pulp necrosis immediately upon touching the enamel.",
+          "textAr": "لأنه يسبب نخر اللب الحاد فور ملامسة الميناء مباشرة."
+        },
+        {
+          "id": "opt-b",
+          "textEn": "It can fracture the intact remineralizing surface layer, converting a reversible lesion into a permanent cavity.",
+          "textAr": "لأنه قد يؤدي لكسر الطبقة السطحية السليمة قيد التمعدن وتحويل الآفة القابلة للعلاج التحفظي إلى تجويف دائم."
+        },
+        {
+          "id": "opt-c",
+          "textEn": "It neutralizes salivary fluoride ions within the oral environment.",
+          "textAr": "لأنه يعادل أيونات الفلورايد اللعابية في البيئة الفموية."
+        },
+        {
+          "id": "opt-d",
+          "textEn": "It prevents the transmission of bitewing X-rays through the crown.",
+          "textAr": "لأنه يمنع نفاذ الأشعة السينية عبر تاج السن."
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Forceful probing with a sharp instrument fractures the fragile, partially demineralized surface zone of an early enamel lesion, precluding non-invasive remineralization and inoculating bacteria deeper into the dentin.",
+      "explanationAr": "بصي يا ريهام: في الـ Incipient caries، الميناء بيكون فقد معادن من تحته (Sub-surface demineralization) لكن السطح الخارجي لسه سليم وقابل للـ Remineralization. لو ضغطتي عليه بالـ Sharp explorer بقوة، هيكسر الـ Pseudo-intact surface layer ويخلق Cavitation لا رجعة فيها، ويدخل البكتيريا جوا!",
+      "sourceReference": {
+        "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+        "pageStart": 3,
+        "section": "Diagnosis for Dental Caries"
+      }
+    },
+    {
+      "id": "q-car-diag-02",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-01",
+      "difficulty": "easy",
+      "textEn": "Which radiographic projection is considered the gold standard for diagnosing proximal (interproximal) dental caries in posterior teeth?",
+      "textAr": "ما هو الإسقاط الشعاعي الذي يعتبر المعيار الذهبي لتشخيص التسوس الملاصق بين الأسنان الخلفية؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Bitewing Radiography",
+          "textAr": "أشعة الجناح الإطباقي (Bitewing)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Periapical Radiography with high angulation",
+          "textAr": "الأشعة الذروية بزاوية حادة"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Panoramic Radiography (OPG) alone",
+          "textAr": "الأشعة البانورامية بمفردها"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Cephalometric Radiography",
+          "textAr": "الأشعة السيفالومترية"
+        }
+      ],
+      "correctOptionId": "opt-a",
+      "explanationEn": "Bitewing radiography provides the optimal orthogonal view of coronal enamel and interproximal contact zones without vertical elongation or superimposition of adjacent structures.",
+      "explanationAr": "الـ Bitewing هو الخيار الأول والـ Gold standard في فحص الـ Interproximal caries في الـ Premolars والـ Molars، لأن الزاوية بتجيب التاجين العلوي والسفلي مع الـ Contact point مظبوطين تماماً من غير Overlapping."
+    },
+    {
+      "id": "q-car-diag-03",
+      "subjectId": "dm5-car-hard-dent",
+      "lectureId": "dm5-car-hard-dent-lec-01",
+      "difficulty": "hard",
+      "textEn": "A patient presents with a smooth, dark-brown lesion on the cervical third of tooth #44 that is hard and glass-like upon gentle blunt probing. How should this lesion be classified and managed?",
+      "textAr": "مريض لديه آفة بنية داكنة ناعمة الملمس في الثلث العنقي للضاحك 44، ملمسها صلب وزجاجي عند الفحص اللمسي الخفيف. كيف تصنف هذه الآفة وما هو التدبير المناسب لها؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Active acute caries requiring immediate Class V cavity preparation and composite filling.",
+          "textAr": "تسوس نشط حاد يتطلب تحضير حفرة صنف خامس فوراً وحشوة كمبوزيت."
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Arrested (inactive) caries; conservative management with oral hygiene reinforcement and periodic observation is indicated.",
+          "textAr": "تسوس متوقف (غير نشط)؛ يُكتفى بالتدبير التحفظي مع تحسين نظافة الفم والمراقبة الدورية."
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Severe fluorosis requiring root canal treatment.",
+          "textAr": "تفلور سني شديد يتطلب علاج جذور السن."
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Internal root resorption extending through the enamel.",
+          "textAr": "امتصاص داخلي لجذر السن ممتد عبر الميناء."
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Arrested enamel caries lesions are characterized by a hard, smooth, shiny surface that has remineralized over time and absorbed exogenous pigments. They do not require operative excavation unless aesthetic concerns arise.",
+      "explanationAr": "بما إن الآفة Hard وShiny وملمسها زي الزجاج، فدي علامة أكيدة على إنه Arrested Caries (تسوس متوقف)، وحصل له Remineralization مع ترسب صبغات. طالما مفيش Cavitation يجمع أكل أو مشكلة Aesthetics، العلاج الصح هو Preventive care والمراقبة الدورية بدون حفر!"
+    }
+  ]
+}

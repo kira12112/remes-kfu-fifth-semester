@@ -1,0 +1,68 @@
+{
+  "id": "dm5-propaed-int-med-lec-01",
+  "subjectId": "dm5-propaed-int-med",
+  "type": "theoretical",
+  "titleEn": "The Medical History and the Art of Questioning",
+  "titleAr": "التاريخ الطبي السريري وفن الاستجواب الطبي",
+  "order": 1,
+  "estimatedMinutes": 30,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf",
+    "pageStart": 4,
+    "pageEnd": 10,
+    "section": "Chapter 1: The Medical History and the Art of Questioning",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-pim-1",
+      "textEn": "Master the cardinal components of clinical diagnosis: Aetiological, Anatomical, Pathological, and Functional.",
+      "textAr": "إتقان الأركان الأربعة للتشخيص السريري الشامل: المسببي، التشريحي، المرضي، والوظيفي"
+    },
+    {
+      "id": "obj-pim-2",
+      "textEn": "Acquire the structured technique of eliciting the Chief Complaint (CC) and History of Present Illness (HPI) using SOCRATES.",
+      "textAr": "اكتساب المهارة المنهجية لتسجيل الشكوى الرئيسية وتحليل تاريخ المرض الحالي باستخدام نموذج سقراط"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-pim-1",
+      "titleEn": "1. What Propaedeutics Is & Diagnostic Components",
+      "titleAr": "١. تعريف البروبيدوتيكس وأركان التشخيص السريري",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Propaedeutics (from Greek pro = before, paideuo = teach) is the foundational introduction to clinical medicine, teaching the art and science of history taking and physical examination. A complete diagnosis comprises four essential components: Aetiological (the cause), Anatomical (the organ involved), Pathological (the nature of the lesion), and Functional (the degree of physiological impairment).",
+          "textAr": "بصي يا ريهام، كلمة Propaedeutics أصلها يوناني ومعناها (التعليم التمهيدي الأساسي). في الـ Internal Medicine، البروبيدوتيكس هو العلم اللي بيعلمك إزاي تفحصي المريض وتسمعي منه صح قبل أي علاج. التشخيص الطبي المكتمل لازم يجاوب على ٤ أركان:\n1. Aetiological (إيه السبب؟ زي Rheumatic fever أو Bacterial infection)\n2. Anatomical (إيه العضو المصاب بالظبط؟ زي Mitral valve أو Left lung base)\n3. Pathological (إيه التغير النسيجي الحاصل؟ زي Stenosis أو Fibrosis أو Infarction)\n4. Functional (هل العضو شغال ومعوض ولا في قصور؟ يعني Compensated ولا In heart failure؟)"
+        }
+      ]
+    },
+    {
+      "id": "sec-pim-2",
+      "titleEn": "2. Chief Complaint & Pain Analysis (SOCRATES)",
+      "titleAr": "٢. استجواب الشكوى الرئيسية وتحليل الألم بنظام سقراط",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "The Chief Complaint must always be recorded in the patient's own vernacular words with its precise duration (e.g., 'severe throbbing toothache on the lower right side for 2 days'). When pain is the presenting complaint, analyze it using the standard SOCRATES mnemonic.",
+          "textAr": "الـ Chief Complaint (CC) لازم تتكتب بلسان المريض نفسه وبالمدة المحددة، من غير ما تحطي مصطلحات طبية معقدة. ولو المريض بيشتكي من Pain، بنحلله فوراً بنظام SOCRATES:\n- S: Site (المكان فين؟)\n- O: Onset (بدأ فجأة ولا تدريجي؟)\n- C: Character (نوع الوجع: نابض Throbbing، ولا حارق Burning، ولا ضاغط Dull aching؟)\n- R: Radiation (مسمع في الأذن أو الفك؟)\n- A: Associated symptoms (في ورم، سخونية، تنميل؟)\n- T: Timing (بيزيد بالليل ولا مع الأكل؟)\n- E: Exacerbating / Relieving factors (إيه اللي بيهديه أو يزوده؟)\n- S: Severity (من ١ لـ ١٠)."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Chief Complaint (CC)",
+      "termAr": "الشكوى الرئيسية للمريض",
+      "definitionEn": "The primary symptom or concern causing the patient to seek medical assistance, stated in their own words with duration.",
+      "definitionAr": "السبب أو العَرَض الأساسي الذي دفع المريض لطلب الاستشارة الطبية مصاغاً بكلماته مع تحديد المدة بدقة."
+    }
+  ],
+  "keyPoints": [
+    "A comprehensive diagnosis requires aetiological, anatomical, pathological, and functional components.",
+    "Record the chief complaint in the patient's own words with exact duration.",
+    "Utilize the SOCRATES framework to systematically investigate every clinical pain presentation."
+  ]
+}

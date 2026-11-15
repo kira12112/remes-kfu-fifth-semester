@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build & Cache
+dist/
+dist-ssr/
+.vite/
+*.local
+
+# Testing
+test-results/
+playwright-report/
+.nyc_output/
+coverage/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Editor & OS
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+
+# Private Educational Textbooks (Keep out of public git deployment)
+source-books/
+design-references/*.pdf

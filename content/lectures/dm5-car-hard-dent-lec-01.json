@@ -1,0 +1,116 @@
+{
+  "id": "dm5-car-hard-dent-lec-01",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Diagnosis for Dental Caries and Hard Tissue Diseases",
+  "titleAr": "تشخيص تسوس الأسنان وأمراض الأنسجة السنية الصلبة",
+  "order": 1,
+  "estimatedMinutes": 35,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 2,
+    "pageEnd": 16,
+    "section": "Topic 1: Diagnosis for Dental Caries and Hard Tissue Diseases",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Understand the systematic steps of pre-treatment patient assessment and medical history taking in cariology.",
+      "textAr": "فهم الخطوات المنهجية لتقييم المريض قبل بدء العلاج وأخذ التاريخ الطبي بدقة"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Master clinical diagnostic methods: Visual inspection, Tactile examination, Transillumination, and Radiography.",
+      "textAr": "إتقان طرق التشخيص السريرية: الفحص البصري، الفحص اللمسي، نفاذ الضوء، والفحص الإشعاعي"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Differentiate between early active enamel lesions (white spots) and arrested caries.",
+      "textAr": "التمييز الدقيق بين آفات الميناء الأولية النشطة (البقع البيضاء) والآفات المتوقفة"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "1. Patient Assessment and Medical History",
+      "titleAr": "١. تقييم المريض والتاريخ الطبي السريري",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Pre-treatment considerations consist of three core phases: patient assessment, clinical examination & diagnosis, and comprehensive treatment planning. Patient assessment begins with personal identification data followed by an exhaustive review of past and present medical conditions.",
+          "textAr": "بصي يا ريهام، قبل ما تمسكي أي Instrument في العيادة، القاعدة الذهبية في الـ Cariology إن الـ Pre-treatment consideration بيمشي في ٣ مراحل متتابعة: أولاً بنعمل Patient Assessment، بعدين Clinical Examination & Diagnosis، وأخيراً بنحط الـ Treatment Planning المتكامل. لما يجيلك المريض، الـ Medical History مش مجرد إجراء روتيني؛ أمراض زي الـ Diabetes Mellitus أو الـ Xerostomia الناتجة عن أدوية معينة بتغير الـ Salivary flow rate تماماً وبتزود الـ Caries risk أضعاف مضاعفة."
+        },
+        {
+          "type": "important",
+          "textEn": "Clinical Note: Salivary flow rate and buffering capacity are primary host defense factors. Any medication causing xerostomia (e.g., anticholinergics, antihypertensives) dramatically shifts the demineralization-remineralization balance.",
+          "textAr": "نقطة امتحانية وسريرية مهمة جداً: الـ Saliva هي خط الدفاع الأول ضد الـ Caries عن طريق الـ Buffering capacity والـ Clearance. لو المريض بياخد أدوية بتعمل Xerostomia (جفاف فم)، ده بيقلل الـ Remineralization فوراً وبيخلي الـ Susceptibility عالية جداً."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "titleEn": "2. Diagnostic Methods in Cariology",
+      "titleAr": "٢. وسائل وأدوات التشخيص السريري المعتمدة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Accurate detection of dental caries requires combining multiple diagnostic modalities rather than relying on an explorer tip alone. Sharp probes can create irreversible traumatic cavitation in incipient enamel lesions.",
+          "textAr": "زمان كان الدكاترة يضغطوا بقوة بالـ Sharp explorer في الـ Pits and fissures، لكن دلوقتي في الـ Modern Cariology بنحذر جداً من ده؛ لأن الضغط العنيف بيكسر الـ Remineralized surface layer ويحول الـ Incipient lesion من مجرد Non-cavitated white spot إلى Cavity حقيقية محتاجة Restoration! عشان كده بنعتمد على الـ Visual examination بعد تنظيف وتجفيف السن بالـ Air syringe."
+        },
+        {
+          "type": "table",
+          "tableData": {
+            "headers": ["Diagnostic Modality", "Primary Clinical Indication", "Advantages & Limitations"],
+            "rows": [
+              ["Visual Examination", "Smooth surfaces, Pits & Fissures", "Requires clean, dry tooth; identifies early white spot lesions."],
+              ["Tactile (Blunt probe)", "Checking surface texture & margins", "Must use light pressure to avoid surface damage."],
+              ["Bitewing Radiography", "Proximal (Interproximal) caries", "Gold standard for proximal lesions and monitoring depth."],
+              ["Fiber-optic Transillumination (FOTI)", "Anterior interproximal lesions", "Non-invasive; uses light scatter to reveal shadow of decay."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-3",
+      "titleEn": "3. Differential Diagnosis: Active vs Arrested Caries",
+      "titleAr": "٣. التفرقة السريرية بين التسوس النشط والتسوس المتوقف",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Active white spot lesions appear chalky, dull, and rough upon gentle probing, typically situated along the gingival margin covered by plaque. In contrast, arrested lesions are shiny, hard, smooth, and frequently acquire brown or black exogenous pigmentation.",
+          "textAr": "الفرق بين الـ Active caries والـ Arrested caries مهم جداً في الـ Management: الـ Active lesion بتكون Chalky white (شبه الطباشير)، Dull وغير لامعة، وملمسها Rough، وغالباً بتكون قريبة من الـ Gingival margin تحت الـ Dental plaque. أما الـ Arrested lesion فبتكون Shiny (لامعة ومصقولة)، Hard زي سطح الزجاج، وممكن يترسب فيها Pigments وتاخد لون بني أو أسود؛ والنوع ده ما بنحتاجش نحفره، بنسيبه ونتابعه لأنه حصل له Remineralization طبيعي!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Xerostomia",
+      "termAr": "جفاف الفم المرضي",
+      "definitionEn": "Dry mouth resulting from reduced or absent salivary flow, significantly increasing caries susceptibility.",
+      "definitionAr": "انخفاض أو انعدام إفراز اللعاب في الفم، مما يؤدي إلى زيادة معدل تسوس الأسنان بشكل كبير."
+    },
+    {
+      "termEn": "Demineralization",
+      "termAr": "فقدان المعادن (إزالة التمعدن)",
+      "definitionEn": "Loss of calcium and phosphate ions from the hydroxyapatite lattice of enamel caused by bacterial lactic acids.",
+      "definitionAr": "فقدان أيونات الكالسيوم والفوسفات من بلورات الهيدروكسي أباتيت في الميناء تحت تأثير الأحماض البكتيرية."
+    },
+    {
+      "termEn": "White Spot Lesion",
+      "termAr": "آفة البقعة البيضاء الأولية",
+      "definitionEn": "The earliest macroscopic visual evidence of sub-surface enamel demineralization before cavitary breakdown.",
+      "definitionAr": "المظهر البصري الأولي لنقص التمعدن تحت سطح ميناء السن قبل حدوث أي تجويف ميكانيكي."
+    }
+  ],
+  "keyPoints": [
+    "Never force a sharp explorer into non-cavitated pits and fissures to avoid converting incipient lesions into frank cavities.",
+    "Good visual inspection requires a clean, plaque-free tooth and proper drying with compressed air.",
+    "Bitewing radiographs are indispensable for diagnosing interproximal caries in posterior teeth.",
+    "Arrested caries is smooth, hard, and shiny, requiring conservative remineralization and monitoring rather than surgical restoration."
+  ],
+  "relatedQuizId": "quiz-car-hard-dent-01"
+}

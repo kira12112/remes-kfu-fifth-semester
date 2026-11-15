@@ -1,0 +1,136 @@
+{
+  "inventoryVersion": "1.0.0",
+  "generatedDate": "2026-11-15T14:04:00Z",
+  "totalFiles": 14,
+  "uniqueFiles": 13,
+  "totalSizeBytes": 59186904,
+  "totalSizeFormatted": "56.44 MB",
+  "files": [
+    {
+      "filename": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+      "sizeBytes": 4785614,
+      "sizeFormatted": "4.56 MB",
+      "assignedSubjectId": "dm5-car-hard-dent",
+      "assignedSubjectCode": "DM.5 CAR HARD DENT",
+      "category": "theoretical",
+      "status": "verified"
+    },
+    {
+      "filename": "k Logbook cariology_a7cc31d6f919c918fa51437132bc5de5.pdf",
+      "sizeBytes": 598504,
+      "sizeFormatted": "584.48 KB",
+      "assignedSubjectId": "dm5-car-hard-dent",
+      "assignedSubjectCode": "DM.5 CAR HARD DENT",
+      "category": "logbook",
+      "status": "verified"
+    },
+    {
+      "filename": "k practical handout_7797a08093cd0f21e7e67862a7cbbb0a.pdf",
+      "sizeBytes": 1786393,
+      "sizeFormatted": "1.70 MB",
+      "assignedSubjectId": "dm5-car-hard-dent",
+      "assignedSubjectCode": "DM.5 CAR HARD DENT",
+      "category": "practical",
+      "status": "verified"
+    },
+    {
+      "filename": "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf",
+      "sizeBytes": 2447510,
+      "sizeFormatted": "2.33 MB",
+      "assignedSubjectId": "dm5-pathol-anat",
+      "assignedSubjectCode": "DM.5 PATHOL ANAT",
+      "category": "mixed",
+      "status": "verified"
+    },
+    {
+      "filename": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+      "sizeBytes": 9796995,
+      "sizeFormatted": "9.34 MB",
+      "assignedSubjectId": "dm5-pathol-phys",
+      "assignedSubjectCode": "DM.5 PATHOL PHYS",
+      "category": "mixed",
+      "status": "verified"
+    },
+    {
+      "filename": "DM.5.PHARM.Practical_4fcdee63caa7c87bf9cd7d54d34aac5a.pdf",
+      "sizeBytes": 1260260,
+      "sizeFormatted": "1.20 MB",
+      "assignedSubjectId": "dm5-pharm",
+      "assignedSubjectCode": "DM.5 PHARM",
+      "category": "practical",
+      "status": "verified"
+    },
+    {
+      "filename": "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+      "sizeBytes": 2004166,
+      "sizeFormatted": "1.91 MB",
+      "assignedSubjectId": "dm5-pharm",
+      "assignedSubjectCode": "DM.5 PHARM",
+      "category": "theoretical",
+      "status": "verified"
+    },
+    {
+      "filename": "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf",
+      "sizeBytes": 1538058,
+      "sizeFormatted": "1.47 MB",
+      "assignedSubjectId": "dm5-propaed-int-med",
+      "assignedSubjectCode": "DM.5 PROPAED INT MED",
+      "category": "mixed",
+      "status": "verified"
+    },
+    {
+      "filename": "DM.5.RES METH BIO MED Part 1 2026_c216ed4b51f71c2a57572e803c4be03f.pdf",
+      "sizeBytes": 4896733,
+      "sizeFormatted": "4.67 MB",
+      "assignedSubjectId": "dm5-res-meth-bio-med",
+      "assignedSubjectCode": "DM.5 RES METH BIO MED",
+      "category": "theoretical",
+      "status": "verified"
+    },
+    {
+      "filename": "DM.5.RES METH BIO MED Part 2 2026 Electrophysiology_deb2d669f06b8184c1cc08579b1c0019.pdf",
+      "sizeBytes": 4198452,
+      "sizeFormatted": "4.00 MB",
+      "assignedSubjectId": "dm5-res-meth-bio-med",
+      "assignedSubjectCode": "DM.5 RES METH BIO MED",
+      "category": "theoretical",
+      "status": "verified"
+    },
+    {
+      "filename": "KFU, DM-3rd year Microbiology, virology  Practical book_5959e5451262072d38e5ab4d0bcf1542.pdf",
+      "sizeBytes": 1534295,
+      "sizeFormatted": "1.46 MB",
+      "assignedSubjectId": "dm5-micromviro",
+      "assignedSubjectCode": "DM.5 MICROMVIRO",
+      "category": "practical",
+      "status": "requires-human-verification"
+    },
+    {
+      "filename": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+      "sizeBytes": 4238225,
+      "sizeFormatted": "4.04 MB",
+      "assignedSubjectId": "dm5-micromviro",
+      "assignedSubjectCode": "DM.5 MICROMVIRO",
+      "category": "theoretical",
+      "status": "requires-human-verification"
+    },
+    {
+      "filename": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf",
+      "sizeBytes": 8200826,
+      "sizeFormatted": "7.82 MB",
+      "assignedSubjectId": "dm5-pub-health",
+      "assignedSubjectCode": "DM.5 PUB HEALTH",
+      "category": "mixed",
+      "status": "verified"
+    },
+    {
+      "filename": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040 (1).pdf",
+      "sizeBytes": 8200826,
+      "sizeFormatted": "7.82 MB",
+      "assignedSubjectId": "dm5-pub-health",
+      "assignedSubjectCode": "DM.5 PUB HEALTH",
+      "category": "duplicate",
+      "status": "duplicate-of-primary"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lecture",
+  "type": "object",
+  "required": ["id", "subjectId", "type", "titleEn", "order", "objectives", "sections", "glossary", "keyPoints", "sourceReference", "status"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "subjectId": { "type": "string" },
+    "type": { "type": "string", "enum": ["theoretical", "practical", "mixed"] },
+    "titleEn": { "type": "string" },
+    "titleAr": { "type": "string" },
+    "order": { "type": "integer", "minimum": 1 },
+    "objectives": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "textEn"],
+        "properties": {
+          "id": { "type": "string" },
+          "textEn": { "type": "string" },
+          "textAr": { "type": "string" }
+        }
+      }
+    },
+    "sections": { "type": "array" },
+    "glossary": { "type": "array" },
+    "keyPoints": { "type": "array", "items": { "type": "string" } },
+    "sourceReference": {
+      "type": "object",
+      "required": ["pdfFile", "pageStart", "confidence"],
+      "properties": {
+        "pdfFile": { "type": "string" },
+        "pageStart": { "type": "integer", "minimum": 1 },
+        "pageEnd": { "type": "integer" },
+        "section": { "type": "string" },
+        "confidence": { "type": "string", "enum": ["verified", "inferred", "unassigned"] }
+      }
+    },
+    "status": { "type": "string", "enum": ["available", "coming-soon", "in-progress", "completed"] },
+    "estimatedMinutes": { "type": "integer", "minimum": 1 },
+    "relatedQuizId": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } }
+  }
+}

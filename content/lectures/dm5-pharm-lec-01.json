@@ -1,0 +1,97 @@
+{
+  "id": "dm5-pharm-lec-01",
+  "subjectId": "dm5-pharm",
+  "type": "theoretical",
+  "titleEn": "General Pharmacology: Drug Nomenclature and Pharmacokinetics",
+  "titleAr": "مبادئ علم الأدوية العامة: تسمية الأدوية والحرائك الدوائية",
+  "order": 1,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+    "pageStart": 3,
+    "pageEnd": 18,
+    "section": "Chapter 1: General Pharmacology",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-pharm-1",
+      "textEn": "Define pharmacology, distinguishing between pharmacokinetics (what the body does to the drug) and pharmacodynamics (what the drug does to the body).",
+      "textAr": "تعريف علم الأدوية والتفريق بين الحرائك الدوائية (تأثير الجسم على الدواء) والديناميكية الدوائية (تأثير الدواء على الجسم)"
+    },
+    {
+      "id": "obj-pharm-2",
+      "textEn": "Understand drug nomenclature types: Chemical, Generic (scientific), and Proprietary (trade) names.",
+      "textAr": "فهم منظومة تسمية الأدوية الثلاثية: الاسم الكيميائي، الاسم العلمي العام، والاسم التجاري"
+    },
+    {
+      "id": "obj-pharm-3",
+      "textEn": "Analyze the four pharmacokinetic phases: Absorption, Distribution, Metabolism (Biotransformation), and Excretion (ADME).",
+      "textAr": "استيعاب المراحل الأربع لحرائك الدواء: الامتصاص، التوزيع، الاستقلاب أو الأيض، والإطراح (ADME)"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-pharm-1",
+      "titleEn": "1. Fundamental Definitions & Drug Nomenclature",
+      "titleAr": "١. المفاهيم الأساسية وتسمية الأدوية الطبية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Pharmacology is the medical science dealing with drugs, focusing primarily on two overarching branches: Pharmacodynamics (the biochemical and physiological effects of drugs on the body) and Pharmacokinetics (how the body absorbs, distributes, metabolizes, and excretes the drug).",
+          "textAr": "بصي يا دكتورة ريهام، علم الـ Pharmacology بيتقسم لقسمين كبار هيفضلوا معاكي طول رحلتك الطبية: الـ Pharmacokinetics (يعني الجسم بيعمل إيه في الدواء - من أول ما يبلعه لحد ما يخرجه برة)، والـ Pharmacodynamics (يعني الدواء بيعمل إيه في الجسم - آلية العمل والـ Therapeutic effects). والأدوية ليها ٣ أسماء: الاسم الكيميائي (معقد ومش بنستخدمه سريرياً)، والاسم العلمي Generic Name (وده الأهم اللي بنكتب بيه الروشتات زي Paracetamol)، والاسم التجاري Trade Name (اللي بتطلعه الشركات زي Panadol أو Cetal)."
+        },
+        {
+          "type": "table",
+          "tableData": {
+            "headers": ["Type of Name", "Description", "Clinical Example"],
+            "rows": [
+              ["Chemical Name", "Describes atomic/molecular chemical structure", "N-acetyl-p-aminophenol"],
+              ["Generic / Scientific Name", "Official nonproprietary international standard (INN)", "Paracetamol (Acetaminophen)"],
+              ["Trade / Brand Name", "Proprietary commercial trademark given by manufacturer", "Panadol, Tylenol, Cetal"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-pharm-2",
+      "titleEn": "2. The ADME Principles of Pharmacokinetics",
+      "titleAr": "٢. مراحل الحرائك الدوائية الأربعة (ADME)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "The concentration of drug available at the target receptor site is governed by four sequential biological processes summarized by the acronym ADME: Absorption, Distribution, Metabolism, and Excretion.",
+          "textAr": "أي دواء بيعدي على رحلة الـ ADME: أول مرحلة هي الـ Absorption (انتقال الدواء من مكان إعطاؤه لمجرى الدم)، وتاني مرحلة هي الـ Distribution (توزيعه للأنسجة المختلفة وسوائل الجسم والارتباط ببروتينات البلازما زي الـ Albumin). تالت مرحلة هي الـ Metabolism في الكبد (الـ Biotransformation عشان يحول الدواء من Lipid-soluble إلى Water-soluble)، ورابع مرحلة هي الـ Excretion (غالباً عن طريق الكلى في البول)."
+        },
+        {
+          "type": "important",
+          "textEn": "Bioavailability (F) represents the percentage of administered drug that reaches systemic circulation in an active, unchanged form. Intravenous (IV) administration provides 100% bioavailability by definition.",
+          "textAr": "قاعدة مهمة جداً في الامتحانات: الـ Bioavailability لأي حقن وريدي (IV) هي 100% دائماً، لأن مفيش First-pass metabolism في الكبد، والدواء بيدخل الدورة الدموية مباشرة!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Bioavailability",
+      "termAr": "التوافر الحيوي",
+      "definitionEn": "The fraction or percentage of an administered dose of unchanged drug that reaches systemic circulation.",
+      "definitionAr": "نسبة الجرعة الدوائية التي تصل إلى الدورة الدموية الجهازية دون أي تغير كيميائي."
+    },
+    {
+      "termEn": "First-pass Metabolism",
+      "termAr": "تأثير المرور الكبدي الأول",
+      "definitionEn": "The pre-systemic hepatic and intestinal metabolism of orally administered drugs before entering general circulation.",
+      "definitionAr": "الأيض الكبدي والمعوي الذي يتعرض له الدواء المأخوذ بالفم قبل وصوله إلى الدورة الدموية العامة."
+    }
+  ],
+  "keyPoints": [
+    "Pharmacokinetics: what the body does to the drug (ADME).",
+    "Pharmacodynamics: what the drug does to the body (receptors, efficacy, toxicity).",
+    "Intravenous route bypasses first-pass hepatic metabolism and provides 100% bioavailability.",
+    "Dental prescriptions should emphasize generic scientific names to prevent confusion."
+  ],
+  "relatedQuizId": "sample-quiz-pharm"
+}

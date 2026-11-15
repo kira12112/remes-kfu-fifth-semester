@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Subject",
+  "type": "object",
+  "required": ["id", "code", "titleEn", "descriptionEn", "icon", "color", "status", "order"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "code": { "type": "string" },
+    "titleEn": { "type": "string" },
+    "titleAr": { "type": "string" },
+    "descriptionEn": { "type": "string" },
+    "descriptionAr": { "type": "string" },
+    "icon": { "type": "string" },
+    "color": { "type": "string" },
+    "status": { "type": "string", "enum": ["available", "coming-soon", "in-progress", "completed"] },
+    "sourceFiles": { "type": "array", "items": { "type": "string" } },
+    "theoreticalCount": { "type": "integer", "minimum": 0 },
+    "practicalCount": { "type": "integer", "minimum": 0 },
+    "estimatedHours": { "type": "number", "minimum": 0 },
+    "prerequisites": { "type": "array", "items": { "type": "string" } },
+    "order": { "type": "integer", "minimum": 1, "maximum": 12 }
+  }
+}

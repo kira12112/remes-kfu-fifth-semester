@@ -1,0 +1,68 @@
+{
+  "id": "dm5-pathol-anat-lec-01",
+  "subjectId": "dm5-pathol-anat",
+  "type": "theoretical",
+  "titleEn": "Autoimmune Diseases and Hypersensitivity Disorders",
+  "titleAr": "أمراض المناعة الذاتية واضطرابات فرط التحسس",
+  "order": 1,
+  "estimatedMinutes": 35,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf",
+    "pageStart": 4,
+    "pageEnd": 12,
+    "section": "Chapter One: Autoimmune Diseases / Hypersensitivity Disorders",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-pa-1",
+      "textEn": "Classify the four Gell and Coombs types of hypersensitivity reactions with their immunological mediators.",
+      "textAr": "تصنيف الأنواع الأربعة لتفاعلات فرط التحسس حسب تصنيف جيل وكومبس والوسائط المناعية لكل نوع"
+    },
+    {
+      "id": "obj-pa-2",
+      "textEn": "Understand the breakdown of self-tolerance in autoimmune disorders, highlighting oral manifestations.",
+      "textAr": "فهم آليات انهيار التحمل المناعي الذاتي والمظاهر الفموية للأمراض المناعية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-pa-1",
+      "titleEn": "1. Gell & Coombs Classification of Hypersensitivity",
+      "titleAr": "١. تصنيف فرط التحسس (أنواعه الأربعة وتطبيقاته)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Hypersensitivity refers to exaggerated or inappropriate immune reactions leading to tissue injury and disease. The classic Gell and Coombs classification recognizes four mechanistic pathways: Type I (Immediate / IgE-mediated), Type II (Antibody-mediated cytotoxic), Type III (Immune complex-mediated), and Type IV (T cell-mediated / Delayed type).",
+          "textAr": "بصي يا ريهام، الـ Hypersensitivity دي من أهم موضوعات الـ Pathology في سنة خامسة وسؤال مضمون في الامتحان! العلماء جيل وكومبس قسموها لـ ٤ أنواع بنحفظها بكلمة ACID:\n- Type I (A = Anaphylactic / Allergy): mediated by IgE antibodies and Mast cell degranulation (زي حساسية البنسلين في عيادة الأسنان).\n- Type II (C = Cytotoxic / Antibody-dependent): IgG أو IgM يهاجموا خلايا معينة ويدمروها بالـ Complement.\n- Type III (I = Immune complex): معقدات مناعية Antigen-Antibody complexes تترسب في الأوعية الدموية وتعمل Vasculitis.\n- Type IV (D = Delayed type): دي الوحيدة اللي مش Antibodies، دي Cell-mediated بواسطة T-lymphocytes (زي اختبار السل Mantoux test وحساسية التلامس مع الـ Latex gloves)."
+        },
+        {
+          "type": "table",
+          "tableData": {
+            "headers": ["Type", "Primary Mediator", "Prototype Clinical Example"],
+            "rows": [
+              ["Type I (Immediate)", "IgE antibodies, Histamine, Mast cells", "Anaphylaxis, Urticaria, Penicillin allergy"],
+              ["Type II (Cytotoxic)", "IgG/IgM antibodies, Complement, ADCC", "Autoimmune hemolytic anemia, Pemphigus vulgaris"],
+              ["Type III (Immune Complex)", "Circulating Ag-Ab complexes", "Systemic Lupus Erythematosus (SLE), Serum sickness"],
+              ["Type IV (Delayed)", "CD4+ / CD8+ T cells, Macrophages", "Contact dermatitis (latex), Mantoux tuberculin test"]
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Immune Tolerance",
+      "termAr": "التحمل المناعي الذاتي",
+      "definitionEn": "State of unresponsiveness to a specific antigen, especially self-antigens, preventing autoimmune destruction.",
+      "definitionAr": "حالة عدم استجابة الجهاز المناعي لمولدات الضد الخاصة بأنسجة الجسم السليمة لمنع تدميرها."
+    }
+  ],
+  "keyPoints": [
+    "Type I hypersensitivity is IgE-mediated and can trigger life-threatening anaphylactic shock upon drug exposure.",
+    "Pemphigus vulgaris involves Type II cytotoxic IgG antibodies targeting desmosomal desmoglein, producing fragile intraepithelial bullae in the oral mucosa.",
+    "Type IV hypersensitivity is solely T cell-mediated without antibody involvement."
+  ]
+}
