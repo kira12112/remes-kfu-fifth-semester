@@ -1,0 +1,55 @@
+{
+  "id": "dm5-pathol-anat-lec-04",
+  "subjectId": "dm5-pathol-anat",
+  "type": "theoretical",
+  "titleEn": "Cardiovascular Pathology: Atherosclerosis and Infective Endocarditis",
+  "titleAr": "أمراض القلب والأوعية الدموية: التصلب العصيدي والتهاب شغاف القلب العدوائي",
+  "order": 4,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf",
+    "pageStart": 19,
+    "pageEnd": 24,
+    "section": "Topic 4. Cardiovasular Diseases",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Understand atheroma plaque formation, fibrous cap rupture, and acute myocardial infarction.",
+      "textAr": "فهم تكوين لويحة التصلب العصيدي وتمزق الغطاء الليفي واحتشاء العضلة القلبية"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze the pathogenesis of Infective Endocarditis (Viridans Streptococci bacteremia from dental procedures) and antibiotic prophylaxis guidelines.",
+      "textAr": "آلية التهاب شغاف القلب الجرثومي بعد جراحة الأسنان والوقاية بالمضادات الحيوية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Infective Endocarditis and Dental Bacteremia",
+      "titleAr": "التهاب شغاف القلب وبكتيريا الفم أثناء إجراءات الأسنان",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Infective endocarditis (IE) involves microbial colonization of damaged heart valves or prosthetic materials, leading to the formation of friable vegetations. Transient bacteremia with oral Viridans group streptococci (e.g., Streptococcus viridans, S. sanguinis, S. mutans) can occur during invasive dental procedures involving gingival manipulation or mucosal perforation. High-risk patients (prosthetic cardiac valves, previous IE, unrepaired cyanotic congenital heart disease) require standard antibiotic prophylaxis with Amoxicillin 2g orally (or Clindamycin 600mg / Azithromycin 500mg if penicillin-allergic) 30 to 60 minutes prior to the procedure.",
+          "textAr": "بصي يا دكتورة ريهام دي مسألة حياة أو موت في عيادتك: لما بتعملي خلع أو تقليح لثة عميق، شوية بكتيريا من الفم من عائلة الـ Viridans Streptococci بتدخل مجرى الدم (Transient Bacteremia). عند الشخص السليم المناعة بتقضي عليها في دقايق؛ لكن لو المريض مركب صمام قلب صناعي (Prosthetic Heart Valve) أو كان جاله قبل كدة التهاب في صمامات القلب (Infective Endocarditis)، البكتيريا دي بتسافر على الصمام وتعمل مستعمرات وتكتلات (Vegetations) تدمر الصمام وتسبب الوفاة! عشان كدة لازم تديه مضاد حيوي وقائي (Antibiotic Prophylaxis): 2 جرام أموكسيسيلين فموياً قبل الشغل بساعة!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Infective Endocarditis",
+      "termAr": "التهاب شغاف القلب العدوائي",
+      "definitionEn": "Microbial infection of the endothelial surface of heart valves characterized by vegetations of bacteria and platelets.",
+      "definitionAr": "عدوى جرثومية تصيب صمامات القلب وتؤدي لتشكل خثرات بكتيرية خطيرة."
+    }
+  ],
+  "keyPoints": [
+    "Oral Viridans Streptococci bacteremia can trigger infective endocarditis on abnormal valves.",
+    "Prophylaxis regimen: Amoxicillin 2g orally 30-60 min before procedure (or Clindamycin 600mg if allergic)."
+  ]
+}

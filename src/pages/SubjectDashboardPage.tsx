@@ -36,69 +36,137 @@ const subjectCurricula: Record<
   'dm5-car-hard-dent': {
     theoretical: [
       { id: 'dm5-car-hard-dent-lec-01', titleEn: 'Diagnosis for Dental Caries and Hard Tissue Diseases', titleAr: 'تشخيص تسوس الأسنان وأمراض الأنسجة السنية الصلبة', mins: 35, available: true },
-      { id: 'dm5-car-hard-dent-lec-02', titleEn: 'Dental Caries: Etiology, Pathogenesis & Classification', titleAr: 'تسوس الأسنان: الأسباب، آلية الحدوث، والتصنيفات', mins: 40, available: false },
-      { id: 'dm5-car-hard-dent-lec-03', titleEn: 'Prevention of Dental Caries: Fluoride & Diet', titleAr: 'طرق الوقاية من التسوس: الفلورايد والنظام الغذائي', mins: 30, available: false },
-      { id: 'dm5-car-hard-dent-lec-04', titleEn: 'Management of Caries: Non-Invasive vs Invasive', titleAr: 'إدارة التسوس: العلاج غير الجراحي مقابل الحفر', mins: 35, available: false },
-      { id: 'dm5-car-hard-dent-lec-05', titleEn: 'Restoration of Teeth: Adhesive Materials', titleAr: 'ترميم وحشو الأسنان: المواد الرابطة', mins: 45, available: false },
-      { id: 'dm5-car-hard-dent-lec-06', titleEn: 'Mistakes and Complications in Caries Treatment', titleAr: 'الأخطاء والمضاعفات الشائعة أثناء علاج التسوس', mins: 30, available: false },
-      { id: 'dm5-car-hard-dent-lec-07', titleEn: 'Non-Carious Lesions: Erosion, Abrasion, Abfraction', titleAr: 'الآفات غير النخرية: التآكل الكيميائي، السحج، والانسحال', mins: 30, available: false },
-      { id: 'dm5-car-hard-dent-lec-08', titleEn: 'Teeth Whitening and Bleaching Protocols', titleAr: 'بروتوكولات تبييض وتفتيح الأسنان', mins: 25, available: false },
+      { id: 'dm5-car-hard-dent-lec-02', titleEn: 'Etiology and Pathogenesis of Dental Caries', titleAr: 'أسباب وآلية حدوث تسوس الأسنان والبيوفيلم البكتيري', mins: 45, available: true },
+      { id: 'dm5-car-hard-dent-lec-03', titleEn: 'Prevention of Dental Caries: Fluoride and Sealants', titleAr: 'الوقاية من تسوس الأسنان: آليات الفلورايد وسادات الشقوق', mins: 40, available: true },
+      { id: 'dm5-car-hard-dent-lec-04', titleEn: 'Caries Risk Assessment and Management (CAMBRA)', titleAr: 'تقييم مخاطر التسوس وبروتوكول كامبرا (CAMBRA)', mins: 45, available: true },
+      { id: 'dm5-car-hard-dent-lec-05', titleEn: 'Restoration of Teeth: Adhesive Systems and Composites', titleAr: 'ترميم الأسنان: أنظمة اللصق والمواد المركبة (الكومبوزيت)', mins: 50, available: true },
+      { id: 'dm5-car-hard-dent-lec-06', titleEn: 'Complications and Failures in Restorative Treatment', titleAr: 'أخطاء ومضاعفات حشو الأسنان والتسوس الثانوي', mins: 40, available: true },
+      { id: 'dm5-car-hard-dent-lec-07', titleEn: 'Non-Carious Cervical Lesions (NCCLs) & Hard Tissue Defects', titleAr: 'الآفات غير التسوسية: التآكل، الحت، الانقلاع، ونقص التكلس', mins: 45, available: true },
+      { id: 'dm5-car-hard-dent-lec-08', titleEn: 'Teeth Whitening and Bleaching Mechanisms', titleAr: 'تبييض الأسنان: الكيمياء الحيوية والبروتوكولات السريرية', mins: 35, available: true },
     ],
     practical: [
-      { id: 'car-prac-01', titleEn: 'Class I Cavity Preparation & 6 Fundamental Steps', titleAr: 'تحضير حفر الصنف الأول والخطوات الست الأساسية', available: true },
-      { id: 'car-prac-02', titleEn: 'Class II Cavity Preparation: Proximal Box & Retention', titleAr: 'تحضير حفر الصنف الثاني: الصندوق الملاصق ووسائل التثبيت', available: false },
-      { id: 'car-prac-03', titleEn: 'Class III Cavity Preparation in Anterior Teeth', titleAr: 'تحضير حفر الصنف الثالث في الأسنان الأمامية', available: false },
-      { id: 'car-prac-04', titleEn: 'Class IV Incisal Angle Preparation', titleAr: 'تحضير حفر الصنف الرابع متضمناً الزاوية القاطعة', available: false },
-      { id: 'car-prac-05', titleEn: 'Class V Cervical Preparation & Isolation', titleAr: 'تحضير حفر الصنف الخامس العنقي وطرق العزل', available: false },
+      { id: 'dm5-car-hard-dent-prac-01', titleEn: 'Practical 1: Class I Cavity Preparation', titleAr: 'العملي ١: تحضير حفر الصنف الأول (Class I Cavity Preparation)', available: true },
+      { id: 'dm5-car-hard-dent-prac-02', titleEn: 'Practical 2: Class II Cavity Preparation & Proximal Box', titleAr: 'العملي ٢: تحضير حفر الصنف الثاني والصندوق الملاصق (Class II)', available: true },
+      { id: 'dm5-car-hard-dent-prac-03', titleEn: 'Practical 3: Class III Cavity Preparation', titleAr: 'العملي ٣: تحضير حفر الصنف الثالث على الأسنان الأمامية (Class III)', available: true },
+      { id: 'dm5-car-hard-dent-prac-04', titleEn: 'Practical 4: Class IV Cavity Preparation & Beveling', titleAr: 'العملي ٤: تحضير وترميم حفر الصنف الرابع وشطب الحواف (Class IV)', available: true },
+      { id: 'dm5-car-hard-dent-prac-05', titleEn: 'Practical 5: Class V Cavity Preparation', titleAr: 'العملي ٥: تحضير حفر الصنف الخامس وتثبيت الحشو (Class V)', available: true },
     ],
     quizzes: [
-      { id: 'quiz-car-hard-dent-01', titleEn: 'Cariology Diagnosis & Clinical Assessment Quiz', count: 3, available: true },
+      { id: 'quiz-car-hard-dent-01', titleEn: 'Comprehensive Cariology & Cavity Preparation Question Bank', count: 8, available: true },
     ],
   },
-  'dm5-pharm': {
+  'dm5-micromviro': {
     theoretical: [
-      { id: 'dm5-pharm-lec-01', titleEn: 'General Pharmacology: Drug Nomenclature and Pharmacokinetics', titleAr: 'مبادئ علم الأدوية: تسمية الأدوية والحرائك الدوائية (ADME)', mins: 40, available: true },
-      { id: 'dm5-pharm-lec-02', titleEn: 'Autonomic Pharmacology: Cholinergic (Parasympathomimetic) Drugs', titleAr: 'أدوية الجهاز الذاتي: محاكيات الجهاز نظير الودي', mins: 35, available: false },
-      { id: 'dm5-pharm-lec-03', titleEn: 'Adrenergic (Sympathomimetic) Drugs & Receptor Actions', titleAr: 'أدوية ومستقبلات الجهاز الودي وتطبيقاتها في التخدير السني', mins: 40, available: false },
-      { id: 'dm5-pharm-lec-04', titleEn: 'Autacoids, Histamine & NSAIDs in Dental Practice', titleAr: 'مضادات الالتهاب غير الستيرويدية والأوتاكويد في طب الأسنان', mins: 35, available: false },
-      { id: 'dm5-pharm-lec-05', titleEn: 'CNS Pharmacology: Sedatives & Opioid Analgesics', titleAr: 'أدوية الجهاز العصبي المركزي: المهدئات والمسكنات الأفيونية', mins: 40, available: false },
-      { id: 'dm5-pharm-lec-06', titleEn: 'Local Anesthetics in Dentistry: Mechanism & Toxicity', titleAr: 'المخدرات الموضعية في طب الأسنان: آلية العمل والسمية', mins: 35, available: false },
+      { id: 'dm5-micromviro-lec-01', titleEn: 'Sanitary Microbiology, Sterilization, and Bacterial Classification', titleAr: 'الأحياء الدقيقة الصحية: التعقيم والتطهير في عيادة الأسنان وتصنيف البكتيريا', mins: 45, available: true },
+      { id: 'dm5-micromviro-lec-02', titleEn: 'Gram-Positive Cocci: Staphylococci and Streptococci', titleAr: 'المكورات الإيجابية لصبغة غرام: العنقوديات الذهبية والعقديات الفموية', mins: 45, available: true },
+      { id: 'dm5-micromviro-lec-03', titleEn: 'Gram-Negative Cocci and Spore-Forming Gram-Positive Bacilli', titleAr: 'المكورات السلبية لغرام والعصيات الإيجابية المشكلة للأبواغ (الكلوستريديوم والكزاز)', mins: 45, available: true },
+      { id: 'dm5-micromviro-lec-04', titleEn: 'Gram-Negative Bacilli and Dental Unit Waterline Biofilms', titleAr: 'العصيات السالبة لصبغة غرام وبيوفيلم خراطيم مياه كراسي الأسنان (Pseudomonas)', mins: 45, available: true },
+      { id: 'dm5-micromviro-lec-05', titleEn: 'Mycobacterium tuberculosis and Airborne Transmission in Dental Aerosols', titleAr: 'عصيات السل (الدرن) وخطر انتقال العدوى بالرذاذ في عيادة الأسنان', mins: 45, available: true },
+      { id: 'dm5-micromviro-lec-06', titleEn: 'Oral Microbiome, Dental Plaque Biofilm, and Periodontal Pathogens', titleAr: 'الميكروبيوم الفموي: تشكل البيوفيلم واللويحة السنية وبكتيريا النسج الداعمة', mins: 50, available: true },
+      { id: 'dm5-micromviro-lec-07', titleEn: 'Virology: Herpesviruses, Bloodborne Hepatitis (HBV/HCV), and HIV in Dentistry', titleAr: 'علم الفيروسات: فيروسات الهربس، التهاب الكبد B و C، والإيدز ومخاطر الوخز بالإبر', mins: 50, available: true },
+      { id: 'dm5-micromviro-lec-08', titleEn: 'Medical Mycology: Oral Candidiasis and Antifungal Therapy', titleAr: 'الفطريات الطبية: داء المبيضات الفموي (الكانديدا) وخيارات العلاج بمضادات الفطريات', mins: 45, available: true },
     ],
     practical: [
-      { id: 'pharm-prac-01', titleEn: 'Prescription Writing Rules & Dental Dosages', titleAr: 'قواعد كتابة الروشتة الطبية وحساب الجرعات السنية', available: true },
-      { id: 'pharm-prac-02', titleEn: 'Emergency Drug Administration & Anaphylaxis Kit', titleAr: 'أدوية الطوارئ والتعامل مع الصدمة التحسسية بالعيادة', available: false },
     ],
     quizzes: [
-      { id: 'sample-quiz-pharm', titleEn: 'Basic Pharmacology MCQ Quiz', count: 5, available: true },
+      { id: 'quiz-micromviro-01', titleEn: 'Microbiology & Virology High-Yield Question Bank', count: 3, available: true },
     ],
   },
   'dm5-pathol-anat': {
     theoretical: [
       { id: 'dm5-pathol-anat-lec-01', titleEn: 'Autoimmune Diseases and Hypersensitivity Disorders', titleAr: 'أمراض المناعة الذاتية واضطرابات فرط التحسس', mins: 35, available: true },
-      { id: 'dm5-pathol-anat-lec-02', titleEn: 'Carbohydrate Metabolism Disorders & Diabetes Pathology', titleAr: 'اضطرابات أيض الكربوهيدرات والتشريح المرضي للسكري', mins: 30, available: false },
-      { id: 'dm5-pathol-anat-lec-03', titleEn: 'Acid-Base Homeostasis & Cellular Disorders', titleAr: 'اضطرابات التوازن الحمضي القلوي', mins: 30, available: false },
-      { id: 'dm5-pathol-anat-lec-04', titleEn: 'Cardiovascular Pathology: Atherosclerosis & Infarction', titleAr: 'أمراض القلب والأوعية: تصلب الشرايين واحتشاء العضلة القلبية', mins: 40, available: false },
-      { id: 'dm5-pathol-anat-lec-05', titleEn: 'Gastrointestinal & Oral Mucosal Pathology', titleAr: 'أمراض الجهاز الهضمي والآفات المخاطية الفموية', mins: 35, available: false },
-      { id: 'dm5-pathol-anat-lec-06', titleEn: 'General Neoplasia: Benign vs Malignant Tumors', titleAr: 'الأورام العامة: التفرقة بين الأورام الحميدة والخبيثة', mins: 40, available: false },
+      { id: 'dm5-pathol-anat-lec-02', titleEn: 'Carbohydrate Metabolism Disorders & Diabetes Mellitus', titleAr: 'اضطرابات استقلاب السكريات ومرض السكري ومظاهره الفموية', mins: 45, available: true },
+      { id: 'dm5-pathol-anat-lec-03', titleEn: 'Pathology of Acid-Base and Fluid Homeostasis', titleAr: 'اضطرابات التوازن الحمضي-القلوي وسوائل الجسم', mins: 40, available: true },
+      { id: 'dm5-pathol-anat-lec-04', titleEn: 'Cardiovascular Pathology: Atherosclerosis and Infective Endocarditis', titleAr: 'أمراض القلب والأوعية الدموية: التصلب العصيدي والتهاب شغاف القلب العدوائي', mins: 45, available: true },
+      { id: 'dm5-pathol-anat-lec-05', titleEn: 'Gastrointestinal Pathology & Oral Manifestations', titleAr: 'أمراض الجهاز الهضمي والتقرحات القلاعية الفموية المرافقة', mins: 40, available: true },
+      { id: 'dm5-pathol-anat-lec-06', titleEn: 'Thermal Metabolism Disorders, Fever, and Pulmonary Pathology', titleAr: 'اضطرابات الحرارة والحمى وأمراض الرئة والجهاز التنفسي', mins: 40, available: true },
     ],
     practical: [
-      { id: 'pa-prac-01', titleEn: 'Histopathological Slide Identification & Diagnostic Biopsy', titleAr: 'قراءة الشرائح النسيجية المرضية ومبادئ الخزعة التشخيصية', available: false },
     ],
-    quizzes: [],
+    quizzes: [
+      { id: 'quiz-pathol-anat-01', titleEn: 'Pathological Anatomy High-Yield Question Bank', count: 2, available: true },
+    ],
+  },
+  'dm5-pathol-phys': {
+    theoretical: [
+      { id: 'dm5-pathol-phys-lec-01', titleEn: 'General Nosology: Etiology, Pathogenesis, and Disease Concepts', titleAr: 'مبادئ علم الأمراض العام (النزولوجيا): المسببات والآليات وتصنيف الأمراض', mins: 45, available: true },
+      { id: 'dm5-pathol-phys-lec-02', titleEn: 'Cellular Adaptation: Hypertrophy, Hyperplasia, Atrophy, and Metaplasia', titleAr: 'التكيف الخلوي: الضخامة، فرط التنسج، الضمور، والحؤول (التحول النسيجي)', mins: 45, available: true },
+      { id: 'dm5-pathol-phys-lec-03', titleEn: 'Cell Injury: Reversible Damage, Necrosis, and Apoptosis', titleAr: 'أذية الخلية: الضرر العكوس، التموت النخري (Necrosis)، والموت المبرمج (Apoptosis)', mins: 45, available: true },
+      { id: 'dm5-pathol-phys-lec-04', titleEn: 'Inflammation: Acute & Chronic Mechanisms and Chemical Mediators', titleAr: 'الالتهاب: الآليات الوعائية والخلوية للالتهاب الحاد والمزمن والوسطاء الكيميائيين', mins: 50, available: true },
+      { id: 'dm5-pathol-phys-lec-05', titleEn: 'Intracellular Accumulations and Pathological Calcifications', titleAr: 'التراكمات داخل الخلايا والتكلسات المرضية (الحثلية والنقيلية)', mins: 40, available: true },
+      { id: 'dm5-pathol-phys-lec-06', titleEn: 'Tissue Repair, Regeneration, and Wound Healing', titleAr: 'ترميم الأنسجة، التجدد الخلوي، والتئام الجروح والسنخ بعد الخلع', mins: 45, available: true },
+      { id: 'dm5-pathol-phys-lec-07', titleEn: 'Circulatory Disturbances: Edema, Hyperemia, Thrombosis, Embolism, and Shock', titleAr: 'اضطرابات الدورة الدموية: الوذمة، الاحتقان، الخثار، الصمات، وحالات الصدمة', mins: 45, available: true },
+      { id: 'dm5-pathol-phys-lec-08', titleEn: 'Neoplasia: Biology of Benign vs Malignant Tumors and Oral Cancer', titleAr: 'الأورام: بيولوجيا الأورام الحميدة والخبيثة وسرطان الفم الشائك الخلايا', mins: 50, available: true },
+    ],
+    practical: [
+    ],
+    quizzes: [
+      { id: 'quiz-pathol-phys-01', titleEn: 'Pathological Physiology Comprehensive Question Bank', count: 3, available: true },
+    ],
+  },
+  'dm5-pharm': {
+    theoretical: [
+      { id: 'dm5-pharm-lec-01', titleEn: 'General Pharmacology: Drug Nomenclature and Pharmacokinetics', titleAr: 'مبادئ علم الأدوية العامة: تسمية الأدوية والحرائك الدوائية', mins: 40, available: true },
+      { id: 'dm5-pharm-lec-02', titleEn: 'Autonomic Pharmacology: Cholinergic Agonists and Antagonists', titleAr: 'أدوية الجهاز العصبي اللاإرادي: محاكيات ومضادات الكولين', mins: 45, available: true },
+      { id: 'dm5-pharm-lec-03', titleEn: 'Autonomic Pharmacology: Sympathomimetics and Adrenergic Blockers', titleAr: 'أدوية الجهاز السمبثاوي: الأدرينالين ومثبطات المستقبلات الأدرينرجية', mins: 45, available: true },
+      { id: 'dm5-pharm-lec-04', titleEn: 'Autacoids: Histamine, Serotonin, and Prostaglandins', titleAr: 'الأوتاكويدات: الهستامين ومضاداته، السيروتونين، والبروستاغلاندين', mins: 35, available: true },
+      { id: 'dm5-pharm-lec-05', titleEn: 'CNS Pharmacology: Analgesics, Opioids, NSAIDs, and Sedatives', titleAr: 'أدوية الجهاز العصبي المركزي: المسكنات، مضادات الالتهاب، والمهدئات', mins: 50, available: true },
+      { id: 'dm5-pharm-lec-06', titleEn: 'Cardiovascular Pharmacology and Dental Management', titleAr: 'أدوية القلب والدورة الدموية والتدبير السريري لمريض الأسنان', mins: 45, available: true },
+    ],
+    practical: [
+      { id: 'dm5-pharm-prac-01', titleEn: 'Practical 1: Pharmaceutical Dosage Forms and Routes of Administration', titleAr: 'العملي ١: الأشكال الصيدلانية الدوائية وطرق إعطاء الدواء', available: true },
+      { id: 'dm5-pharm-prac-02', titleEn: 'Practical 2: Prescription Writing and Dose Calculation in Dentistry', titleAr: 'العملي ٢: كتابة الروشتة الطبية وحساب الجرعات الدوائية في طب الأسنان', available: true },
+      { id: 'dm5-pharm-prac-03', titleEn: 'Practical 3: Dental Local Anesthetic Formulations and Calculations', titleAr: 'العملي ٣: تركيبات بنج الأسنان وحساب الجرعات القصوى الآمنة', available: true },
+      { id: 'dm5-pharm-prac-04', titleEn: 'Practical 4: Medical Emergencies in the Dental Chair and Emergency Drug Kit', titleAr: 'العملي ٤: تدبير طوارئ عيادة الأسنان وصيدلية الإسعاف الأولي', available: true },
+    ],
+    quizzes: [
+      { id: 'quiz-pharm-01', titleEn: 'Comprehensive Dental Pharmacology Question Bank', count: 8, available: true },
+      { id: 'quiz-pharm-basics-01', titleEn: 'Basic Pharmacology — Sample Quiz', count: 5, available: true },
+    ],
   },
   'dm5-propaed-int-med': {
     theoretical: [
       { id: 'dm5-propaed-int-med-lec-01', titleEn: 'The Medical History and the Art of Questioning', titleAr: 'التاريخ الطبي السريري وفن الاستجواب الطبي', mins: 30, available: true },
-      { id: 'dm5-propaed-int-med-lec-02', titleEn: 'General Physical Examination of the Patient', titleAr: 'الفحص السريري العام للمريض والعلامات الحيوية', mins: 35, available: false },
-      { id: 'dm5-propaed-int-med-lec-03', titleEn: 'Examination of the Respiratory System', titleAr: 'فحص الجهاز التنفسي والسمعيات الصدرية', mins: 40, available: false },
-      { id: 'dm5-propaed-int-med-lec-04', titleEn: 'Examination of the Cardiovascular System', titleAr: 'فحص القلب والأوعية الدموية والأصوات القلبية', mins: 40, available: false },
-      { id: 'dm5-propaed-int-med-lec-05', titleEn: 'Examination of the Digestive System & Abdomen', titleAr: 'فحص الجهاز الهضمي والبطن', mins: 35, available: false },
-      { id: 'dm5-propaed-int-med-lec-06', titleEn: 'Endocrine & Metabolic Signs in Clinical Practice', titleAr: 'العلامات السريرية للغدد الصماء والتمثيل الغذائي', mins: 30, available: false },
+      { id: 'dm5-propaed-int-med-lec-02', titleEn: 'General (External) Examination of the Patient and Head & Neck Lymph Nodes', titleAr: 'الفحص السريري العام للمريض وجس العقد اللمفاوية في الرأس والعنق', mins: 45, available: true },
+      { id: 'dm5-propaed-int-med-lec-03', titleEn: 'Examination of the Respiratory System: Inspection, Palpation, Percussion, and Auscultation', titleAr: 'فحص الجهاز التنفسي: المعاينة، الجس، القرع، والتسمع الرئوي', mins: 45, available: true },
+      { id: 'dm5-propaed-int-med-lec-04', titleEn: 'Examination of the Cardiovascular System: Heart Sounds, Murmurs, and Blood Pressure', titleAr: 'فحص الجهاز القلبي الوعائي: أصوات القلب، النفخات، وقياس ضغط الدم', mins: 45, available: true },
+      { id: 'dm5-propaed-int-med-lec-05', titleEn: 'Examination of Digestive and Urinary Systems: Abdominal Signs', titleAr: 'فحص الجهازين الهضمي والبولي: علامات البطن السريرية والألم المنقول', mins: 40, available: true },
+      { id: 'dm5-propaed-int-med-lec-06', titleEn: 'Clinical Laboratory Diagnostics & Electrocardiography (ECG)', titleAr: 'التحاليل المخبرية السريرية وتخطيط القلب الكهربائي (ECG)', mins: 45, available: true },
     ],
     practical: [
-      { id: 'pim-prac-01', titleEn: 'Vital Signs Measurement & Blood Pressure Recording', titleAr: 'قياس العلامات الحيوية وتسجيل ضغط الدم السريري', available: false },
     ],
-    quizzes: [],
+    quizzes: [
+      { id: 'quiz-propaed-int-med-01', titleEn: 'Propaedeutics Clinical Examination Question Bank', count: 2, available: true },
+    ],
+  },
+  'dm5-pub-health': {
+    theoretical: [
+      { id: 'dm5-pub-health-lec-01', titleEn: 'Concepts and Principles of Public Health and Practice', titleAr: 'مفاهيم ومبادئ الصحة العامة والممارسة الوقائية', mins: 45, available: true },
+      { id: 'dm5-pub-health-lec-02', titleEn: 'Statistical Methods and Health Data Analysis in Medical Research', titleAr: 'الطرق الإحصائية وتحليل البيانات الصحية في البحوث الطبية', mins: 45, available: true },
+      { id: 'dm5-pub-health-lec-03', titleEn: 'Demography and Health Measures: Vital Statistics and Indices', titleAr: 'علم السكان والمؤشرات الصحية: الإحصاءات الحيوية ومعدل وفيات الرضع', mins: 40, available: true },
+      { id: 'dm5-pub-health-lec-04', titleEn: 'Health Determinants, Epidemiology, and Morbidity Measures', titleAr: 'محددات الصحة والوبائيات ومقاييس انتشار ووقوع الأمراض', mins: 45, available: true },
+      { id: 'dm5-pub-health-lec-05', titleEn: 'Healthcare Systems, Primary Health Care, and Maternal-Child Health', titleAr: 'أنظمة الرعاية الصحية والرعاية الأولية وصحة الأم والطفل', mins: 45, available: true },
+      { id: 'dm5-pub-health-lec-06', titleEn: 'Health Economics, Screening, and Disease Prevention Strategies', titleAr: 'اقتصاديات الصحة، معايير المسح الطبي الشامل (Screening)، واستراتيجيات الوقاية', mins: 45, available: true },
+    ],
+    practical: [
+    ],
+    quizzes: [
+      { id: 'quiz-pub-health-01', titleEn: 'Public Health & Epidemiology Comprehensive Question Bank', count: 2, available: true },
+    ],
+  },
+  'dm5-res-meth-bio-med': {
+    theoretical: [
+      { id: 'dm5-res-meth-bio-med-lec-01', titleEn: 'Scientific Research Principles, Hypotheses, and Laboratory Animal Models', titleAr: 'مبادئ البحث العلمي وصياغة الفرضيات ونماذج الحيوانات المخبرية', mins: 45, available: true },
+      { id: 'dm5-res-meth-bio-med-lec-02', titleEn: 'Stem Cells in Biology and Regenerative Dental Medicine', titleAr: 'الخلايا الجذعية في البيولوجيا والطب التجديدي لنسج الأسنان', mins: 45, available: true },
+      { id: 'dm5-res-meth-bio-med-lec-03', titleEn: 'Critical Appraisal: How to Read and Evaluate Scientific Papers', titleAr: 'التقييم النقدي للأبحاث: كيف تقرأ وتقيم مقالاً علمياً طبياً؟', mins: 45, available: true },
+      { id: 'dm5-res-meth-bio-med-lec-04', titleEn: 'Morphometry and Quantitative Stereology in Histological Research', titleAr: 'القياس الشكلي (المورفومتري) والتحليل الكمي في الأبحاث النسيجية', mins: 40, available: true },
+      { id: 'dm5-res-meth-bio-med-lec-05', titleEn: 'Electrophysiological Diagnostic Methods: ECG, EEG, EMG, and Nerve Conduction', titleAr: 'الطرق التشخيصية الفيزيولوجية الكهربائية: تخطيط القلب والدماغ والعضلات وتوصيل الأعصاب', mins: 45, available: true },
+    ],
+    practical: [
+    ],
+    quizzes: [
+      { id: 'quiz-res-meth-bio-med-01', titleEn: 'Research Methods & Evidence-Based Dentistry Question Bank', count: 2, available: true },
+    ],
   },
 };
 

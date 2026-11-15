@@ -1,0 +1,54 @@
+{
+  "id": "dm5-pathol-phys-lec-06",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "Tissue Repair, Regeneration, and Wound Healing",
+  "titleAr": "ترميم الأنسجة، التجدد الخلوي، والتئام الجروح والسنخ بعد الخلع",
+  "order": 6,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 107,
+    "pageEnd": 124,
+    "section": "Topic 6. Healing and repair",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Differentiate Regeneration (complete tissue reconstitution) from Healing by Scar (fibrosis).",
+      "textAr": "التفريق بين التجدد التام للأنسجة والتندب الليفي"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Compare Healing by Primary Intention (clean surgical incision) and Secondary Intention (extraction socket).",
+      "textAr": "مقارنة الالتئام الأولي بالجروح المخيطة والالتئام الثانوي بعد خلع الأسنان"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Understand Dry Socket (Alveolar Osteitis) pathogenesis and management.",
+      "textAr": "فهم آلية التهاب السنخ الجاف (Dry Socket) بعد الخلع وعلاجه السريري"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Tooth Extraction Socket Healing and Alveolar Osteitis (Dry Socket)",
+      "titleAr": "مراحل التئام مكان خلع السن وكابوس السنخ الجاف (Dry Socket)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Extraction socket healing is a classic model of healing by secondary intention. Within 24 hours, a provisional blood clot forms. By days 3-5, this clot is invaded by capillary buds and proliferating fibroblasts to form Granulation Tissue. Osteoid matrix is deposited by osteoblasts around day 14, remodeling into mature lamellar bone over months. If the initial blood clot is prematurely dislodged or enzymatically lysed by bacterial fibrinolysins, the alveolar bone walls are exposed to the oral cavity, producing Alveolar Osteitis ('Dry Socket'). The patient experiences intense, throbbing, radiating neuralgic pain on post-operative days 3 to 4, foul fetor oris, and a completely empty bony socket lacking any clot. Management involves gentle saline irrigation and packing with sedative eugenol-impregnated dressings (Alvogyl).",
+          "textAr": "بصي يا دكتورة ريهام ده أهم موضوع في جراحة الوجه والفكين: بعد ما تخلعي السن، السنخ بيلتئم بالـ Secondary Intention. أول 24 ساعة بتتكون خثرة دموية (Blood Clot)؛ بعد 3 لـ 5 أيام بتتحول لـ Granulation Tissue، وبعد أسبوعين بيبدأ العظم يترسب. لكن لو المريض تمضمض بعنف أو شرب عصير بشفاطة في أول يوم، أو البكتيريا فرزت إنزيم الـ Fibrinolysin، الخثرة دي هتدوب وتطير! ويحصل كابوس اسمه Alveolar Osteitis أو Dry Socket: يرجعلك المريض في اليوم التالت بصرخة ألم فظيعة مسمعة في ودنه وراسه، وتفتحي بقه تلاقي العظم عريان وأبيض ومفيش نقطة دم وريحة فمه وحشة جداً! العلاج هنا مش مضاد حيوي؛ العلاج غسيل بمحلول ملح دافئ وتغطية العظم بحشوة مهدئة فيها أوغينول زي الـ Alvogyl."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Socket healing proceeds: Blood clot -> Granulation tissue -> Woven bone -> Mature lamellar bone.",
+    "Dry Socket occurs when blood clot lyses, exposing bare alveolar bone on days 3-4.",
+    "Treat Dry socket with gentle irrigation and sedative eugenol dressing (Alvogyl), not antibiotics."
+  ]
+}

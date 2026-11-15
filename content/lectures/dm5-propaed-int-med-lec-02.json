@@ -1,0 +1,53 @@
+{
+  "id": "dm5-propaed-int-med-lec-02",
+  "subjectId": "dm5-propaed-int-med",
+  "type": "theoretical",
+  "titleEn": "General (External) Examination of the Patient and Head & Neck Lymph Nodes",
+  "titleAr": "الفحص السريري العام للمريض وجس العقد اللمفاوية في الرأس والعنق",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf",
+    "pageStart": 11,
+    "pageEnd": 36,
+    "section": "2. General (External) Examination of the Patient",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Assess level of consciousness, posture, and facial expressions (facies).",
+      "textAr": "تقييم درجة الوعي والوضعية وسحنة الوجه السريرية"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Evaluate skin and mucosal changes: Pallor (anemia), Jaundice (hyperbilirubinemia), and Cyanosis.",
+      "textAr": "تقييم تغيرات الجلد والأغشية المخاطية: الشحوب، اليرقان (الصفراء)، والزرقة"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Perform systematic head and neck lymph node palpation (submental, submandibular, cervical chains).",
+      "textAr": "إتقان فحص وجس العقد اللمفاوية للرأس والعنق بالترتيب التشريحي السريري"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Head and Neck Lymph Node Palpation Protocol in Dentistry",
+      "titleAr": "بروتوكول فحص العقد اللمفاوية للرأس والعنق لطبيبة الأسنان",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Examination of cervical lymph nodes is integral to every dental consultation. Palpation is conducted bimanually from behind the seated patient with neck slightly flexed to relax the sternocleidomastoid muscle. The chain is examined in order: 1) Submental (draining lower incisors and chin); 2) Submandibular (draining all remaining teeth except third molars, gingiva, and cheeks); 3) Pre- and Post-auricular; 4) Occipital; 5) Superficial and Deep Cervical chain (along the internal jugular vein); 6) Supraclavicular fossa (Virchow's node on the left signaling gastric or thoracic malignancy). Inflammatory lymph nodes are soft, tender, warm, and freely mobile, whereas metastatic malignant nodes are characteristically rock-hard, non-tender, and matted (fixed to underlying tissues).",
+          "textAr": "بصي يا ريهام في العيادة، فحص الغدد اللمفاوية في الرقبة ده روتين في كشف الأسنان! بتقفي ورا المريض وهو قاعد وتخلي رقبته مائلة للأمام شوية عشان عضلة الـ Sternocleidomastoid ترخي. بتبدأي تفحصي بالترتيب: أولاً Submental (تحت الذقن: دي بتصرف قواطع الفك السفلي)، بعدين Submandibular (تحت الفك: دي بتصرف باقي الأسنان والضروس واللثة)، بعدين السلسلة العنقية العميقة والسطحية، وأخيراً فوق الترقوة Supraclavicular. وقارني بين حاجتين: الغدة لو ملتهبة بسبب خراج في السن بتكون Soft و Tender (بتوجع لما تضغطي عليها) و Mobile بتتحرك تحت إيدك. أما لو ورم خبيث لا قدر الله، بتكون Rock-hard زي الحجر و Non-tender مابتوجعش و Fixed ماسكة في الأنسجة اللي تحتها!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Submental nodes drain lower incisors; submandibular nodes drain remaining dentition.",
+    "Inflammatory nodes are tender, soft, and mobile; malignant nodes are hard, painless, and fixed."
+  ]
+}

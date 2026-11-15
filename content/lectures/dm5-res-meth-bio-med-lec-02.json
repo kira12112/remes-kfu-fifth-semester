@@ -1,0 +1,49 @@
+{
+  "id": "dm5-res-meth-bio-med-lec-02",
+  "subjectId": "dm5-res-meth-bio-med",
+  "type": "theoretical",
+  "titleEn": "Stem Cells in Biology and Regenerative Dental Medicine",
+  "titleAr": "الخلايا الجذعية في البيولوجيا والطب التجديدي لنسج الأسنان",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.RES METH BIO MED Part 1 2026_c216ed4b51f71c2a57572e803c4be03f.pdf",
+    "pageStart": 25,
+    "pageEnd": 43,
+    "section": "Stem cells",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Classify stem cell potency: Totipotent, Pluripotent, and Multipotent.",
+      "textAr": "تصنيف قدرات الخلايا الجذعية: الشاملة، الواسعة، ومتعددة القدرات"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze Dental Pulp Stem Cells (DPSCs) and Stem Cells from Human Exfoliated Deciduous teeth (SHED) in regenerative endodontics.",
+      "textAr": "تطبيق خلايا لب السن الجذعية في إعادة إنبات عصب الأسنان الحيوية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Dental Pulp Stem Cells (DPSCs) and Tissue Engineering Triad",
+      "titleAr": "خلايا لب السن الجذعية وثالوث هندسة الأنسجة السنية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Stem cells possess two defining properties: self-renewal (indefinite mitotic replication) and potency (differentiation capacity). Mesenchymal stem cells isolated from dental pulp (DPSCs) and exfoliated primary teeth (SHED) are multipotent adult stem cells capable of differentiating into odontoblasts, osteoblasts, chondrocytes, and neural cells. Regenerative dentistry applies the Tissue Engineering Triad: Stem Cells + Biocompatible Scaffolds (hydrogels, collagen sponges) + Growth Factors (BMP-2, TGF-beta) to regenerate vascularized dentin-pulp complexes.",
+          "textAr": "بصي يا ريهام ده مستقبل طب الأسنان كله! لب السن البشري غني جداً بخلايا جذعية بالغة اسمها Dental Pulp Stem Cells (DPSCs). الخلايا دي عندها قدرة مذهلة إنها تتحول لخلايا مصنعة للعاج (Odontoblasts) وعظم وأعصاب. في الـ Regenerative Endodontics بنطبق ثالوث هندسة الأنسجة (Tissue Engineering Triad): 1) الخلايا الجذعية (DPSCs)، 2) سقالة حيوية (Scaffold زي الكولاجين)، 3) عوامل نمو (Growth factors)؛ والتلاتة دول مع بعض بيخلونا نقدر نزرع عصب حيوي جديد جوة السن بدل حشو العصب الصناعي التقليدي!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Stem cells are defined by self-renewal and multilineage differentiation potential.",
+    "Dental pulp is a rich source of multipotent mesenchymal stem cells (DPSCs).",
+    "Tissue engineering requires Stem Cells + Scaffolds + Growth Factors."
+  ]
+}

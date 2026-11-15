@@ -1,0 +1,48 @@
+{
+  "id": "dm5-car-hard-dent-prac-05",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "practical",
+  "titleEn": "Practical 5: Class V Cavity Preparation",
+  "titleAr": "العملي ٥: تحضير حفر الصنف الخامس وتثبيت الحشو (Class V)",
+  "order": 13,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "k practical handout_7797a08093cd0f21e7e67862a7cbbb0a.pdf",
+    "pageStart": 28,
+    "pageEnd": 33,
+    "section": "5. Class V Cavity Preparation",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Prepare smooth kidney-shaped outline forms in the gingival third of teeth.",
+      "textAr": "تحضير الشكل الكلوي الانسيابي في الثلث اللثوي للسن"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Place retentive grooves at the axio-occlusal and axio-gingival line angles.",
+      "textAr": "وضع مزاود التثبيت عند الزوايا الخطية الإطباقية واللثوية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Class V Outline and Retention Grooves",
+      "titleAr": "الشكل الكلوي وأخاديد التثبيت للصنف الخامس",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Class V cavities are located in the gingival third of the facial or lingual surfaces of all teeth. The outline form is typically kidney- or bean-shaped, following the curvature of the free gingival margin. Axial wall depth is 1.0 to 1.25 mm into dentin and must follow the external convexity of the tooth surface. Retentive undercuts are placed along the axio-gingival and axio-occlusal line angles using a 1/4 round bur.",
+          "textAr": "حفر الصنف الخامس Class V في الثلث اللثوي للسن بيكون شكلها كلوي (Kidney-shaped) موازي لانحناء اللثة. الجدار المحوري (Axial wall) لازم يكون محدب Convex يتبع انحناء السن الخارجي عشان نحمي العصب (ما يبقاش مسطح فيخترق اللب!). وبنعمل أخدودين تثبيت بسنبلة 1/4 round bur: واحد عند الـ Axio-gingival line angle والتاني عند الـ Axio-occlusal line angle."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Axial wall must follow external tooth convexity to maintain uniform distance from the pulp.",
+    "Retention grooves are placed along axio-gingival and axio-occlusal line angles."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dm5-res-meth-bio-med-lec-01",
+  "subjectId": "dm5-res-meth-bio-med",
+  "type": "theoretical",
+  "titleEn": "Scientific Research Principles, Hypotheses, and Laboratory Animal Models",
+  "titleAr": "مبادئ البحث العلمي وصياغة الفرضيات ونماذج الحيوانات المخبرية",
+  "order": 1,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.RES METH BIO MED Part 1 2026_c216ed4b51f71c2a57572e803c4be03f.pdf",
+    "pageStart": 2,
+    "pageEnd": 24,
+    "section": "General ideas about the methods of scientific research",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Formulate testable Null (H0) and Alternative (H1) scientific hypotheses.",
+      "textAr": "صياغة الفرضية الصفرية والفرضية البديلة في البحث الطبي"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Apply the 3Rs ethical framework in biomedical research: Replacement, Reduction, and Refinement.",
+      "textAr": "تطبيق مبادئ الأخلاقيات الحيوية الثلاثة للتعامل مع الحيوانات المخبرية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "The Scientific Method and the Ethical 3Rs Framework",
+      "titleAr": "خطوات المنهج العلمي وقواعد الـ 3Rs الأخلاقية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Scientific research follows systematic inquiry: defining a research question, literature synthesis, hypothesis generation, controlled experimental design, data analysis, and peer-reviewed dissemination. In biomedical animal research, ethical oversight enforces Russell and Burch's 3Rs principles: 1) Replacement: substituting animal models with non-sentient alternatives (cell cultures, computer modeling, 3D organoids) wherever viable; 2) Reduction: utilizing optimal sample sizes (power calculations) to minimize the number of animals required; 3) Refinement: enhancing housing, pain control, and surgical techniques to alleviate animal distress.",
+          "textAr": "بصي يا ريهام في منهجية البحث العلمي: لما بنصمم تجربة طبية، لازم نمشي على خطوات علمية منضبطة. ولما بنستخدم حيوانات تجارب في المعمل، لجنة الأخلاقيات (Ethics Committee) بتلزمنا بقواعد الـ 3Rs العالمية: أولاً Replacement (الاستبدال): لو ينفع تستخدمي مزارع خلايا ثلاثية الأبعاد بديلة للحيوان لازم تستبدليها. ثانياً Reduction (التقليل): تحسبي إحصائياً أقل عدد حيوانات يكفي لإثبات النتيجة. ثالثاً Refinement (التحسين): توفير تخدير ومسكنات ورعاية ممتازة عشان الحيوان ميتألمش."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "The 3Rs of animal research: Replacement, Reduction, and Refinement.",
+    "Null hypothesis posits no true difference between study cohorts."
+  ]
+}

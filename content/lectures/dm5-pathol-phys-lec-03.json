@@ -1,0 +1,54 @@
+{
+  "id": "dm5-pathol-phys-lec-03",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "Cell Injury: Reversible Damage, Necrosis, and Apoptosis",
+  "titleAr": "أذية الخلية: الضرر العكوس، التموت النخري (Necrosis)، والموت المبرمج (Apoptosis)",
+  "order": 3,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 39,
+    "pageEnd": 60,
+    "section": "Topic 3. Cell Pathology (Injury): Reversible / Irreversible cell death.",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Compare the mechanisms and morphological hallmarks of Necrosis vs Apoptosis.",
+      "textAr": "المقارنة بين النخر الخلوي (Necrosis) والموت الخلوي المبرمج (Apoptosis)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Classify types of necrosis: Coagulative, Liquefactive (dental abscesses), Caseous, and Fat necrosis.",
+      "textAr": "تصنيف أنواع النخر: التخثري، التميعي (في خراجات الأسنان)، الجبني، والشحمي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Necrosis vs Apoptosis: Fundamental Distinctions",
+      "titleAr": "المقارنة الذهبية بين النخر العنيف والموت الخلوي المبرمج الهادئ",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Cell death occurs via two contrasting pathways: Necrosis is always pathological, provoked by severe hypoxia, ischemia, or toxic damage. It features ATP depletion, failure of Na+/K+ ATPase membrane pumps, massive cellular swelling (hydropic degeneration), plasma membrane rupture, spilling of enzymatic contents into surrounding tissue, and triggering severe secondary acute inflammation. In contrast, Apoptosis is programmed, energy-dependent cell suicide (physiologic or pathologic) involving caspase cascades, chromatin condensation, DNA laddering, cellular shrinkage, and apoptotic body formation phagocytosed by macrophages without inciting any inflammatory response.",
+          "textAr": "بصي يا ريهام المقارنة دي من أهم أساسيات الطب: النخر (Necrosis) ده موت خلايا عنيف وغير منظم؛ بيحصل بسبب نقص أكسجين أو سموم، الخلية بتفقد الـ ATP ومضخات الصوديوم تبوظ فتنتفخ وتفرقع، وتخرج محتوياتها للنسيج اللي حواليها فتعمل التهاب حاد شديد! أما الموت المبرمج (Apoptosis) ده موت منظم وهادئ بدون نقطة التهاب واحدة؛ الخلية بتشغل إنزيمات الـ Caspases وتقسم الـ DNA وتتحول لأجسام صغيرة تاكلها خلايا الـ Macrophages في صمت."
+        },
+        {
+          "type": "important",
+          "textEn": "Dental Pathology Highlight: Acute periapical abscesses and pulp necrosis represent Liquefactive Necrosis, where neutrophilic hydrolytic enzymes rapidly digest necrotic tissue into liquid viscous pus.",
+          "textAr": "نقطة مهمة في باثولوجي الأسنان: تموت عصب السن وخراج قمة الجذر (Periapical Abscess) هو مثال كلاسيكي على النخر التميعي (Liquefactive Necrosis)؛ لأن إنزيمات خلايا الصديد الهاضمة بتحول النسيج لسائل صديدي لزج (Liquid pus)!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Necrosis involves cell swelling, membrane rupture, and surrounding inflammation.",
+    "Apoptosis involves caspase activation, cell shrinkage, apoptotic bodies, and NO inflammation.",
+    "Dental periapical abscesses are classical examples of Liquefactive Necrosis."
+  ]
+}

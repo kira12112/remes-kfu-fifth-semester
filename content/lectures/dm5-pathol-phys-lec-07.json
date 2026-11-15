@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pathol-phys-lec-07",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "Circulatory Disturbances: Edema, Hyperemia, Thrombosis, Embolism, and Shock",
+  "titleAr": "اضطرابات الدورة الدموية: الوذمة، الاحتقان، الخثار، الصمات، وحالات الصدمة",
+  "order": 7,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 125,
+    "pageEnd": 144,
+    "section": "Topic 7. Circulatory Disturbances",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze Virchow's Triad of thrombosis: endothelial injury, stasis/turbulent flow, and hypercoagulability.",
+      "textAr": "ثالوث فيرشو لتشكل الخثرات: أذية البطانة، ركودة الجريان، وفرط التخثر"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Differentiate Hypovolemic, Cardiogenic, Septic, and Anaphylactic shock stages.",
+      "textAr": "المقارنة بين صدمة نقص الحجم، الصدمة القلبية، الإنتانية، والتحسسية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Virchow's Triad & Mechanisms of Thrombogenesis",
+      "titleAr": "ثالوث فيرشو لحدوث الجلطات داخل الأوعية الدموية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Thrombus formation in an intact vascular system depends on three primary abnormalities known as Virchow's Triad: 1) Endothelial injury (ulcerated atherosclerotic plaques, trauma, vasculitis exposing subendothelial von Willebrand factor and collagen); 2) Alterations in normal blood flow (stasis in immobilized patients or aneurysm turbulence causing endothelial activation and countercurrent eddies); 3) Hypercoagulability of blood (primary inherited Factor V Leiden mutations, or secondary acquired states like cancer, oral contraceptives, or severe dehydration).",
+          "textAr": "عشان تتكون جلطة جوة وعاء دموي لازم يتوفر ثالوث فيرشو (Virchow's Triad): 1) أذية بطانة الوعاء (Endothelial Injury زي التصلب العصيدي)، 2) ركودة وتغير جريان الدم (Stasis زي المريض اللي نايم في السرير بعد جراحة كبيرة)، 3) زيادة لزوجة وقابلية الدم للتجلط (Hypercoagulability زي حبوب منع الحمل والسرطان والجفاف الشديد)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Virchow's Triad: Endothelial injury + Stasis/Turbulence + Hypercoagulability.",
+    "Shock leads to systemic cellular hypoxia, lactic acidosis, and organ failure."
+  ]
+}

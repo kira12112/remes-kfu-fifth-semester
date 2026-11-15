@@ -1,0 +1,48 @@
+{
+  "id": "dm5-propaed-int-med-lec-03",
+  "subjectId": "dm5-propaed-int-med",
+  "type": "theoretical",
+  "titleEn": "Examination of the Respiratory System: Inspection, Palpation, Percussion, and Auscultation",
+  "titleAr": "فحص الجهاز التنفسي: المعاينة، الجس، القرع، والتسمع الرئوي",
+  "order": 3,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf",
+    "pageStart": 37,
+    "pageEnd": 50,
+    "section": "3. Examination of the Respiratory System",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master the four physical examination modalities of the chest (Inspection, Palpation, Percussion, Auscultation).",
+      "textAr": "إتقان الطرق الأربع لفحص الصدر: المعاينة، الجس، القرع، والتسمع"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Differentiate normal vesicular breath sounds from adventitious sounds (Wheezes, Crackles/Rales, Stridor).",
+      "textAr": "التفريق بين أصوات التنفس الطبيعية والأصوات المرضية كالصفير والكركرة والصرير"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Auscultation and Adventitious Breath Sounds",
+      "titleAr": "التسمع بالسماعة الطبية وتمييز الأصوات الرئوية المرضية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Chest auscultation assesses airflow through the tracheobronchial tree. Normal Vesicular breath sounds are soft, rustling, low-pitched, heard throughout inspiration and the early third of expiration without pause. Adventitious sounds include: 1) Wheezes (rhonchi): continuous musical high-pitched sounds indicating bronchospasm in asthma or COPD; 2) Crackles (rales): discontinuous explosive popping sounds caused by sudden airway opening or fluid in alveoli (pulmonary edema, pneumonia); 3) Stridor: harsh, high-pitched monophonic sound heard predominantly during inspiration, indicating severe life-threatening upper airway obstruction (foreign body, acute laryngeal edema).",
+          "textAr": "بصي يا ريهام لما تحطي السماعة على صدر المريض: صوت التنفس الطبيعي بنسميه Vesicular breathing وده صوت ناعم هادئ. لكن لو سمعتي أصوات غير طبيعية: 1) Wheezes (تزييق وتصفير): ده معناه ضيق في الشعب الهوائية زي نوبة الربو Bronchial Asthma. 2) Crackles (كركرة صوت طقطقة زي فقاعات الصابون): ده معناه مياه وسوائل جوة الحويصلات الهوائية زي الالتهاب الرئوي وفشل القلب. 3) Stridor (صرير خشن وعالي عند الشهيق): ده معناه انسداد حاد وخطير في مجرى التنفس العلوي أو الحنجرة زي ما مريض يشرق في حتة حشوة أو ضرس مخلوع، ودي حالة طوارئ قصوى!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Vesicular sound is normal; Wheezes indicate bronchospasm; Crackles indicate alveolar fluid.",
+    "Stridor indicates severe upper airway obstruction requiring immediate airway management."
+  ]
+}

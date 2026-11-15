@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pharm-lec-04",
+  "subjectId": "dm5-pharm",
+  "type": "theoretical",
+  "titleEn": "Autacoids: Histamine, Serotonin, and Prostaglandins",
+  "titleAr": "الأوتاكويدات: الهستامين ومضاداته، السيروتونين، والبروستاغلاندين",
+  "order": 4,
+  "estimatedMinutes": 35,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+    "pageStart": 62,
+    "pageEnd": 64,
+    "section": "3. Autacoids",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Differentiate between H1 (allergic reactions) and H2 (gastric acid) histamine receptors.",
+      "textAr": "التفريق بين مستقبلات الهستامين H1 للحساسية و H2 لإفراز حمض المعدة"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Compare First-generation (sedating) and Second-generation (non-sedating) H1 antihistamines.",
+      "textAr": "مقارنة مضادات الهستامين H1 المهدئة (الجيل الأول) وغير المهدئة (الجيل الثاني)"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Histamine Receptors and Antihistamines",
+      "titleAr": "مستقبلات الهستامين وتصنيف مضادات الحساسية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Autacoids ('self-remedies' or local hormones) act locally near their site of synthesis. Histamine is released by mast cell degranulation during IgE-mediated allergic reactions. H1 receptors mediate bronchoconstriction, vasodilation, increased capillary permeability (edema), and pruritus. H2 receptors on gastric parietal cells stimulate hydrochloric acid secretion. First-generation H1 antagonists (Diphenhydramine, Chlorpheniramine) cross the blood-brain barrier causing marked sedation and dry mouth. Second-generation agents (Loratadine, Cetirizine) do not cross the blood-brain barrier, offering non-sedating relief.",
+          "textAr": "بصي يا ريهام، الـ Autacoids هي هرمونات موضعية بتتصنع وتشتغل في نفس المكان. أشهرهم الـ Histamine اللي بيطلع من الـ Mast cells في الحساسية. مستقبلات H1 هي المسؤولة عن الحكة والتورم وضيق التنفس؛ ومضادات الهستامين بنقسمها لجيلين: الجيل الأول (First Generation زي Diphenhydramine) بيعدي الـ Blood-Brain Barrier وبيعمل خمول ونعاس شديد وجفاف فم؛ أما الجيل الثاني (Second Generation زي Loratadine و Cetirizine) فمش بيعدي المخ ومبيسببش نعاس (Non-sedating)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "H1 receptors mediate allergic inflammation; H2 receptors mediate gastric acid secretion.",
+    "1st generation H1 antihistamines cause sedation and dry mouth; 2nd generation are non-sedating."
+  ]
+}

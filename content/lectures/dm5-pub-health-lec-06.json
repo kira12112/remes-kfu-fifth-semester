@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pub-health-lec-06",
+  "subjectId": "dm5-pub-health",
+  "type": "theoretical",
+  "titleEn": "Health Economics, Screening, and Disease Prevention Strategies",
+  "titleAr": "اقتصاديات الصحة، معايير المسح الطبي الشامل (Screening)، واستراتيجيات الوقاية",
+  "order": 6,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf",
+    "pageStart": 105,
+    "pageEnd": 135,
+    "section": "Topic 9: Health Care Economics & Topic 10: Prevention, Screening & Risk Groups",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Define Cost-Effectiveness, Cost-Utility (QALYs), and Cost-Benefit analyses.",
+      "textAr": "تحليل الجدوى الاقتصادية للخدمات الصحية وسنوات العمر المعدلة بجودة الحياة (QALYs)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Master the Wilson and Jungner criteria for implementing national disease screening programs.",
+      "textAr": "معايير ويلسون وجونغر العشرة للمسح والتقصي السكاني للمرض"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Wilson-Jungner Criteria for Population Screening",
+      "titleAr": "الشروط الطبية العشرة لإجراء المسح الطبي السكاني للمرض (Screening)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Mass screening identifies unrecognised disease in apparently healthy individuals. Wilson and Jungner (WHO, 1968) established the core principles for valid screening: 1) The condition sought should be an important health problem; 2) There should be an accepted treatment for patients with recognized disease; 3) Facilities for diagnosis and treatment should be available; 4) There should be a recognizable latent or early symptomatic stage; 5) There should be a suitable test or examination (high sensitivity, high specificity, acceptable to the public); 6) The natural history of the condition should be adequately understood; 7) There should be an agreed policy on whom to treat as patients; 8) The cost of case-finding should be economically balanced in relation to possible medical expenditure as a whole.",
+          "textAr": "بصي يا ريهام في المسح الطبي الشامل (Screening): مش أي مرض بننزل نعمل له مسح في الشارع؛ منظمة الصحة العالمية وضعت شروط Wilson & Jungner المشهورة: لازم المرض يكون مشكلة صحية مهمة في المجتمع، ويكون ليه مرحلة مبكرة كامنة نقدر نكتشفه فيها، ويكون متوفر فحص دقيق ومقبول للناس، والأهم: لازم يكون فيه علاج متوفر ومثبت للمرض! لأن اكتشاف مرض ملوش علاج بيعمل رعب للمريض بدون أي فائدة طبية."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Screening requires an important health problem, recognizable latent phase, and available effective treatment.",
+    "QALY combines length of life and health-related quality of life into a single metric."
+  ]
+}

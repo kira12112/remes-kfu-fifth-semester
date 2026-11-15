@@ -1,0 +1,105 @@
+{
+  "id": "quiz-pathol-phys-01",
+  "subjectId": "dm5-pathol-phys",
+  "titleEn": "Pathological Physiology Comprehensive Question Bank",
+  "titleAr": "بنك أسئلة الفيزيولوجيا المرضية الشامل",
+  "description": "Board-style questions covering cell adaptation, necrosis types, acute inflammation vascular/cellular events, wound healing, and oral neoplasia.",
+  "questions": [
+    {
+      "id": "q-pp-01",
+      "subjectId": "dm5-pathol-phys",
+      "textEn": "Acute periapical dental abscesses and purulent pulp necrosis represent which histological subtype of necrosis?",
+      "textAr": "يمثل خراج قمة جذر السن الحاد والتموت اللبي القيحي أي نوع نسيجي من أنواع النخر؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Coagulative Necrosis",
+          "textAr": "نخر تخثري (Coagulative Necrosis)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Liquefactive Necrosis",
+          "textAr": "نخر تميعي (Liquefactive Necrosis)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Caseous Necrosis",
+          "textAr": "نخر جبني (Caseous Necrosis)"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Fibrinoid Necrosis",
+          "textAr": "نخر شبه فبريني (Fibrinoid Necrosis)"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Bacterial infection in dental pulp and periapical tissues attracts massive neutrophils whose hydrolytic and lysosomal enzymes digest tissue into liquid viscous material (pus), characteristic of liquefactive necrosis.",
+      "explanationAr": "خراجات الأسنان والصديد هي مثال كلاسيكي على النخر التميعي (Liquefactive Necrosis) لأن إنزيمات خلايا الصديد بتحلل النسيج لسائل.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-pp-02",
+      "subjectId": "dm5-pathol-phys",
+      "textEn": "During acute inflammation, which adhesion molecules mediate the firm adhesion of circulating neutrophils to the vascular endothelium?",
+      "textAr": "أثناء الالتهاب الحاد، ما هي جزيئات الالتصاق المسؤولة عن الالتصاق المحكم للعدلات بالبطانة الوعائية؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Selectins (L-selectin, P-selectin)",
+          "textAr": "السيليكتينات (Selectins)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Integrins (e.g., LFA-1 / CD11a-CD18 binding to ICAM-1)",
+          "textAr": "الإنتغرينات (Integrins مثل LFA-1 المرتبط بـ ICAM-1)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Histamine H1 receptors",
+          "textAr": "مستقبلات الهستامين"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Matrix metalloproteinases",
+          "textAr": "إنزيمات تفكيك المصفوفة"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Selectins mediate loose rolling along the endothelial wall, whereas leukocyte Integrins (activated by chemokines) bind firmly to endothelial ICAM-1 and VCAM-1, locking leukocytes in place prior to diapedesis.",
+      "explanationAr": "الـ Selectins مسؤولة عن التدحرج (Rolling)، بينما الـ Integrins هي المسؤولة عن الالتصاق الثابت والقوي (Firm Adhesion).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q-pp-03",
+      "subjectId": "dm5-pathol-phys",
+      "textEn": "A patient presents on the 4th day following an uneventful lower third molar extraction with severe, radiating neuralgic jaw pain, foul odor, and an empty socket denuded of blood clot. What is the diagnosis and correct clinical management?",
+      "textAr": "راجع مريض في اليوم الرابع بعد خلع ضرس عقل سفلي يشكو من ألم مبرح نابض يشع للأذن مع رائحة كريهة وسنخ عظمي فارغ تماماً من الخثرة. ما هو التشخيص والتدبير السريري الصحيح؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Periapical cyst; immediate curettage of bone walls under local anesthesia",
+          "textAr": "كيس ذروي؛ تجريف عظمي فوري"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Alveolar Osteitis (Dry Socket); gentle warm saline irrigation and sedative dressing (Alvogyl)",
+          "textAr": "التهاب السنخ الجاف (Dry Socket)؛ غسيل لطيف بمحلول ملحي ووضع ضماد مهدئ كالألفوجيل"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Acute Ludwig angina; emergent tracheostomy",
+          "textAr": "ذبحة لودفيغ حادة؛ شق رغامي طارئ"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Mandibular osteosarcoma; radical resection",
+          "textAr": "ورم عظمي خبيث"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "This is classical Alveolar Osteitis (Dry Socket) caused by fibrinolytic dissolution of the socket blood clot. Management relies on gentle saline lavage to remove food debris and applying an eugenol-based sedative dressing (Alvogyl) to soothe exposed nerve endings. Curettage is strictly contraindicated as it removes viable bone.",
+      "explanationAr": "ده السنخ الجاف (Dry Socket) النموذجي؛ علاجه غسيل لطيف بمحلول ملح ووضع ضمادة مهدئة فيها eugenol، وممنوع كحت العظم نهائياً!",
+      "difficulty": "medium"
+    }
+  ]
+}

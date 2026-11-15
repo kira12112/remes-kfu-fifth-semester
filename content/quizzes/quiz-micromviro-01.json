@@ -1,0 +1,105 @@
+{
+  "id": "quiz-micromviro-01",
+  "subjectId": "dm5-micromviro",
+  "titleEn": "Microbiology & Virology High-Yield Question Bank",
+  "titleAr": "بنك أسئلة الأحياء الدقيقة والفيروسات السريرية",
+  "description": "Board-style questions covering autoclave validation, Socransky red complex, needlestick transmission risks, and oral candidiasis.",
+  "questions": [
+    {
+      "id": "q-micro-01",
+      "subjectId": "dm5-micromviro",
+      "textEn": "Which biological indicator spore is officially utilized to verify the sterilization efficacy of steam autoclaves in dental clinics?",
+      "textAr": "ما هو البوغ الجرثومي المعتمد كاختبار حيوي للتحقق من كفاءة التعقيم في أوتوكلاف البخار المضغوط؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Bacillus subtilis",
+          "textAr": "باسيلس سبتيليس"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Geobacillus stearothermophilus",
+          "textAr": "جيوباسيلس ستيروثرموفيلس (Geobacillus stearothermophilus)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Clostridium tetani",
+          "textAr": "كلوستريديوم تيتاني"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Streptococcus mutans",
+          "textAr": "ستريبتوكوكس ميوتانز"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Geobacillus stearothermophilus endospores possess high thermal resistance and serve as the worldwide biological standard for monitoring steam autoclave sterilization cycles.",
+      "explanationAr": "أبواغ بكتيريا Geobacillus stearothermophilus هي المعيار الحيوي العالمي الأسبوعي لاختبار كفاءة أجهزة الأوتوكلاف البخارية.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-micro-02",
+      "subjectId": "dm5-micromviro",
+      "textEn": "Which trio of anaerobic bacteria constitutes the 'Red Complex' of periodontopathogens responsible for severe alveolar bone destruction?",
+      "textAr": "أي ثلاثي بكتيري لاهوائي يشكل 'المجمع الأحمر' لسوكرانسكي المسؤول عن تدمير العظم السنخي وأربطة الأسنان؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Streptococcus mutans, S. sobrinus, Lactobacillus acidophilus",
+          "textAr": "بكتيريا التسوس الأولية"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Porphyromonas gingivalis, Treponema denticola, Tannerella forsythia",
+          "textAr": "بورفيروموناس جنجيفاليس، تريبونيما دنتيكولا، وتانيريلا فورسيثيا"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Staphylococcus aureus, S. epidermidis, S. saprophyticus",
+          "textAr": "المكورات العنقودية الجلدية"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Candida albicans, Candida tropicalis, Candida krusei",
+          "textAr": "فطريات الكانديدا"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Socransky's Red Complex consists of Porphyromonas gingivalis, Treponema denticola, and Tannerella forsythia, strongly correlated with deep periodontal pocketing and bone resorption.",
+      "explanationAr": "المجمع الأحمر الشهير بيتكون من: P. gingivalis و T. denticola و T. forsythia.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q-micro-03",
+      "subjectId": "dm5-micromviro",
+      "textEn": "Following an accidental percutaneous needlestick injury from a contaminated source, which bloodborne viral pathogen carries the highest transmission risk (~30%) in an unvaccinated health worker?",
+      "textAr": "بعد وخزة إبرة ملوثة، ما هو الفيروس الذي يحمل أعلى نسبة احتمال لانتقال العدوى (~30%) لدى شخص غير ملقح؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Human Immunodeficiency Virus (HIV)",
+          "textAr": "فيروس نقص المناعة البشرية (HIV) [0.3%]"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Hepatitis C Virus (HCV)",
+          "textAr": "فيروس التهاب الكبد C (HCV) [3%]"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Hepatitis B Virus (HBV)",
+          "textAr": "فيروس التهاب الكبد B (HBV) [30%]"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Cytomegalovirus (CMV)",
+          "textAr": "فيروس المضخم للخلايا"
+        }
+      ],
+      "correctOptionId": "opt-c",
+      "explanationEn": "According to the Rule of 3s, the transmission risk of HBV after percutaneous exposure is approximately 30%, compared to 3% for HCV and 0.3% for HIV.",
+      "explanationAr": "طبقاً لقاعدة الـ Rule of 3s: فيروس B احتمالية انتقاله 30%، بينما فيروس C احتماليته 3%، والإيدز 0.3%.",
+      "difficulty": "easy"
+    }
+  ]
+}

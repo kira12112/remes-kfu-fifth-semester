@@ -1,0 +1,66 @@
+{
+  "id": "dm5-car-hard-dent-lec-08",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Teeth Whitening and Bleaching Mechanisms",
+  "titleAr": "تبييض الأسنان: الكيمياء الحيوية والبروتوكولات السريرية",
+  "order": 8,
+  "estimatedMinutes": 35,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 104,
+    "pageEnd": 112,
+    "section": "Topic 8: Teeth whitening (Bleaching)",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Explain the redox oxidation mechanism of Hydrogen Peroxide and Carbamide Peroxide.",
+      "textAr": "شرح آلية الأكسدة والاختزال لبيروكسيد الهيدروجين وبيروكسيد الكارباميد"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Compare In-Office Power Bleaching with At-Home Nightguard Bleaching.",
+      "textAr": "المقارنة بين التبييض المكتبي في العيادة والتبييض المنزلي بالقوالب"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Manage post-bleaching tooth sensitivity and gingival irritation.",
+      "textAr": "تدبير حساسية الأسنان والتهاب اللثة بعد التبييض"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Biochemical Mechanism of Bleaching",
+      "titleAr": "كيف يعمل جل التبييض على تفتيت التصبغات؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Dental bleaching agents utilize Hydrogen Peroxide (H2O2) or Carbamide Peroxide (which breaks down into 1/3 H2O2 and 2/3 urea). Hydrogen peroxide penetrates through enamel prisms into dentin where it dissociates into free radicals (perhydroxyl HO2• and oxygen O•). These unstable radicals break double bonds in large organic pigmented chromophore molecules into smaller, unpigmented chains that reflect light differently, making the tooth appear whiter.",
+          "textAr": "بصي يا ريهام كيمياء التبييض سهلة وممتعة جداً: المادة الفعالة إما Hydrogen Peroxide أو Carbamide Peroxide (والأخير ده كل 10% منه بتتحلل لـ 3.3% Hydrogen Peroxide و 6.7% Urea). بيروكسيد الهيدروجين وزنه الجزيئي صغير جداً فبيخترق الميناء ويوصل للعاج، وهناك بيتحول لـ Free Radicals نشطة جداً. الجذور الحرة دي بتكسر الروابط المزدوجة (Double bonds) في جزيئات التصبغات الكبيرة (Chromophores) وتحولها لجزيئات أصغر شفافة بتعكس الضوء الأبيض، فالسن يبان فاتح ولامع!"
+        },
+        {
+          "type": "important",
+          "textEn": "Clinical Rule: Carbamide peroxide 10% is equivalent to approximately 3.35% hydrogen peroxide.",
+          "textAr": "معادلة تركيزات امتحانية: تركيز 10% بيروكسيد الكارباميد يكافئ تقريباً 3.35% بيروكسيد الهيدروجين."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Chromophore",
+      "termAr": "حامل اللون (الكروموفور)",
+      "definitionEn": "Complex organic molecule with conjugated double bonds responsible for dark tooth discoloration.",
+      "definitionAr": "جزيء عضوي معقد ذو روابط كيميائية مزدوجة مسؤول عن التصبغات السنية الداكنة."
+    }
+  ],
+  "keyPoints": [
+    "Perhydroxyl free radicals oxidize dark chromophore double bonds in dentin.",
+    "10% Carbamide Peroxide yields ~3.35% Hydrogen Peroxide.",
+    "Transient hypersensitivity is common and managed with potassium nitrate or fluoride."
+  ]
+}

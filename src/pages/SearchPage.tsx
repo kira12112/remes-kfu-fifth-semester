@@ -5,19 +5,20 @@ import { AppShell } from '@/components/layout/AppShell';
 import { SearchBar } from '@/components/ui/SearchBar';
 import { EmptyState } from '@/components/ui/EmptyState';
 import semesterData from '../../content/courses/fifth-semester.json';
-import carLec01 from '../../content/lectures/dm5-car-hard-dent-lec-01.json';
-import pharmLec01 from '../../content/lectures/dm5-pharm-lec-01.json';
-import patholAnatLec01 from '../../content/lectures/dm5-pathol-anat-lec-01.json';
-import propaedIntMedLec01 from '../../content/lectures/dm5-propaed-int-med-lec-01.json';
 import type { Subject, Lecture } from '@/types';
 
+const lectureModules = import.meta.glob('../../content/lectures/*.json', { eager: true });
+const lectures: Lecture[] = [];
+
+for (const path in lectureModules) {
+  const mod = lectureModules[path] as { default?: Lecture } | Lecture;
+  const lec = ('default' in mod && mod.default ? mod.default : mod) as Lecture;
+  if (lec && lec.id) {
+    lectures.push(lec);
+  }
+}
+
 const subjects = semesterData.subjects as Subject[];
-const lectures: Lecture[] = [
-  carLec01 as unknown as Lecture,
-  pharmLec01 as unknown as Lecture,
-  patholAnatLec01 as unknown as Lecture,
-  propaedIntMedLec01 as unknown as Lecture,
-];
 
 export function SearchPage() {
   const [query, setQuery] = useState('');

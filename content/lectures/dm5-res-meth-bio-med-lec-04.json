@@ -1,0 +1,42 @@
+{
+  "id": "dm5-res-meth-bio-med-lec-04",
+  "subjectId": "dm5-res-meth-bio-med",
+  "type": "theoretical",
+  "titleEn": "Morphometry and Quantitative Stereology in Histological Research",
+  "titleAr": "القياس الشكلي (المورفومتري) والتحليل الكمي في الأبحاث النسيجية",
+  "order": 4,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.RES METH BIO MED Part 1 2026_c216ed4b51f71c2a57572e803c4be03f.pdf",
+    "pageStart": 65,
+    "pageEnd": 81,
+    "section": "Morphometry and Statistical Analysis in Histological Research",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Understand quantitative histological morphometry, cell counting grids, and surface area measurements.",
+      "textAr": "القياس النسيجي الكمي وشبكات عد الخلايا وقياس المساحات المجهرية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Quantitative Histomorphometry Principles",
+      "titleAr": "كيف نقيس التغيرات النسيجية كمياً بدقة عالية؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Histomorphometry converts qualitative 2D microscopic observations into objective quantitative 3D parameters. Using computerized image analysis (such as ImageJ), investigators quantify tissue parameters: volume density (Vv), surface density (Sv), and numerical cell density (Nv) in bone remodeling, dental implant osseointegration, and periodontal regeneration.",
+          "textAr": "المورفومتري (Morphometry) بيحول الصورة الميكروسكوبية لأرقام وإحصائيات دقيقة: بدل ما نقول 'العظم اتكون كويس'، بنستخدم برامج زي ImageJ ونقيس النسبة المئوية الدقيقة لالتحام العظم بالزرعة السنية (Bone-to-Implant Contact % BIC) وعدد خلايا الـ Osteoblasts في كل ميكرومتر مربع."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Histomorphometry provides unbiased quantitative measurement of 3D structures from 2D histological sections."
+  ]
+}

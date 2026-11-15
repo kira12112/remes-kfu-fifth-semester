@@ -1,0 +1,54 @@
+{
+  "id": "dm5-micromviro-lec-02",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Gram-Positive Cocci: Staphylococci and Streptococci",
+  "titleAr": "المكورات الإيجابية لصبغة غرام: العنقوديات الذهبية والعقديات الفموية",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 10,
+    "pageEnd": 17,
+    "section": "Gram positive cocci",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Differentiate Staphylococcus (catalase positive) from Streptococcus (catalase negative).",
+      "textAr": "التفريق بين بكتيريا ستاف (إيجابية الكاتالاز) وسترب (سلبية الكاتالاز)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Identify Staphylococcus aureus via coagulase positivity and understand MRSA.",
+      "textAr": "تمييز المكورات العنقودية الذهبية بفحص التخثر (Coagulase) وسلالات MRSA"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Analyze Streptococcus viridans in oral normal flora and subacute bacterial endocarditis.",
+      "textAr": "دور العقديات المخضرة الفموية في حدوث التهاب شغاف القلب تحت الحاد"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Catalase and Coagulase Tests: The Diagnostic Dichotomy",
+      "titleAr": "اختباري الكاتالاز والكواغيولاز في التمييز المخبري السريع",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Gram-positive cocci are classified first by the Catalase test (adding 3% H2O2): Staphylococci produce bubbles (catalase-positive), whereas Streptococci do not (catalase-negative). Among Staphylococci, Staphylococcus aureus is distinguished by the Coagulase test (coagulase-positive: clots rabbit plasma). S. aureus causes wound infections, abscesses, and osteomyelitis of the jaw. Oral Viridans streptococci (S. mutans, S. salivarius, S. mitis) are alpha-hemolytic, bile-insoluble, optochin-resistant, and represent the primary opportunistic pathogens of subacute infective endocarditis.",
+          "textAr": "بصي يا ريهام في المعمل: لما تشوفي مكورات زرقاء Gram-positive cocci، أول اختبار بنعمله هو الـ Catalase: بنحط نقطة مياه أكسجين، لو طلعت فاقيع أكسجين (Bubbles) تبقى عائلة Staphylococci؛ لو مفيش فقاعات تبقى Streptococci. جوة الـ Staph بنعمل اختبار الـ Coagulase: لو خثرت البلازما تبقى الخطيرة Staphylococcus aureus (بتاعة الخراجات والصديد والـ Osteomyelitis). أما الـ Viridans Streptococci فدي بكتيريا الفم الطبيعية المسؤولة عن تسوس الأسنان والتهاب صمامات القلب."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Staphylococcus is catalase-positive; Streptococcus is catalase-negative.",
+    "Staphylococcus aureus is coagulase-positive and causes acute purulent infections.",
+    "Viridans streptococci are alpha-hemolytic oral commensals implicated in infective endocarditis."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dm5-micromviro-lec-04",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Gram-Negative Bacilli and Dental Unit Waterline Biofilms",
+  "titleAr": "العصيات السالبة لصبغة غرام وبيوفيلم خراطيم مياه كراسي الأسنان (Pseudomonas)",
+  "order": 4,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 28,
+    "pageEnd": 36,
+    "section": "Overview of Gram-negative bacilli",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Recognize Pseudomonas aeruginosa characteristics: non-fermenting, pyocyanin pigment, and biofilm resilience.",
+      "textAr": "خصائص بكتيريا الزائفة الزنجارية (Pseudomonas) ومقاومتها العالية بالبيوفيلم"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Manage Dental Unit Waterline (DUWL) microbial contamination (< 500 CFU/mL CDC standard).",
+      "textAr": "مكافحة تلوث خراطيم مياه كرسي الأسنان ومعايير CDC الصحية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Pseudomonas aeruginosa and Dental Unit Waterline Contamination",
+      "titleAr": "خطر بكتيريا Pseudomonas في خراطيم مياه عيادة الأسنان",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Pseudomonas aeruginosa is an opportunistic, non-fermenting, oxidase-positive Gram-negative rod producing blue-green pigments (pyocyanin and pyoverdine) with a sweet, grape-like odor. It readily forms thick biofilms inside the narrow plastic tubing of Dental Unit Waterlines (DUWLs). If untreated, dental water can deliver millions of colony-forming units (CFUs) directly into surgical wounds. CDC guidelines mandate that dental treatment water must not exceed 500 CFU/mL of heterotrophic water bacteria.",
+          "textAr": "بصي يا ريهام في عيادتك: خراطيم المياه البلاستيكية الرفيعة اللي بتغذي الهاند بيس والـ Air/Water syringe بيعيش فيها بكتيريا خطيرة اسمها Pseudomonas aeruginosa! البكتيريا دي بتعمل Biofilm عنيد جداً ومقاوم للمطهرات. عشان كدة منظمة الـ CDC وضعت شرط صارم: مياه كرسي الأسنان لازم يكون فيها أقل من 500 CFU/mL؛ ولازم نستخدم محاليل تعقيم خاصة ونفضي الخراطيم في بداية كل يوم لتفادي نقل العدوى للمرضى ضعاف المناعة."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Pseudomonas aeruginosa produces pyocyanin and thrives in moist biofilms.",
+    "CDC mandates dental unit waterline output must contain < 500 CFU/mL of bacteria."
+  ]
+}

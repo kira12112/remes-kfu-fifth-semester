@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pub-health-lec-05",
+  "subjectId": "dm5-pub-health",
+  "type": "theoretical",
+  "titleEn": "Healthcare Systems, Primary Health Care, and Maternal-Child Health",
+  "titleAr": "أنظمة الرعاية الصحية والرعاية الأولية وصحة الأم والطفل",
+  "order": 5,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf",
+    "pageStart": 80,
+    "pageEnd": 104,
+    "section": "Topic 6: Egypt Healthcare System & Topic 7: Maternal and Child Healthcare Services",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Compare the Bismarck (social insurance) and Beveridge (tax-funded national health service) healthcare models.",
+      "textAr": "المقارنة بين نموذج بسمارك للتأمين الاجتماعي ونموذج بيفريدج للرعاية الوطنية"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Understand the principles of Primary Health Care (Declaration of Alma-Ata 1978).",
+      "textAr": "مبادئ الرعاية الصحية الأولية وإعلان ألما-آتا"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Models of Healthcare Organization",
+      "titleAr": "النماذج العالمية لتمويل وإدارة الأنظمة الصحية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Global healthcare systems rely on two historical archetypes: 1) The Beveridge Model (e.g., UK National Health Service): healthcare is provided and financed by the government directly through general taxation; hospitals are state-owned and doctors are salaried public employees; 2) The Bismarck Model (e.g., Germany, France): healthcare is financed through employment-based non-profit sickness funds (social insurance) with private hospitals and providers.",
+          "textAr": "النظم الصحية في العالم بتتبع نموذجين كبار: نموذج Beveridge (زي بريطانيا): العلاج ممول بالكامل من الضرائب العامة والمستشفيات ملك الدولة. ونموذج Bismarck (زي ألمانيا وفرنسا): العلاج ممول من اشتراكات التأمين الصحي بين صاحب العمل والموظف مع تعاقد مع مقدمي خدمة من القطاعين العام والخاص."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Beveridge model: Tax-funded government health service (e.g., UK NHS).",
+    "Bismarck model: Employment social insurance funds (e.g., Germany)."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "dm5-micromviro-lec-05",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Mycobacterium tuberculosis and Airborne Transmission in Dental Aerosols",
+  "titleAr": "عصيات السل (الدرن) وخطر انتقال العدوى بالرذاذ في عيادة الأسنان",
+  "order": 5,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 37,
+    "pageEnd": 53,
+    "section": "Respiratory tract organisms & Not readily Gram-stained bacteria",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the waxy mycolic acid cell wall of Mycobacterium tuberculosis and Acid-Fast (Ziehl-Neelsen) staining.",
+      "textAr": "تحليل جدار الخلية الشمعي الغني بحمض المايكوليك وصبغة تسيل-نلسن المقاومة للحمض"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Implement dental infection control for tuberculosis: N95 respirators and delaying elective care during active disease.",
+      "textAr": "بروتوكول التعامل مع مريض السل في عيادة الأسنان وكمامات N95"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Tuberculosis Pathogenesis and Dental Aerosol Hazards",
+      "titleAr": "السل ورذاذ الأسنان: بروتوكول حماية الفريق الطبي",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Mycobacterium tuberculosis is an obligate aerobe with a unique lipid-rich cell wall containing 60% mycolic acids. This waxy coat prevents Gram staining (requiring Ziehl-Neelsen acid-fast staining) and confers exceptional resistance to drying, chemical disinfectants, and intracellular macrophage lysis. In dentistry, high-speed rotary handpieces and ultrasonic scalers generate fine aerosols that suspend droplet nuclei (< 5 um) in the operatory air for hours. Patients with active, untreated pulmonary tuberculosis must NOT receive elective dental treatment; emergency procedures require negative-pressure airborne infection isolation rooms (AIIR) and N95 / FFP3 respirators.",
+          "textAr": "بصي يا ريهام، ميكروب السل Mycobacterium tuberculosis ده من أخطر الميكروبات على طبيب الأسنان! جدار الخلية بتاعه فيه 60% Mycolic acids شمعية، فمش بيتصبغ بصبغة غرام العادية؛ بنصبغه بصبغة Ziehl-Neelsen الحمراء المقاومة للحمض (Acid-Fast Bacilli). لما بتشغلي السنبلة السريعة أو جهاز تنظيف الجير، بيطلع رذاذ دقيق جداً (Aerosol) بيفضل معلق في هواء العيادة لساعات طويلة. لو مريض عنده درن رئوي نشط، ممنوع منعاً باتاً تشتغلي له أي علاج أسنان اختياري في العيادة العادية؛ والكمامات الجراحية العادية مش هتحميكي، لازم كمامة N95 محكمة الفلترة."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Mycobacterium tuberculosis has a mycolic acid waxy wall visualized by Ziehl-Neelsen stain.",
+    "Ultrasonic scalers and high-speed burs generate infectious aerosols.",
+    "Elective dental care is postponed in active pulmonary TB; N95 respirators are mandatory."
+  ]
+}

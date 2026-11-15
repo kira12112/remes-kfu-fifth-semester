@@ -1,0 +1,48 @@
+{
+  "id": "dm5-micromviro-lec-01",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Sanitary Microbiology, Sterilization, and Bacterial Classification",
+  "titleAr": "الأحياء الدقيقة الصحية: التعقيم والتطهير في عيادة الأسنان وتصنيف البكتيريا",
+  "order": 1,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 3,
+    "pageEnd": 9,
+    "section": "Sanitary Microbiology & Bacterial Classification",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master autoclave parameters (121°C, 15 psi, 15-20 min) and biological indicators (Geobacillus stearothermophilus).",
+      "textAr": "معايير التعقيم بجهاز الأوتوكلاف والمؤشرات الحيوية لاختبار الكفاءة"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Understand Gram staining mechanism based on peptidoglycan thickness.",
+      "textAr": "آلية صبغة غرام بناءً على سماكة طبقة الببتيدوغليكان في جدار الخلية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Autoclaving Standards and Biological Monitoring in Dental Practice",
+      "titleAr": "المعايير القياسية لتعقيم أدوات الأسنان في الأوتوكلاف",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Moist heat under pressure (Autoclaving) is the gold standard for sterilizing heat-tolerant dental instruments. The standard cycle operates at 121°C (250°F) at 15 pounds per square inch (psi) steam pressure for 15 to 20 minutes (or 134°C at 30 psi for 3-5 minutes in fast vacuum autoclaves). This coagulates and denatures all microbial proteins, killing even bacterial endospores. Biological monitoring with heat-resistant Geobacillus stearothermophilus spore strips must be performed weekly to verify autoclave sterility.",
+          "textAr": "بصي يا ريهام في مكافحة العدوى والتعقيم: جهاز الـ Autoclave هو الملك في عيادة الأسنان! بيشتغل بالبخار المضغوط تحت درجة حرارة 121 مئوية وضغط 15 psi لمدة من 15 لـ 20 دقيقة (أو 134 مئوية لمدة 3 دقائق في أجهزة الـ Vacuum الحديثة). ده بيقضي على كل الكائنات الحية بما فيها أبواغ البكتيريا المقاومة (Bacterial Endospores). وعشان تتأكدي إن الجهاز شغال صح بنعمل اختبار أسبوعي بأبواغ بكتيريا Geobacillus stearothermophilus المقاومة للحرارة."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Autoclave standard cycle: 121°C at 15 psi for 15-20 minutes.",
+    "Geobacillus stearothermophilus is the biological indicator for steam autoclaves."
+  ]
+}

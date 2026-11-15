@@ -1,0 +1,48 @@
+{
+  "id": "dm5-propaed-int-med-lec-06",
+  "subjectId": "dm5-propaed-int-med",
+  "type": "theoretical",
+  "titleEn": "Clinical Laboratory Diagnostics & Electrocardiography (ECG)",
+  "titleAr": "التحاليل المخبرية السريرية وتخطيط القلب الكهربائي (ECG)",
+  "order": 6,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf",
+    "pageStart": 73,
+    "pageEnd": 82,
+    "section": "7. Clinical Laboratory Diagnostics & 8. Electrocardiography (ECG)",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Interpret Complete Blood Count (CBC): Hemoglobin, Platelet count, White Blood Cell differential.",
+      "textAr": "تفسير تحليل صورة الدم الكاملة (CBC): الهيموغلوبين، الصفائح، والعد التفريقي للبيض"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Master normal 12-lead ECG waveforms: P wave (atrial depolarization), QRS complex (ventricular depolarization), T wave (ventricular repolarization).",
+      "textAr": "إتقان موجات تخطيط القلب الطبيعي: موجة P، مركب QRS، وموجة T"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Pre-Operative CBC and Coagulation Assessment in Dentistry",
+      "titleAr": "قراءة تحليل صورة الدم قبل العمليات الجراحية في الفم",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Before oral surgical procedures, the dental surgeon must review the CBC and coagulation profile. Normal Platelet count is 150,000 to 450,000 /uL. Routine dental extraction can be performed if platelets are > 50,000 /uL; major maxillofacial surgery requires > 80,000-100,000 /uL. Absolute Neutrophil Count (ANC) must be > 1,000 /uL to prevent overwhelming post-operative septic osteomyelitis.",
+          "textAr": "بصي يا ريهام في تحليل الـ CBC قبل أي خلع أو جراحة: رقم الصفائح الدموية الطبيعي من 150 ألف لـ 450 ألف. الحد الأدنى الآمن للخلع العادي هو 50,000 صفائح/ميكروليتر؛ لو أقل من كدة المريض هينزف بشدة ولازم نقل صفائح. وعدد كرات الدم البيضاء المتعادلة (Neutrophils) لازم يكون فوق 1000 عشان المريض ميجيلوش عدوى شديدة في عظم الفك بعد الخلع."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Safe platelet count for routine dental extraction is > 50,000/uL.",
+    "ECG: P wave = Atrial depolarization, QRS = Ventricular depolarization, T wave = Ventricular repolarization."
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "dm5-car-hard-dent-lec-07",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Non-Carious Cervical Lesions (NCCLs) & Hard Tissue Defects",
+  "titleAr": "الآفات غير التسوسية: التآكل، الحت، الانقلاع، ونقص التكلس",
+  "order": 7,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 88,
+    "pageEnd": 103,
+    "section": "Topic 7: Non Caries Lesions",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Distinguish between Attrition, Abrasion, Erosion, and Abfraction.",
+      "textAr": "التفريق الدقيق بين التآكل الإطباقي (Attrition)، الميكانيكي (Abrasion)، الكيميائي (Erosion)، والانقلاع العنقي (Abfraction)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Identify clinical signs and differential diagnosis of Dental Fluorosis and Amelogenesis Imperfecta.",
+      "textAr": "التعرف على علامات التسمم بالفلور (Fluorosis) ونقص تكون الميناء الوراثي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Differential Diagnosis of Tooth Wear",
+      "titleAr": "التفرقة السريرية بين أنواع تآكل الأسنان الأربعة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Non-carious loss of tooth substance encompasses four distinct pathological entities: 1) Attrition: mechanical wear from physiological or parafunctional tooth-to-tooth contact (bruxism); 2) Abrasion: mechanical wear from external foreign objects (hard toothbrushes, abrasive toothpastes); 3) Erosion: chemical dissolution of dental hard tissues by acids of non-bacterial origin (dietary citrus, GERD, bulimia); 4) Abfraction: wedge-shaped cervical defects caused by eccentric occlusal tensile stress causing microfractures at the cementoenamel junction.",
+          "textAr": "بصي يا ريهام ده جدول بيجي في كل امتحان، احفظي الفرق بين الـ 4 مصطلحات دي صم: أولاً Attrition يعني سن بيخبط في سن بدون جسم غريب، زي حالات الـ Bruxism (الجز على الأسنان). ثانياً Abrasion يعني احتكاك بجسم غريب، زي مريض بيغسل بفرشاة خشنة جداً بحركة أفقية عنيفة. ثالثاً Erosion يعني ذوبان كيميائي بأحماض مش بكتيرية، زي ارتجاع المريء (GERD) أو شرب مياه غازية كتير؛ بتلاقي السن ناعم ومقعر ومفيهوش خطوط التمشيط الطبيعية. رابعاً Abfraction ده عيب على شكل وتد (Wedge-shaped) في عنق السن سببه ضغط إطباقي غير متوازن (Flexure of tooth under heavy occlusal forces)."
+        },
+        {
+          "type": "table",
+          "tableData": {
+            "headers": [
+              "Lesion Type",
+              "Etiological Mechanism",
+              "Clinical Appearance & Location",
+              "Typical Patient History"
+            ],
+            "rows": [
+              [
+                "Attrition",
+                "Tooth-to-tooth contact friction",
+                "Flattened incisal edges and occlusal cusps; matching facets",
+                "Bruxism, stress, clenching habits"
+              ],
+              [
+                "Abrasion",
+                "Friction with foreign abrasive body",
+                "V-shaped horizontal notches across cervical buccal margins",
+                "Hard toothbrush, horizontal scrubbing technique"
+              ],
+              [
+                "Erosion",
+                "Chemical dissolution by non-bacterial acid",
+                "Smooth, silky, cup-shaped depressions on palatal/occlusal surfaces",
+                "GERD, frequent vomiting, excessive lemon/citrus intake"
+              ],
+              [
+                "Abfraction",
+                "Biomechanical occlusal stress flexure",
+                "Deep, sharp, wedge-shaped cervical notch at CEJ, often single tooth",
+                "Premature occlusal contacts, heavy lateral interference"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Abfraction",
+      "termAr": "الانقلاع العنقي الميكانيكي",
+      "definitionEn": "Wedge-shaped cervical tooth defect hypothesized to result from biomechanical tooth flexure during heavy occlusal loading.",
+      "definitionAr": "آفة وتدية الشكل عند عنق السن تنتج عن انحناء التاج تحت وطأة القوى الإطباقية غير المتوازنة."
+    },
+    {
+      "termEn": "Erosion",
+      "termAr": "الحت الكيميائي السني",
+      "definitionEn": "Irreversible chemical loss of dental hard tissues by acids without bacterial involvement.",
+      "definitionAr": "فقدان كيميائي للأنسجة السنية الصلبة بفعل الأحماض غير الناتجة عن البكتيريا (مثل أحماض المعدة أو الأغذية الحمضية)."
+    }
+  ],
+  "keyPoints": [
+    "Attrition = Tooth-to-tooth wear (Bruxism).",
+    "Abrasion = Tooth-to-foreign body wear (Hard brushing).",
+    "Erosion = Chemical acid dissolution without bacteria (GERD, citrus).",
+    "Abfraction = Wedge-shaped defect from occlusal load flexure."
+  ]
+}

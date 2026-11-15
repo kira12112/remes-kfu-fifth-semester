@@ -1,0 +1,84 @@
+{
+  "id": "dm5-pharm-lec-02",
+  "subjectId": "dm5-pharm",
+  "type": "theoretical",
+  "titleEn": "Autonomic Pharmacology: Cholinergic Agonists and Antagonists",
+  "titleAr": "أدوية الجهاز العصبي اللاإرادي: محاكيات ومضادات الكولين",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+    "pageStart": 22,
+    "pageEnd": 42,
+    "section": "2. Autonomic pharmacology: Parasympathomimetic & Parasympatholytic",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Differentiate between Muscarinic (M1, M2, M3) and Nicotinic (Nm, Nn) receptor subtypes.",
+      "textAr": "التفريق بين مستقبلات المسكارين (M1, M2, M3) ومستقبلات النيكوتين (Nm, Nn)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze the dental application of Pilocarpine in managing Xerostomia (Sjögren syndrome).",
+      "textAr": "تطبيق دواء البيلوكاربين في علاج جفاف الفم السريري ومتلازمة شوغرن"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Understand Atropine mechanisms, clinical uses in reducing salivary secretion, and absolute contraindications (Glaucoma, BPH).",
+      "textAr": "فهم آلية الأتروبين لتقليل اللعاب وموانع استعماله المطلقة (المياه الزرقاء وتضخم البروستاتا)"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Cholinergic Receptors & Organ Responses",
+      "titleAr": "مستقبلات الجهاز الباراسمبثاوي وتأثيرها على الجسم واللعاب",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "The parasympathetic nervous system uses Acetylcholine (ACh) as its neurotransmitter. Cholinergic receptors divide into: 1) Muscarinic: M1 (CNS, gastric parietal cells), M2 (Heart - slows heart rate and AV conduction), M3 (Smooth muscle contraction, miosis, and profuse exocrine secretion including salivation and lacrimation); 2) Nicotinic: Nm (Neuromuscular junction causing skeletal muscle contraction) and Nn (Autonomic ganglia and adrenal medulla).",
+          "textAr": "بصي يا ريهام في الفارماكولوجي: الجهاز الباراسمبثاوي بيشتغل بالناقل الكيميائي Acetylcholine. عندنا نوعين كبار من الـ Receptors: مسكارين (Muscarinic) ونيكوتين (Nicotinic). اللي يهمنا جداً في طب الأسنان هو مستقبلات M3؛ لأن M3 موجودة في الغدد اللعابية والـ Exocrine glands، وتحفيزها هو اللي بيفرز Saliva مائية غزيرة (Profuse salivation). أما مستقبلات M2 فموجودة في القلب وبتبطئ النبض (Bradycardia)."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "titleEn": "Pilocarpine and Atropine in Dental Practice",
+      "titleAr": "أهمية البيلوكاربين والأتروبين في عيادة الأسنان",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Pilocarpine is a direct muscarinic agonist (M3) primarily prescribed to stimulate saliva in post-radiation head and neck cancer patients and Sjögren's syndrome. Conversely, Atropine is a competitive, non-selective muscarinic antagonist used pre-operatively (0.5 mg IM/IV) to produce a dry operating field and reduce excessive salivary secretion before general anesthesia or complex impressions.",
+          "textAr": "ركزي يا ريهام في المقارنة بين الدوائين دول: دواء Pilocarpine ده Parasympathomimetic بيحفز M3 ويزود اللعاب، وبنكتبه للمرضى اللي عندهم جفاف فم شديد (Xerostomia) بعد جلسات الإشعاع للسرطان أو متلازمة Sjögren. على العكس تماماً: دواء Atropine ده Parasympatholytic بيقفل المسكارين تماماً، فبيعمل Dry mouth شديد؛ أحياناً بنديه قبل العمليات عشان ينشف اللعاب تماماً ويسهل الشغل في الفم. بس اوعي تديه لمريض عنده Glaucoma (مياه زرقاء في العين) لأن الأتروبين بيوسع حدقة العين (Mydriasis) ويرفع ضغط العين لحد العمى!"
+        },
+        {
+          "type": "important",
+          "textEn": "High-Yield Board Question: Atropine is absolutely contraindicated in patients with Narrow-Angle Glaucoma and Benign Prostatic Hyperplasia (BPH).",
+          "textAr": "سؤال امتحان متكرر: الأتروبين ممنوع منعاً باتاً (Absolute contraindication) في مرضى الـ Narrow-angle glaucoma وتضخم البروستاتا الحميد (BPH)!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Pilocarpine",
+      "termAr": "بيلوكاربين",
+      "definitionEn": "Direct-acting muscarinic parasympathomimetic alkaloid used to treat xerostomia and open-angle glaucoma.",
+      "definitionAr": "ناهض كوليني مسكاريني مباشر يحفز إفراز اللعاب ويعالج جفاف الفم والمياه الزرقاء."
+    },
+    {
+      "termEn": "Atropine",
+      "termAr": "أتروبين",
+      "definitionEn": "Belladonna alkaloid acting as a competitive reversible antagonist at all muscarinic receptors.",
+      "definitionAr": "مركب مضاد للمسكارين يثبط إفرازات الجسم بما فيها اللعاب ويسرع ضربات القلب."
+    }
+  ],
+  "keyPoints": [
+    "M3 receptors mediate profuse salivation and smooth muscle contraction.",
+    "Pilocarpine treats xerostomia by stimulating salivary glands.",
+    "Atropine reduces secretions but is contraindicated in narrow-angle glaucoma."
+  ]
+}

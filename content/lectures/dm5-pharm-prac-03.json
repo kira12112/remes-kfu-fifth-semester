@@ -1,0 +1,49 @@
+{
+  "id": "dm5-pharm-prac-03",
+  "subjectId": "dm5-pharm",
+  "type": "practical",
+  "titleEn": "Practical 3: Dental Local Anesthetic Formulations and Calculations",
+  "titleAr": "العملي ٣: تركيبات بنج الأسنان وحساب الجرعات القصوى الآمنة",
+  "order": 9,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Practical_4fcdee63caa7c87bf9cd7d54d34aac5a.pdf",
+    "pageStart": 26,
+    "pageEnd": 38,
+    "section": "3. Local Anesthetic Formulations",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Calculate the exact milligrams of anesthetic and vasoconstrictor per standard 1.8 mL dental cartridge.",
+      "textAr": "حساب المليجرامات الدقيقة للبنج والأدرينالين في كربولة البنج القياسية (1.8 مل)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Determine Maximum Recommended Dose (MRD) for Lidocaine 2% (4.4 mg/kg up to 300 mg).",
+      "textAr": "تحديد الجرعة القصوى الموصى بها لليدوكائين 2%"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Cartridge Mathematics: Lidocaine 2% with 1:100,000 Epinephrine",
+      "titleAr": "حسابات كربولة البنج: ليدوكائين 2% مع أدرينالين 1:100,000",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "A standard dental anesthetic cartridge contains 1.8 mL of solution. A 2% solution contains 20 mg/mL of anesthetic; therefore, one 1.8 mL cartridge contains 36 mg of Lidocaine (20 mg/mL x 1.8 mL = 36 mg). For 1:100,000 epinephrine, the concentration is 0.01 mg/mL; thus, one cartridge contains 0.018 mg of epinephrine (0.01 mg/mL x 1.8 mL = 0.018 mg). The maximum recommended dose (MRD) of Lidocaine without vasoconstrictor is 4.4 mg/kg (maximum absolute 300 mg); with epinephrine, it is up to 7.0 mg/kg (maximum 500 mg) in healthy adults.",
+          "textAr": "المعادلة دي لازم تحفظيها زي اسمك عشان المعمل والعيادة: الكربولة حجمها 1.8 مل. ليدوكائين 2% معناه 20 مجم في كل مل، يبقى الكربولة الواحدة فيها: 20 × 1.8 = 36 مجم ليدوكائين! وبالنسبة للأدرينالين 1:100,000، كل كربولة فيها: 0.018 مجم أدرينالين. يعني لمريض القلب اللي أقصى جرعة أدرينالين مسموحة له 0.04 مجم، متقدريش تديله أكتر من كربولتين (0.018 × 2 = 0.036 مجم)!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "One 1.8 mL cartridge of 2% Lidocaine contains 36 mg of Lidocaine.",
+    "One cartridge of 1:100,000 Epinephrine contains 0.018 mg of Epinephrine.",
+    "Cardiac patients are strictly limited to 2 cartridges of 1:100,000 Epinephrine."
+  ]
+}

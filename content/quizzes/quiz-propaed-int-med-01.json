@@ -1,0 +1,73 @@
+{
+  "id": "quiz-propaed-int-med-01",
+  "subjectId": "dm5-propaed-int-med",
+  "titleEn": "Propaedeutics Clinical Examination Question Bank",
+  "titleAr": "بنك أسئلة الفحص السريري والتشخيص الباطني",
+  "description": "High-yield MCQs covering head & neck lymphadenopathy, breath sounds, blood pressure thresholds, and pre-operative hematology.",
+  "questions": [
+    {
+      "id": "q-prop-01",
+      "subjectId": "dm5-propaed-int-med",
+      "textEn": "Which lymph node group primarily receives lymphatic drainage from the mandibular central and lateral incisors?",
+      "textAr": "أي مجموعة من العقد اللمفاوية تصرف لمف قواطع الفك السفلي بشكل رئيسي؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Submental lymph nodes",
+          "textAr": "العقد اللمفاوية تحت الذقن (Submental)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Submandibular lymph nodes",
+          "textAr": "العقد اللمفاوية تحت الفك (Submandibular)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Occipital lymph nodes",
+          "textAr": "العقد اللمفاوية القذالية"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Supraclavicular lymph nodes",
+          "textAr": "العقد فوق الترقوة"
+        }
+      ],
+      "correctOptionId": "opt-a",
+      "explanationEn": "Mandibular incisors and the midline chin drain primarily into the Submental lymph nodes, which then drain secondarily into the submandibular and deep cervical chains.",
+      "explanationAr": "قواطع الفك السفلي بتصرف مباشرة في الغدد اللمفاوية تحت الذقن (Submental)، بينما باقي الأسنان بتصرف في الـ Submandibular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-prop-02",
+      "subjectId": "dm5-propaed-int-med",
+      "textEn": "What is the minimum safe platelet count threshold required before performing an uncomplicated routine dental extraction?",
+      "textAr": "ما هو الحد الأدنى الآمن لعدد الصفائح الدموية لإجراء خلع سني بسيط دون خطر نزف مهدد؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "10,000 /uL",
+          "textAr": "10,000 /ميكروليتر"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "50,000 /uL",
+          "textAr": "50,000 /ميكروليتر"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "150,000 /uL",
+          "textAr": "150,000 /ميكروليتر"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "500,000 /uL",
+          "textAr": "500,000 /ميكروليتر"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Routine minor dental extractions can be safely undertaken with platelet counts >= 50,000 /uL using local hemostatic agents. Major oral surgery requires >= 80,000-100,000 /uL.",
+      "explanationAr": "الحد الأدنى لعدد الصفائح لإجراء الخلع البسيط بأمان هو 50,000 صفائح لكل ميكروليتر.",
+      "difficulty": "easy"
+    }
+  ]
+}

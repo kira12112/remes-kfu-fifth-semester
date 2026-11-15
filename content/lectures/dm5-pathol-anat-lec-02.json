@@ -1,0 +1,66 @@
+{
+  "id": "dm5-pathol-anat-lec-02",
+  "subjectId": "dm5-pathol-anat",
+  "type": "theoretical",
+  "titleEn": "Carbohydrate Metabolism Disorders & Diabetes Mellitus",
+  "titleAr": "اضطرابات استقلاب السكريات ومرض السكري ومظاهره الفموية",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf",
+    "pageStart": 10,
+    "pageEnd": 14,
+    "section": "Topic 2. CHO metabolism Disorders/Diabetes",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Compare the etiopathogenesis and pathology of Type 1 vs Type 2 Diabetes Mellitus.",
+      "textAr": "المقارنة بين الإمراضية والتشريح المرضي للنوع الأول والنوع الثاني من السكري"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze microvascular (retinopathy, nephropathy, neuropathy) and macrovascular complications.",
+      "textAr": "تحليل مضاعفات الأوعية الدقيقة (اعتلال الشبكية والكلية والأعصاب) والأوعية الكبيرة"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Identify oral manifestations: periodontal abscesses, severe periodontitis, oral candidiasis, and impaired wound healing.",
+      "textAr": "التعرف على المظاهر الفموية للسكري: خراجات وأمراض النسج الداعمة الحادة، الفطريات الفموية، وتأخر التئام الجروح"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Pathology of Diabetes Mellitus and Advanced Glycation End-Products (AGEs)",
+      "titleAr": "الآلية المرضية للسكري وتراكم مركبات AGEs في الأنسجة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Diabetes mellitus is characterized by chronic hyperglycemia resulting from defects in insulin secretion, action, or both. Non-enzymatic glycation of proteins forms Advanced Glycation End-Products (AGEs). AGEs bind to specific receptors (RAGE) on inflammatory cells, triggering cross-linking of extracellular matrix collagen, accelerating microangiopathy, thickening capillary basement membranes, and impairing neutrophil chemotaxis and phagocytosis.",
+          "textAr": "بصي يا ريهام في الباثولوجي: مرض السكري Diabetes Mellitus مشكلته مش بس ارتفاع السكر في الدم؛ المشكلة الأكبر في مادة اسمها Advanced Glycation End-Products (AGEs). السكر الزيادة بيمسك في البروتينات والكولاجين ويعمل تليف وسماكة في جدران الشعيرات الدموية (Microangiopathy). بالإضافة لده، بيكسل خلايا المناعة (Neutrophils) فبيمنع الـ Chemotaxis والبلعمة، وده السبب في إن مريض السكري جروحه مابتلمش بسهولة وعرضة لعدوى متكررة."
+        },
+        {
+          "type": "important",
+          "textEn": "Dental Practice Pearl: Diabetes Mellitus is a primary risk factor for aggressive, rapidly progressive Periodontitis and acute multiple periodontal abscesses. Poor glycemic control (HbA1c > 8%) warrants antibiotic coverage and atraumatic surgical protocols.",
+          "textAr": "نقطة سريرية مهمة جداً لطبيبة الأسنان: السكري هو العدو الأول لصحة اللثة والنسج الداعمة (Periodontium). مريض السكر غير المنتظم بتلاقي عنده Periodontitis عنيف وتخلخل سريع في الأسنان وخراجات لثوية متكررة، وأي خلع لازم يكون Atraumatic وبحرص شديد."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "AGEs (Advanced Glycation End-Products)",
+      "termAr": "نواوات الغليكوزيل المتقدمة",
+      "definitionEn": "Proteins or lipids that become glycated as a result of chronic exposure to high sugars, driving diabetic microvascular damage.",
+      "definitionAr": "بروتينات تتشبع بالسكر وتسبب تلف وسماكة الأوعية الدموية في مرضى السكري."
+    }
+  ],
+  "keyPoints": [
+    "AGE-RAGE interaction thickens capillary basement membranes and impairs immunity.",
+    "Diabetes is a bidirectional risk factor for severe periodontal disease.",
+    "Always check HbA1c before major dental surgeries (target < 7% for optimal healing)."
+  ]
+}

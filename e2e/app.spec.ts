@@ -47,10 +47,10 @@ test.describe('Reme KFU Fifth Semester Platform', () => {
   test('interactive quiz engine calculates score and reveals explanations in practice mode', async ({ page }) => {
     await page.goto('/subjects/dm5-car-hard-dent/quiz/quiz-car-hard-dent-01');
 
-    await expect(page.locator('h2')).toContainText('Cariology Diagnosis & Clinical Assessment Quiz');
+    await expect(page.locator('h2')).toContainText('Comprehensive Cariology & Cavity Preparation Question Bank');
 
     // Select option B (correct option)
-    const optionB = page.locator('button:has-text("It can fracture the intact remineralizing surface layer")');
+    const optionB = page.locator('button:has-text("It fractures the fragile remineralized surface zone")');
     await optionB.click();
 
     // Verify explanation box appears

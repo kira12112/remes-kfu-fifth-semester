@@ -1,0 +1,56 @@
+{
+  "id": "dm5-micromviro-lec-06",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Oral Microbiome, Dental Plaque Biofilm, and Periodontal Pathogens",
+  "titleAr": "الميكروبيوم الفموي: تشكل البيوفيلم واللويحة السنية وبكتيريا النسج الداعمة",
+  "order": 6,
+  "estimatedMinutes": 50,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 60,
+    "pageEnd": 63,
+    "section": "The Role of the Normal Mouth Microbiota in Dental Plaque and Caries",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the sequential stages of dental plaque biofilm formation (Pellicle -> Early colonizers -> Bridging -> Late colonizers).",
+      "textAr": "المراحل المتتابعة لتشكل اللويحة السنية من القشيرة المكتسبة إلى النضج"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Identify the Socransky Red Complex periodontal pathogens: Porphyromonas gingivalis, Treponema denticola, and Tannerella forsythia.",
+      "textAr": "التعرف على بكتيريا المجمع الأحمر لسوكرانسكي المسؤولة عن تدمير العظم الداعم للأسنان"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Biofilm Succession and the Socransky Red Complex",
+      "titleAr": "التسلسل البيئي لبكتيريا الفم والمجمع الأحمر المدمر للثة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Dental plaque is an organized microbial biofilm. Within seconds after tooth cleaning, salivary glycoproteins adsorb to enamel, forming the Acellular Acquired Pellicle. Pioneer early colonizers (Streptococcus sanguinis, S. mitis, S. oralis) bind to pellicle receptors via adhesins. Co-aggregation follows: Fusobacterium nucleatum acts as an indispensable ecological bridge connecting early aerobic/facultative species to late anaerobic obligates. In subgingival pockets, microbial shifts culminate in Socransky's 'Red Complex': Porphyromonas gingivalis, Treponema denticola, and Tannerella forsythia. P. gingivalis expresses gingipain cysteine proteases that degrade host immunoglobulins, complement, and alveolar bone, driving severe adult periodontitis.",
+          "textAr": "بصي يا ريهام ده أهم درس في ميكروبيولوجيا الفم واللثة: تكوين الـ Dental Plaque بيمشي في خطوات منظمة جداً: أولاً، بمجرد ما تنظفي السن، اللعاب بيرسب قشرة بروتينية اسمها Acquired Pellicle. بعد كدة تيجي البكتيريا المبكرة (زي S. sanguinis) تلزق فيها. بعد كدة بتيجي بكتيريا Fusobacterium nucleatum تشتغل كـ كوبري وجسر بيربط البكتيريا الهوائية السطحية بالبكتيريا اللاهوائية العميقة. ولما الجيب اللثوي يتعمق بتظهر أخطر عصابة بكتيرية في الفم: مجمع سوكرانسكي الأحمر (The Red Complex) اللي بيتكون من: 1) Porphyromonas gingivalis، 2) Treponema denticola، 3) Tannerella forsythia. البكتيريا دي بتفرز إنزيمات اسمها Gingipains بتدمر الكولاجين وأربطة السن وتذوب عظم الفك المحيط بالأسنان!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Red Complex",
+      "termAr": "المجمع البكتيري الأحمر",
+      "definitionEn": "Group of three virulent anaerobic bacteria (P. gingivalis, T. denticola, T. forsythia) strongly linked to severe periodontitis and bone loss.",
+      "definitionAr": "ثلاثي بكتيري لاهوائي عالي الشراسة مسؤول عن التهاب وتدمير النسج الداعمة والعظم السنخي."
+    }
+  ],
+  "keyPoints": [
+    "Plaque forms: Acquired pellicle -> Early streptococci -> Fusobacterium bridge -> Late anaerobes.",
+    "Socransky Red Complex: Porphyromonas gingivalis, Treponema denticola, Tannerella forsythia.",
+    "Fusobacterium nucleatum is the critical bridging organism in biofilm maturation."
+  ]
+}

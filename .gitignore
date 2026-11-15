@@ -30,3 +30,7 @@ Thumbs.db
 # Private Educational Textbooks (Keep out of public git deployment)
 source-books/
 design-references/*.pdf
+
+# Local Python generator & audit scripts
+*.py
+generated_curricula.ts

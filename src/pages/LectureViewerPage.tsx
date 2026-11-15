@@ -4,20 +4,20 @@ import { AppShell } from '@/components/layout/AppShell';
 import { LectureViewer } from '@/components/lecture/LectureViewer';
 import { Button } from '@/components/ui/Button';
 
-// Static imported lectures catalog for reliable client-side rendering
-import carLec01 from '../../content/lectures/dm5-car-hard-dent-lec-01.json';
-import pharmLec01 from '../../content/lectures/dm5-pharm-lec-01.json';
-import patholAnatLec01 from '../../content/lectures/dm5-pathol-anat-lec-01.json';
-import propaedIntMedLec01 from '../../content/lectures/dm5-propaed-int-med-lec-01.json';
+// Dynamic imported lectures catalog for all available course units
 import semesterData from '../../content/courses/fifth-semester.json';
 import type { Lecture, Subject } from '@/types';
 
-const allLectures: Record<string, Lecture> = {
-  'dm5-car-hard-dent-lec-01': carLec01 as unknown as Lecture,
-  'dm5-pharm-lec-01': pharmLec01 as unknown as Lecture,
-  'dm5-pathol-anat-lec-01': patholAnatLec01 as unknown as Lecture,
-  'dm5-propaed-int-med-lec-01': propaedIntMedLec01 as unknown as Lecture,
-};
+const lectureModules = import.meta.glob('../../content/lectures/*.json', { eager: true });
+const allLectures: Record<string, Lecture> = {};
+
+for (const path in lectureModules) {
+  const mod = lectureModules[path] as { default?: Lecture } | Lecture;
+  const lec = ('default' in mod && mod.default ? mod.default : mod) as Lecture;
+  if (lec && lec.id) {
+    allLectures[lec.id] = lec;
+  }
+}
 
 const subjects = semesterData.subjects as Subject[];
 

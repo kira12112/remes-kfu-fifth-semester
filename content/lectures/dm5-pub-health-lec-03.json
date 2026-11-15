@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pub-health-lec-03",
+  "subjectId": "dm5-pub-health",
+  "type": "theoretical",
+  "titleEn": "Demography and Health Measures: Vital Statistics and Indices",
+  "titleAr": "علم السكان والمؤشرات الصحية: الإحصاءات الحيوية ومعدل وفيات الرضع",
+  "order": 3,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf",
+    "pageStart": 39,
+    "pageEnd": 48,
+    "section": "Topic 3: Demography and Health Measures",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Calculate Crude Birth Rate, Crude Death Rate, and Infant Mortality Rate (IMR).",
+      "textAr": "حساب معدلات المواليد والوفيات الخام ومعدل وفيات الرضع"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze why Infant Mortality Rate is universally regarded as the most sensitive index of a nation's socio-economic and healthcare status.",
+      "textAr": "لماذا يعتبر معدل وفيات الرضع المؤشر الأكثر حساسية لمستوى الرعاية والتنمية في أي دولة"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Infant Mortality Rate (IMR) as the Gold Standard Health Indicator",
+      "titleAr": "معدل وفيات الرضع: المقياس الذهبي لصحة المجتمعات",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "The Infant Mortality Rate (IMR) is defined as the number of deaths of infants under one year of age per 1,000 live births in a given year. Globally, IMR is recognized as the single most sensitive barometer of overall population health, socioeconomic development, maternal care, environmental hygiene, and healthcare accessibility. Developed nations report IMRs below 4 per 1,000, whereas developing nations may exceed 40 per 1,000.",
+          "textAr": "معدل وفيات الرضع (Infant Mortality Rate) هو عدد الأطفال اللي بيموتوا قبل ما يكملوا سنة واحدة لكل 1000 مولود حي. في كل منظمات الصحة العالمية، الـ IMR هو المؤشر الأصدق والأدق لمستوى التطور الصحي والاقتصادي في أي بلد؛ لأنه بيعكس جودة رعاية الأمومة، ونظافة البيئة، والتغذية، وكفاءة المستشفيات."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "IMR = (Deaths of infants < 1 year / Total live births in same year) x 1,000.",
+    "IMR is the most sensitive global index of socioeconomic and healthcare conditions."
+  ]
+}

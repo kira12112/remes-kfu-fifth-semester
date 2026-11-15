@@ -1,0 +1,42 @@
+{
+  "id": "dm5-car-hard-dent-prac-03",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "practical",
+  "titleEn": "Practical 3: Class III Cavity Preparation",
+  "titleAr": "العملي ٣: تحضير حفر الصنف الثالث على الأسنان الأمامية (Class III)",
+  "order": 11,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "k practical handout_7797a08093cd0f21e7e67862a7cbbb0a.pdf",
+    "pageStart": 16,
+    "pageEnd": 21,
+    "section": "3. Class III Cavity Preparation",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Perform lingual approach cavity preparation to preserve labial enamel aesthetics.",
+      "textAr": "تنفيذ التحضير من المدخل اللساني للحفاظ على جمالية الميناء الشفوي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Lingual Approach Technique",
+      "titleAr": "المدخل اللساني للحفاظ على المظهر التجميلي",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Class III lesions occur on the proximal surfaces of anterior teeth not involving the incisal angle. The standard surgical access is from the lingual/palatal aspect to preserve intact labial enamel, maintaining optimal aesthetics and shade matching.",
+          "textAr": "في الـ Class III على الأسنان الأمامية، الأولوية القصوى هي الـ Aesthetics. عشان كدة الدخول دايماً بيكون من الـ Lingual surface؛ وبنحافظ على الـ Labial enamel plate سليم تماماً عشان اللون والشكل يفضلوا طبيعيين 100%."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Access from lingual/palatal surface whenever possible to conserve labial enamel."
+  ]
+}

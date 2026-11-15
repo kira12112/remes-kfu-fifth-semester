@@ -1,0 +1,49 @@
+{
+  "id": "dm5-pub-health-lec-04",
+  "subjectId": "dm5-pub-health",
+  "type": "theoretical",
+  "titleEn": "Health Determinants, Epidemiology, and Morbidity Measures",
+  "titleAr": "محددات الصحة والوبائيات ومقاييس انتشار ووقوع الأمراض",
+  "order": 4,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf",
+    "pageStart": 49,
+    "pageEnd": 79,
+    "section": "Topic 4: Health Determinants & Topic 5: Morbidity of the Population",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the Lalonde Report health determinants: Lifestyle (50%), Environment (20%), Biology/Genetics (20%), and Healthcare System (10%).",
+      "textAr": "تحليل محددات الصحة الأربعة لتقرير لالوند"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Distinguish between Incidence (new cases in a population over time) and Prevalence (existing cases at a point in time).",
+      "textAr": "التفريق الدقيق بين معدل الوقوع (Incidence) ومعدل الانتشار (Prevalence)"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Incidence vs Prevalence in Oral Epidemiology",
+      "titleAr": "الفرق بين معدل الوقوع (Incidence) ومعدل الانتشار (Prevalence)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Incidence measures the rate of NEW cases of a disease arising in a population initially at risk over a specified timeframe. In contrast, Prevalence measures ALL cases (both newly diagnosed and pre-existing) present in a given population at a specific point in time (Point Prevalence) or period (Period Prevalence). Relationship formula: Prevalence = Incidence x Average Duration of Disease (P = I x D). Dental caries is an irreversible chronic condition, making DMF index a measure of cumulative prevalence.",
+          "textAr": "بصي يا ريهام في الوبائيات الفرق ده بيجي في كل امتحان: معدل الوقوع (Incidence) بيقيس عدد الحالات الجديدة فقط اللي ظهرت في فترة زمنية محددة. أما معدل الانتشار (Prevalence) فبيقيس كل الحالات القديمة والجديدة الموجودة في المجتمع في لحظة معينة! المعادلة الشهيرة: الانتشار = الوقوع × مدة المرض (P = I × D). تسوس الأسنان وأمراض اللثة أمراض مزمنة، عشان كدة مؤشر الـ DMFT بيقيس الـ Cumulative Prevalence للمرض."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Incidence = NEW cases / Population at risk per unit time.",
+    "Prevalence = ALL existing cases (new + old) / Total population at a point in time.",
+    "Prevalence = Incidence x Duration (P = I x D)."
+  ]
+}

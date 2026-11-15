@@ -1,0 +1,53 @@
+{
+  "id": "dm5-propaed-int-med-lec-04",
+  "subjectId": "dm5-propaed-int-med",
+  "type": "theoretical",
+  "titleEn": "Examination of the Cardiovascular System: Heart Sounds, Murmurs, and Blood Pressure",
+  "titleAr": "فحص الجهاز القلبي الوعائي: أصوات القلب، النفخات، وقياس ضغط الدم",
+  "order": 4,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf",
+    "pageStart": 51,
+    "pageEnd": 59,
+    "section": "4. Examination of the Cardiovascular System",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Locate the apex beat (5th intercostal space, midclavicular line) and detect cardiomegaly.",
+      "textAr": "تحديد موقع صدمة القمة (Apex Beat) وكشف تضخم القلب"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Identify normal heart sounds: S1 (mitral/tricuspid closure) and S2 (aortic/pulmonary closure).",
+      "textAr": "التعرف على أصوات القلب الطبيعية S1 و S2 والنفخات القلبية"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Execute accurate blood pressure measurement and classify hypertension stages (AHA/ACC).",
+      "textAr": "قياس ضغط الدم بدقة وتصنيف مراحل فرط ضغط الدم السريري"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Blood Pressure Measurement and Clinical Significance in Dentistry",
+      "titleAr": "أهمية قياس ضغط الدم قبل أي إجراء سني",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Routine blood pressure screening before dental treatment is mandatory. Normal BP is < 120/80 mmHg. Stage 1 Hypertension is 130-139 / 80-89 mmHg; Stage 2 Hypertension is >= 140 / >= 90 mmHg. Hypertensive Crisis is defined as systolic > 180 and/or diastolic > 120 mmHg. Elective dental procedures must be deferred if BP exceeds 180/110 mmHg due to catastrophic risks of acute stroke, myocardial infarction, or uncontrolled surgical hemorrhage.",
+          "textAr": "بصي يا ريهام في بروتوكول العيادة: قياس ضغط الدم قبل ما تشتغلي مش رفاهية؛ الضغط الطبيعي أقل من 120/80. لو المريض ضغطه واصل 180/110 mmHg أو أكتر، دي Hypertensive Crisis وممنوع منعاً باتاً تخلعي له أو تديه بنج بأدرينالين أو تعملي أي شغل Elective! بتكتبي له تحويل فوري لطوارئ الباطنة؛ لأن أي ستريس أو أدرينالين ممكن يفرقع شريان في المخ لا قدر الله."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Normal BP is < 120/80 mmHg; Stage 2 Hypertension is >= 140/90 mmHg.",
+    "Defer elective dental surgery if blood pressure exceeds 180/110 mmHg."
+  ]
+}

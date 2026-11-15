@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pathol-phys-lec-01",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "General Nosology: Etiology, Pathogenesis, and Disease Concepts",
+  "titleAr": "مبادئ علم الأمراض العام (النزولوجيا): المسببات والآليات وتصنيف الأمراض",
+  "order": 1,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 4,
+    "pageEnd": 20,
+    "section": "Topic 1. Introduction. General nosology. The Doctrine of Disease. General etiology.",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Define pathology, disease, illness, etiology, pathogenesis, and convalescence.",
+      "textAr": "تعريف علم الأمراض، المرض، الأسباب، والآلية المرضية"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Distinguish between Symptoms (subjective) and Signs (objective clinical findings).",
+      "textAr": "التفريق بين الأعراض الذاتية للمريض (Symptoms) والعلامات السريرية الموضوعية (Signs)"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "The Core Quadrant of Pathology",
+      "titleAr": "الأركان الأربعة لعلم الأمراض في الممارسة الطبية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Pathology bridges basic science and clinical medicine. Studying any disease requires mastering four interrelated aspects: 1) Etiology (the initiating cause, genetic or acquired); 2) Pathogenesis (the biochemical and cellular mechanisms leading to disease expression); 3) Morphological Changes (structural alterations in cells and tissues, visible grossly and microscopically); 4) Clinical Manifestations (the functional consequences: signs observed by the clinician and symptoms felt by the patient).",
+          "textAr": "بصي يا ريهام، عشان تفهمي أي مرض في الدنيا لازم تبصي للأركان الأربعة لعلم الباثولوجي: أولاً الـ Etiology (السبب: هل هو ميكروب، جيني، ولا فيزيائي؟)، ثانياً الـ Pathogenesis (الخطوات البيوكيميائية اللي حصلت في الخلية عشان المرض يتطور)، ثالثاً الـ Morphological Changes (التغيرات الشكلية اللي بنشوفها بعينينا أو تحت الميكروسكوب)، ورابعاً الـ Clinical Manifestations (الأعراض والعلامات اللي المريض بيشتكي منها)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Etiology = Cause; Pathogenesis = Mechanism of development; Morphology = Structural alterations.",
+    "Symptoms are subjective complaints; Signs are objective clinical findings."
+  ]
+}

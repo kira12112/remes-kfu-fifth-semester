@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pub-health-lec-02",
+  "subjectId": "dm5-pub-health",
+  "type": "theoretical",
+  "titleEn": "Statistical Methods and Health Data Analysis in Medical Research",
+  "titleAr": "الطرق الإحصائية وتحليل البيانات الصحية في البحوث الطبية",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf",
+    "pageStart": 17,
+    "pageEnd": 38,
+    "section": "Topic 2: Statistical Methods and Health Data Analysis",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Calculate measures of central tendency (Mean, Median, Mode) and dispersion (Standard Deviation).",
+      "textAr": "حساب مقاييس النزعة المركزية والتشتت"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Understand Hypothesis Testing, Type I vs Type II errors, and statistical significance (p < 0.05).",
+      "textAr": "فهم اختبار الفرضيات والخطأ من النوع الأول والثاني ومفهوم القيمة الاحتمالية p-value"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Statistical Significance and P-Value Interpretation",
+      "titleAr": "القيمة الاحتمالية (P-value) ودلالتها في الأبحاث الطبية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "In biostatistics, the P-value represents the probability of obtaining test results at least as extreme as the observed results, assuming that the null hypothesis (H0: no true difference) is true. By scientific consensus, a threshold of alpha = 0.05 (5%) is adopted. If p < 0.05, the null hypothesis is rejected, and the observed difference is deemed statistically significant. A Type I error (alpha) occurs when a true null hypothesis is incorrectly rejected (false positive). A Type II error (beta) occurs when a false null hypothesis fails to be rejected (false negative); Statistical Power is defined as 1 - beta.",
+          "textAr": "بصي يا ريهام في الإحصاء الطبي: لما تقرأي بحث طبي، عينك دايماً على الـ P-value! الـ P-value دي احتمالية إن النتيجة طلعت بالصدفة البحتة. القاعدة المعيارية: لو الـ p < 0.05 (يعني الاحتمال أقل من 5%)، بنرفض الـ Null Hypothesis ونقول إن النتيجة حقيقية وليها دلالة إحصائية (Statistically Significant)! وخلي بالك من نوعين الخطأ: Type I Error (False Positive: تقولي فيه فرق وهو مفيش)، و Type II Error (False Negative: تقولي مفيش فرق مع إن فيه فرق حقيقي)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "A p-value < 0.05 indicates statistical significance (rejection of null hypothesis).",
+    "Type I error is a false positive (alpha); Type II error is a false negative (beta)."
+  ]
+}

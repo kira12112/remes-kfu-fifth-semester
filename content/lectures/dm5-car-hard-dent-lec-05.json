@@ -1,0 +1,84 @@
+{
+  "id": "dm5-car-hard-dent-lec-05",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Restoration of Teeth: Adhesive Systems and Composites",
+  "titleAr": "ترميم الأسنان: أنظمة اللصق والمواد المركبة (الكومبوزيت)",
+  "order": 5,
+  "estimatedMinutes": 50,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 54,
+    "pageEnd": 73,
+    "section": "Topic 5: Restoration of Teeth",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Understand enamel etching mechanism with 37% phosphoric acid.",
+      "textAr": "فهم آلية تخريش الميناء بحمض الفوسفوريك 37%"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Compare Total-Etch (Etch-and-Rinse) and Self-Etch adhesive generations.",
+      "textAr": "المقارنة بين أنظمة اللصق Total-Etch و Self-Etch"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Analyze the formation of the hybrid layer and resin tags in dentin bonding.",
+      "textAr": "تحليل تكوين الطبقة الهجينة (Hybrid Layer) والـ Resin Tags في العاج"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Acid Etching & Enamel Bonding",
+      "titleAr": "تخريش الميناء والارتباط الميكانيكي الدقيق",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Introduced by Buonocore in 1955, acid etching uses 35-37% orthophosphoric acid applied to enamel for 15-30 seconds. This selectively dissolves enamel prism cores or peripheries, creating microporosities (Type I, II, III etching patterns) with high surface energy where low-viscosity resin penetrates to form micromechanical resin tags.",
+          "textAr": "بصي يا ريهام، ثورة طب الأسنان التجميلي بدأت سنة 1955 لما دكتور Buonocore اخترع الـ Acid Etching. بنحط 37% Phosphoric acid على الميناء لمدة 15 لـ 30 ثانية؛ الحمض بيدوب أجزاء من بلورات الـ Enamel prisms وبيخلق مسام مجهرية دقيقة جداً (Microporosities). لما بنحط الـ Bonding agent، بيدخل جوة المسام دي ويعمل حاجة اسمها Resin Tags تضمن التصاق ميكانيكي رهيب (Micromechanical retention)."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "titleEn": "Dentin Bonding & The Hybrid Layer",
+      "titleAr": "الالتصاق بالعاج والطبقة الهجينة (The Hybrid Layer)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Bonding to dentin is far more complex than enamel due to high water content, tubular fluid movement, and organic collagen type I network. Nakabayashi (1982) demonstrated that demineralizing dentin exposes collagen fibers; resin monomers (HEMA, Bis-GMA) infiltrate this scaffold to form the Hybrid Layer.",
+          "textAr": "الارتباط بالـ Dentin أصعب بكتير من الـ Enamel لأن العاج فيه مياه كتير وأنابيب عاجية (Dentinal tubules) وشبكة من ألياف الـ Collagen. لما بنحط الحمض، بيدوب الـ Hydroxyapatite ويكشف شبكة الكولاجين. بيجي الـ Primer والـ Adhesive يدخلوا وسط الكولاجين ويعملوا تداخل بنسميه The Hybrid Layer (الطبقة الهجينة)؛ وهي دي سر قوة التماسك ومنع الحساسية بعد الحشو (Postoperative sensitivity)."
+        },
+        {
+          "type": "important",
+          "textEn": "Critical Technique Pearl: Over-drying acid-etched dentin causes collagen collapse! Dentin must be kept slightly moist ('wet bonding technique') so collagen fibrils stay erect for resin infiltration.",
+          "textAr": "أخطر خطأ يقع فيه أطباء الأسنان: تجفيف العاج بالهواء الشديد بعد الـ Etching! ده بيعمل Collagen collapse والألياف بتنام فوق بعضها زي اللبد فالبوند ميعرفش يدخل ويحصل حساسية فظيعة للمريض. لازم Dentin يفضل Slightly moist (Wet bonding technique)!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Hybrid Layer",
+      "termAr": "الطبقة الهجينة",
+      "definitionEn": "The zone where resin monomers interlock with exposed collagen fibril networks in demineralized dentin.",
+      "definitionAr": "منطقة التداخل المجهري بين مونومرات الراتنج وشبكة ألياف الكولاجين المكشوفة في العاج."
+    },
+    {
+      "termEn": "Resin Tags",
+      "termAr": "نتوءات الراتنج الدقيقة",
+      "definitionEn": "Microscopic projections of adhesive resin penetrating into etched enamel porosities and open dentinal tubules.",
+      "definitionAr": "امتدادات مجهرية لمادة اللصق تتوغل داخل مسام الميناء وأنابيب العاج لتحقيق التثبيت."
+    }
+  ],
+  "keyPoints": [
+    "37% phosphoric acid creates micromechanical microporosities in enamel.",
+    "Dentin bonding relies on forming a defect-free Hybrid Layer.",
+    "Never desiccate etched dentin; avoid collagen collapse by maintaining moist dentin."
+  ]
+}

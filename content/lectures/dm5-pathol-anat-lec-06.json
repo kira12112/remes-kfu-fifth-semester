@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pathol-anat-lec-06",
+  "subjectId": "dm5-pathol-anat",
+  "type": "theoretical",
+  "titleEn": "Thermal Metabolism Disorders, Fever, and Pulmonary Pathology",
+  "titleAr": "اضطرابات الحرارة والحمى وأمراض الرئة والجهاز التنفسي",
+  "order": 6,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf",
+    "pageStart": 30,
+    "pageEnd": 37,
+    "section": "Topic 6. Disorders of Thermal metabolism / Fever & Topic 7. Lung Diseases",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the hypothalamic pyrogenic cascade (IL-1, TNF-alpha, PGE2) in fever pathogenesis.",
+      "textAr": "آلية حدوث الحمى في منطقة تحت المهاد والوسطاء الالتهابيين"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Differentiate Lobar Pneumonia from Bronchopneumonia and understand stages of consolidation.",
+      "textAr": "التفريق بين ذات الرئة الفصية والقصبية ومراحل التصلد الرئوي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Pathogenesis of Fever and Pyrogens",
+      "titleAr": "كيف تحدث الحمى؟ دور البروستاغلاندين E2 ومضادات الحرارة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Fever (pyrexia) is an elevated core body temperature mediated by the hypothalamic thermoregulatory center. Exogenous pyrogens (such as bacterial lipopolysaccharide endotoxin) stimulate leukocytes to release endogenous pyrogens (IL-1, IL-6, TNF-alpha). These cytokines cross the blood-brain barrier to activate vascular endothelial cells in the preoptic area of the anterior hypothalamus, producing Prostaglandin E2 (PGE2) via COX-2. PGE2 elevates the hypothalamic set-point, triggering peripheral vasoconstriction, shivering, and heat conservation. Antipyretics like Paracetamol and NSAIDs reduce fever specifically by inhibiting hypothalamic COX and lowering PGE2 synthesis.",
+          "textAr": "بصي يا ريهام في آلية السخونية والحمى: لما بتدخل بكتيريا، بتفرز سموم (Endotoxins) تخلي خلايا المناعة تطلع Interleukin-1 و TNF. السيتوكينات دي بتوصل للـ Hypothalamus في المخ، وهناك بتشغل إنزيم COX عشان يصنع Prostaglandin E2. الـ PGE2 هو اللي بيرفع الـ Thermostat بتاعة المخ ويخلي المريض يرعش وجسمه يسخن. لما بندي باراسيتامول أو بروفين، هما بيوقفوا تصنيع PGE2 في المخ، فالـ Thermostat ترجع طبيعية والمريض يعرق وتنزل حرارته."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "PGE2 mediates hypothalamic set-point elevation in fever.",
+    "Antipyretics reduce body temperature by inhibiting hypothalamic prostaglandin synthesis."
+  ]
+}

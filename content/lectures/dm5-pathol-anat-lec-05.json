@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pathol-anat-lec-05",
+  "subjectId": "dm5-pathol-anat",
+  "type": "theoretical",
+  "titleEn": "Gastrointestinal Pathology & Oral Manifestations",
+  "titleAr": "أمراض الجهاز الهضمي والتقرحات القلاعية الفموية المرافقة",
+  "order": 5,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf",
+    "pageStart": 25,
+    "pageEnd": 29,
+    "section": "Topic 5. GIT Disorders",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the pathology of Peptic Ulcer Disease and Helicobacter pylori infection.",
+      "textAr": "تحليل التشريح المرضي للقرحة الهضمية وجرثومة المعدة H. pylori"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Differentiate Crohn's Disease from Ulcerative Colitis and identify 'cobblestone' oral mucosa.",
+      "textAr": "التفريق بين داء كرون والتهاب القولون التقرحي وعلامة المظهر الحصوي الفموي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Crohn's Disease vs Ulcerative Colitis: Oral Signs",
+      "titleAr": "داء كرون ومظهره الحصوي المميز في الفم",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Crohn's disease is a transmural, granulomatous inflammatory disease capable of affecting any segment of the gastrointestinal tract from mouth to anus with 'skip lesions'. In the oral cavity, Crohn's manifests as persistent labial/facial swelling (orofacial granulomatosis), linear aphthoid ulcerations in the buccal vestibule, and a classic 'cobblestone' appearance of the buccal mucosa due to submucosal non-caseating granulomas and lymphedema.",
+          "textAr": "بصي يا ريهام في الجهاز الهضمي: داء كرون (Crohn's Disease) ده التهاب مناعي بيصيب الجهاز الهضمي كله من الفم لحد فتحة الشرج في صورة Skip lesions. وأحياناً المريض يكتشف مرضه في عيادة الأسنان قبل بطنه! بتلاقي في الفم تضخم في الشفاه، وتقرحات خطية عميقة، ومظهر الحصى المرصوف (Cobblestone appearance) في باطن الخد بسبب تكون Non-caseating granulomas."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Crohn's disease features transmural inflammation and cobblestone oral mucosal appearance.",
+    "Avoid NSAIDs in peptic ulcer and inflammatory bowel disease patients."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dm5-car-hard-dent-prac-04",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "practical",
+  "titleEn": "Practical 4: Class IV Cavity Preparation & Beveling",
+  "titleAr": "العملي ٤: تحضير وترميم حفر الصنف الرابع وشطب الحواف (Class IV)",
+  "order": 12,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "k practical handout_7797a08093cd0f21e7e67862a7cbbb0a.pdf",
+    "pageStart": 22,
+    "pageEnd": 27,
+    "section": "4. Class IV Cavity Preparation",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master enamel margin beveling (45-degree angle, 1.5-2.0 mm) for seamless composite blending.",
+      "textAr": "إتقان شطب حواف الميناء (بزاوية 45 درجة وعرض 1.5-2 مم) لإخفاء خط التماس التجميلي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "The Role of Enamel Bevel in Class IV",
+      "titleAr": "أهمية الشطب المائل (Enamel Bevel) في الأسنان الأمامية المكسورة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Class IV restorations involve the proximal surfaces and incisal angles of anterior teeth, typically resulting from trauma or extensive caries. Preparing a 45-degree bevel of 1.5 to 2.0 mm on the labial enamel margins increases the surface area for bonding, exposes end-on enamel prisms for superior etch patterns, and creates a gradual transition zone that masks the restorative margin.",
+          "textAr": "لما يجيلك مريض سنه مكسور في الـ Incisal angle (Class IV)، السر التجميلي كله في الـ Enamel Bevel! بنعمل شطب بحافة مائلة بزاوية 45 درجة وبعرض 1.5 لـ 2.0 مم على حافة الميناء الخارجية. الحركة دي بتعمل ٣ فوايد جبارة: بتزود مساحة الـ Bonding، وبتفتح الـ Enamel prisms عمودياً فيمسك الكومبوزيت بأعلى قوة، وبتعمل تدرج لوني سلس جداً يخفي الخط الفاصل بين الحشوة والسن!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "45-degree bevel of 1.5-2.0mm on labial enamel creates invisible aesthetic transition and maximizes bond strength."
+  ]
+}

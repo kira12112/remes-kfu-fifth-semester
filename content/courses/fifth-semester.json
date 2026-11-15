@@ -70,8 +70,8 @@
         "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
         "KFU, DM-3rd year Microbiology, virology  Practical book_5959e5451262072d38e5ab4d0bcf1542.pdf"
       ],
-      "theoreticalCount": 9,
-      "practicalCount": 4,
+      "theoreticalCount": 8,
+      "practicalCount": 0,
       "order": 4
     },
     {
@@ -88,7 +88,7 @@
         "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf"
       ],
       "theoreticalCount": 6,
-      "practicalCount": 3,
+      "practicalCount": 0,
       "order": 5
     },
     {
@@ -104,8 +104,8 @@
       "sourceFiles": [
         "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf"
       ],
-      "theoreticalCount": 7,
-      "practicalCount": 3,
+      "theoreticalCount": 8,
+      "practicalCount": 0,
       "order": 6
     },
     {
@@ -140,7 +140,7 @@
         "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf"
       ],
       "theoreticalCount": 6,
-      "practicalCount": 3,
+      "practicalCount": 0,
       "order": 8
     },
     {
@@ -157,7 +157,7 @@
         "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf"
       ],
       "theoreticalCount": 6,
-      "practicalCount": 2,
+      "practicalCount": 0,
       "order": 9
     },
     {
@@ -190,7 +190,7 @@
         "DM.5.RES METH BIO MED Part 2 2026 Electrophysiology_deb2d669f06b8184c1cc08579b1c0019.pdf"
       ],
       "theoreticalCount": 5,
-      "practicalCount": 3,
+      "practicalCount": 0,
       "order": 11
     },
     {

@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pharm-prac-04",
+  "subjectId": "dm5-pharm",
+  "type": "practical",
+  "titleEn": "Practical 4: Medical Emergencies in the Dental Chair and Emergency Drug Kit",
+  "titleAr": "العملي ٤: تدبير طوارئ عيادة الأسنان وصيدلية الإسعاف الأولي",
+  "order": 10,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Practical_4fcdee63caa7c87bf9cd7d54d34aac5a.pdf",
+    "pageStart": 39,
+    "pageEnd": 49,
+    "section": "4. Emergency Drugs in Dental Practice",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Manage Vasovagal Syncope via Trendelenburg positioning.",
+      "textAr": "تدبير الإغماء الوعائي البسيط بوضعية ترندلنبرغ"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Administer intramuscular Epinephrine (0.3 - 0.5 mg, 1:1000) for acute Anaphylactic Shock.",
+      "textAr": "إعطاء الأدرينالين في العضل (0.3-0.5 مجم بتركيز 1:1000) لصدمة الحساسية الحادة"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Syncope vs Anaphylactic Shock Protocol",
+      "titleAr": "التفرقة السريعة بين الإغماء العادي وصدمة الحساسية المفرطة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Vasovagal syncope is the most common emergency in dental practice, triggered by fear, anxiety, or pain. The immediate management is placing the patient in the supine or Trendelenburg position (feet elevated 15-30 degrees) to restore cerebral perfusion. In contrast, Anaphylactic shock presents with facial angioedema, urticaria, wheezing, and profound hypotension; the mandatory first-line drug is Epinephrine 1:1000 (0.3 to 0.5 mg IM injected into the anterolateral mid-thigh).",
+          "textAr": "بصي يا ريهام في الطوارئ: لو مريض أغمى عليه فجأة من الخوف أو الألم، ده بنسبة 90% Vasovagal Syncope؛ متقلقيش، ارفعي رجليه لفوق ونزلي راسه (Trendelenburg position) عشان الدم يرجع للمخ وهيفوق في دقيقة. لكن لو ظهر عليه طفح جلدي وتورم في الشفايف واللسان وضيق تنفس وهبوط ضغط بعد حقن دواء، دي Anaphylactic Shock قاتلة! العلاج الفوري رقم واحد بدون تأخير ثانية واحدة: حقن أدرينالين في العضل (Epinephrine 1:1000 بجرعة 0.3-0.5 مجم في عضلة الفخذ الخارجية)!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Trendelenburg position is first-line management for vasovagal syncope.",
+    "Intramuscular Epinephrine 1:1000 (0.3-0.5 mg) is first-line life-saving therapy for anaphylaxis."
+  ]
+}

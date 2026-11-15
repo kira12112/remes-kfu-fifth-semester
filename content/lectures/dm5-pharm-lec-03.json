@@ -1,0 +1,78 @@
+{
+  "id": "dm5-pharm-lec-03",
+  "subjectId": "dm5-pharm",
+  "type": "theoretical",
+  "titleEn": "Autonomic Pharmacology: Sympathomimetics and Adrenergic Blockers",
+  "titleAr": "أدوية الجهاز السمبثاوي: الأدرينالين ومثبطات المستقبلات الأدرينرجية",
+  "order": 3,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+    "pageStart": 43,
+    "pageEnd": 61,
+    "section": "2. Autonomic pharmacology: Sympathomimetic & Sympatholytic",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze Alpha-1, Alpha-2, Beta-1, and Beta-2 receptor distribution and physiological responses.",
+      "textAr": "توزيع واستجابات مستقبلات ألفا-1، ألفا-2، بيتا-1، وبيتا-2"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Explain why Epinephrine (Adrenaline) is added to Dental Local Anesthetics (1:100,000 / 1:200,000).",
+      "textAr": "أسباب إضافة الأدرينالين كمقبض وعائي لمخدر الأسنان الموضعي وتحديد الجرعة الآمنة"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Manage dental patients on non-selective beta-blockers (Propranolol) avoiding hypertensive crisis.",
+      "textAr": "الحذر السريري عند إعطاء الأدرينالين لمرضى يتناولون حاصرات بيتا غير الانتقائية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Epinephrine as a Vasoconstrictor in Local Anesthesia",
+      "titleAr": "لماذا نضيف الأدرينالين إلى بنج الأسنان؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Epinephrine (Adrenaline) is added to local anesthetic cartridges (such as 2% Lidocaine) at concentrations of 1:100,000 (0.01 mg/mL) or 1:200,000 (0.005 mg/mL). Acting on vascular smooth muscle Alpha-1 receptors, it induces localized vasoconstriction, yielding four profound clinical benefits: 1) Prolongs duration of anesthesia by retarding vascular absorption; 2) Decreases systemic toxicity by slowing peak plasma drug levels; 3) Provides local surgical hemostasis in the operative field; 4) Decreases the total volume of anesthetic required.",
+          "textAr": "بصي يا ريهام، ده أهم تطبيق في طب الأسنان اليومي! ليه كل كربولات البنج (زي Lidocaine 2%) بيكون معاها Epinephrine (Adrenaline) بتركيز 1:100,000؟ الأدرينالين بيشتغل على مستقبلات Alpha-1 في الأوعية الدموية فيعمل Vasoconstriction موضعي شديد. ده بيديكي ٤ فوايد متتعوضش: أولاً، بيحبس المخدر في مكان الحقن فمدة التخدير تطول جداً. ثانياً، بيمنع امتصاص المخدر بسرعة في الدم فبيحمي المريض من الـ Systemic Toxicity. ثالثاً، بيقلل النزيف أثناء الخلع والجراحة (Hemostasis). رابعاً، بيخليكي تشتغلي بكمية بنج أقل بكثير."
+        },
+        {
+          "type": "important",
+          "textEn": "Cardiac Safety Dose: In cardiac patients (hypertension, ischemic heart disease), maximum epinephrine is limited to 0.04 mg (2 cartridges of 1:100,000). In healthy patients, the limit is 0.2 mg (approx. 11 cartridges).",
+          "textAr": "معادلة الأمان لمريض القلب: أقصى جرعة أدرينالين لمريض القلب هي 0.04 مجم (يعني كربولتين بنج فقط بتركيز 1:100,000)! أما المريض السليم فجرعته القصوى 0.2 مجم (حوالي 11 كربولة)."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "titleEn": "Drug Interaction: Epinephrine with Non-Selective Beta-Blockers",
+      "titleAr": "تفاعل خطير: الأدرينالين مع حاصرات بيتا غير الانتقائية (Propranolol)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "When epinephrine is injected in a patient taking non-selective beta-blockers (e.g., Propranolol), the beta-2 vasodilatory receptors are blocked while alpha-1 vasoconstrictor receptors remain unopposed. This unopposed alpha-1 stimulation can trigger severe acute hypertensive crises and reflex bradycardia.",
+          "textAr": "تحذير سريري خطير جداً: لو المريض بياخد دواء ضغط غير انتقائي زي Propranolol (Inderal)، الدواء ده قافل مستقبلات Beta-2 اللي بتعمل تمدد في الأوعية. لو إديتي أدرينالين، الأدرينالين هيشغل Alpha-1 لوحدها بدون أي مقاومة (Unopposed Alpha-1 stimulation)، وضغط دم المريض هيرتفع للسماء وممكن يحصل Hypertensive crisis وجلطة! في الحالة دي بنستخدم بنج بدون أدرينالين زي Mepivacaine 3% Plain."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Vasoconstrictor",
+      "termAr": "مقبض وعائي",
+      "definitionEn": "An agent causing constriction of blood vessels, reducing local blood flow and delaying anesthetic absorption.",
+      "definitionAr": "مادة تسبب انقباض الأوعية الدموية لتقليل النزيف وإطالة مفعول التخدير الموضعي."
+    }
+  ],
+  "keyPoints": [
+    "Epinephrine stimulates Alpha-1 to constrict vessels, prolonging local anesthesia.",
+    "Maximum dose for cardiac patients is 0.04 mg (2 cartridges of 1:100,000).",
+    "Avoid epinephrine in patients on non-selective beta-blockers (use Mepivacaine 3% plain)."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dm5-micromviro-lec-03",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Gram-Negative Cocci and Spore-Forming Gram-Positive Bacilli",
+  "titleAr": "المكورات السلبية لغرام والعصيات الإيجابية المشكلة للأبواغ (الكلوستريديوم والكزاز)",
+  "order": 3,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 18,
+    "pageEnd": 27,
+    "section": "Gram negative cocci & Gram positive bacilli",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Identify Neisseria species: N. gonorrhoeae and N. meningitidis.",
+      "textAr": "التعرف على أنواع بكتيريا النيسريا المسببة للسيلان والتهاب السحايا"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze Clostridium species (C. tetani, C. perfringens, C. difficile) and neurotoxin mechanisms.",
+      "textAr": "تحليل بكتيريا الكلوستريديوم: الكزاز (التيتانوس)، الغنغرينا الغازية، والتهاب القولون الغشائي الكاذب"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Clostridium tetani and Trismus (Lockjaw) in Facial Trauma",
+      "titleAr": "بكتيريا الكزاز (C. tetani) والتشنج الفكي (Trismus) بعد الإصابات",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Clostridium tetani is an obligate anaerobic, spore-forming, drumstick-shaped Gram-positive bacillus found in soil. Deep penetrating maxillofacial puncture wounds introduce spores into anaerobic tissue beds. Spores germinate and release Tetanospasmin, an extremely potent neurotoxin. Tetanospasmin travels retrogradely along motor axons into the spinal cord and brainstem, cleaving synaptobrevin and blocking the release of inhibitory neurotransmitters (GABA and glycine). This results in uncontrolled motor hyperactivity, muscle spasticity, and classical early Trismus ('Lockjaw') and Risus Sardonicus (sardonic smile due to facial muscle spasm).",
+          "textAr": "بصي يا ريهام في جراحة الوجه والفكين: لو جالك مريض مصاب بجرح ملوث أو مسمار في وشه أو فكه، لازم تسأليه فوراً عن تطعيم التيتانوس! بكتيريا Clostridium tetani بتعيش في التراب وبتنتج سم عصبي قاتل اسمه Tetanospasmin. السم ده بيمشي في الأعصاب ويقفل النواقل العصبية المهدئة (GABA و Glycine)، فالعضلات تفضل منقبضة باستمرار. أول وأشهر علامة هي Trismus أو Lockjaw: الفك يقفل تماماً والمريض ميعرفش يفتح بقه، مع ابتسامة تشنجية بنسميها Risus Sardonicus!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Clostridium tetani releases tetanospasmin, blocking inhibitory GABA/glycine neurotransmission.",
+    "Trismus (lockjaw) is the classic initial presentation of tetanus in facial wounds."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dm5-propaed-int-med-lec-05",
+  "subjectId": "dm5-propaed-int-med",
+  "type": "theoretical",
+  "titleEn": "Examination of Digestive and Urinary Systems: Abdominal Signs",
+  "titleAr": "فحص الجهازين الهضمي والبولي: علامات البطن السريرية والألم المنقول",
+  "order": 5,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PROPAED INT MED_c6c17c824f21a0086361b062c33bdb00.pdf",
+    "pageStart": 60,
+    "pageEnd": 72,
+    "section": "5. Examination of the Digestive System & 6. Urinary System",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Identify abdominal landmarks and quadrants.",
+      "textAr": "تحديد الأرباع الأربعة للبطن والموجودات السريرية"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Recognize acute abdominal signs: Murphy's sign (cholecystitis), McBurney's point tenderness (appendicitis), and rebound tenderness.",
+      "textAr": "التعرف على علامات البطن الحادة: علامة ميرفي، نقطة ماكبيرني، والألم المرتد"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Acute Abdominal Examination Findings",
+      "titleAr": "علامات البطن الحادة التي تستدعي التدخل الجراحي الفوري",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Physical examination of the abdomen follows: Inspection, Auscultation, Percussion, then Palpation (auscultating before palpating ensures bowel sounds are not artificially altered). Rebound tenderness (Blumberg's sign) indicates peritoneal inflammation. Murphy's sign is inspiratory arrest during deep palpation of the right hypochondrium beneath the liver edge, diagnostic of acute cholecystitis. McBurney's point tenderness (one-third the distance from the anterior superior iliac spine to the umbilicus) indicates acute appendicitis.",
+          "textAr": "في فحص البطن الترتيب بيتغير: بنسمع بالسماعة الأول قبل ما نلمس بإيدينا عشان الجس ميهيجش حركة الأمعاء! علامة Murphy's sign (المريض ياخد نفس عميق وانتي بتضغطي تحت القفص الصدري اليمين فيقف نفسه فجأة من الألم) بتشير لالتهاب المرارة الحاد (Acute cholecystitis). وعلامة McBurney's point tenderness بتشير لالتهاب الزائدة الدودية الحاد (Acute appendicitis)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Auscultate before palpating the abdomen.",
+    "Murphy's sign indicates acute cholecystitis; McBurney tenderness indicates appendicitis."
+  ]
+}

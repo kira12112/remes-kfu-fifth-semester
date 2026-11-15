@@ -1,0 +1,66 @@
+{
+  "id": "dm5-pharm-lec-05",
+  "subjectId": "dm5-pharm",
+  "type": "theoretical",
+  "titleEn": "CNS Pharmacology: Analgesics, Opioids, NSAIDs, and Sedatives",
+  "titleAr": "أدوية الجهاز العصبي المركزي: المسكنات، مضادات الالتهاب، والمهدئات",
+  "order": 5,
+  "estimatedMinutes": 50,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+    "pageStart": 65,
+    "pageEnd": 97,
+    "section": "4. Drugs affecting central nervous system",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the mechanism of action of NSAIDs via Cyclooxygenase (COX-1 vs COX-2) inhibition.",
+      "textAr": "آلية عمل مضادات الالتهاب اللاستيرويدية بتثبيط إنزيمات السيكلوأوكسيجيناز COX-1 و COX-2"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Differentiate between NSAIDs, Paracetamol (Acetaminophen), and Opioid analgesics (Tramadol, Codeine).",
+      "textAr": "التفريق بين NSAIDs والباراسيتامول والمسكنات الأفيونية"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Understand Benzodiazepines (Diazepam, Midazolam) for oral conscious sedation in dental phobia.",
+      "textAr": "استخدام البنزوديازيبينات لتهدئة المريض الخائف في عيادة الأسنان"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "NSAIDs vs Paracetamol in Odontogenic Pain",
+      "titleAr": "اختيار المسكن المناسب لآلام الأسنان: NSAIDs أم Paracetamol؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Non-steroidal anti-inflammatory drugs (NSAIDs, e.g., Ibuprofen, Ketorolac, Naproxen) are the first-line analgesics for odontogenic pain because dental pain is predominantly inflammatory, mediated by prostaglandin E2 (PGE2) sensitizing pain nociceptors. NSAIDs inhibit cyclooxygenase (COX), blocking the conversion of arachidonic acid to prostaglandins. COX-1 inhibition causes gastric irritation and antiplatelet effects, while selective COX-2 inhibitors (Celecoxib) spare the gastric mucosa but carry cardiovascular warnings. Paracetamol acts centrally (inhibiting central peroxidase/COX), producing antipyretic and analgesic effects without peripheral anti-inflammatory or antiplatelet activity, making it safe for asthmatics, peptic ulcer, and pregnant patients.",
+          "textAr": "بصي يا ريهام دي أهم وصفة هتكتبيها في حياتك كطبيبة أسنان: ألم الأسنان سببه الأساسي Inflammatory بسبب الـ Prostaglandins! عشان كدة الـ First-line treatment هو عائلة الـ NSAIDs (زي Ibuprofen 400-600 mg) لأنها بتوقف إنزيم الـ COX فبتمنع الالتهاب والورم والألم من جذوره. لكن لو المريض عنده قرحة معدة (Peptic ulcer) أو حساسية صدر (Bronchial asthma) أو مريضة حامل، الـ NSAIDs ممنوعة تماماً؛ وبنديهم Paracetamol (Panadol) كبديل آمن جداً على المعدة والحمل، لكن لازم تعرفي إن الباراسيتامول مسكن وخافض حرارة فقط وليس مضاداً للالتهاب في الأنسجة المحيطية."
+        },
+        {
+          "type": "important",
+          "textEn": "Maximum Daily Dose Rule: Paracetamol maximum daily dose is 4 grams (4000 mg) in adults to prevent acute hepatotoxicity from toxic NAPQI accumulation.",
+          "textAr": "جرعة الأمان القصوى للباراسيتامول: 4 جرام يومياً (4000 مجم)؛ زيادة الجرعة عن كدة بتعمل تليف وفشل كبدي حاد (Acute Hepatic Necrosis) بسبب تراكم مادة NAPQI السامة!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Cyclooxygenase (COX)",
+      "termAr": "إنزيم السيكلوأوكسيجيناز",
+      "definitionEn": "Enzyme converting arachidonic acid into prostaglandins and thromboxanes, targeted by NSAIDs.",
+      "definitionAr": "إنزيم يحول حمض الأراكيدونيك إلى بروستاغلاندينات وثرمبوكسان، وتثبطه مسكنات NSAIDs."
+    }
+  ],
+  "keyPoints": [
+    "NSAIDs are first-line for inflammatory dental pain by inhibiting COX and prostaglandin synthesis.",
+    "Paracetamol is analgesic/antipyretic but lacks anti-inflammatory action; safe in ulcers and pregnancy.",
+    "Paracetamol adult dose must never exceed 4g/day to avoid fatal liver toxicity."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dm5-pathol-phys-lec-04",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "Inflammation: Acute & Chronic Mechanisms and Chemical Mediators",
+  "titleAr": "الالتهاب: الآليات الوعائية والخلوية للالتهاب الحاد والمزمن والوسطاء الكيميائيين",
+  "order": 4,
+  "estimatedMinutes": 50,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 61,
+    "pageEnd": 88,
+    "section": "Topic 4. Inflammation: Acute/ Chronic",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the vascular events of acute inflammation: vasodilation, increased permeability, and exudate formation.",
+      "textAr": "الأحداث الوعائية للالتهاب الحاد: التوسع الوعائي ونضح السوائل"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Detail cellular events: margination, rolling (selectins), adhesion (integrins), transmigration, and chemotaxis.",
+      "textAr": "الأحداث الخلوية: تدحرج الكريات البيضاء والتصاقها وهجرتها نحو بؤرة العدوى"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Identify the cardinal signs of inflammation: Rubor, Tumor, Calor, Dolor, and Functio Laesa.",
+      "textAr": "العلامات الكلاسيكية الخمس للالتهاب: الاحمرار، التورم، الحرارة، الألم، وفقدان الوظيفة"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Vascular and Cellular Sequence in Acute Inflammation",
+      "titleAr": "التسلسل الزمني الدقيق للالتهاب الحاد من الوعاء الدموي إلى النسيج",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Acute inflammation is the immediate response to injury. Vascular events initiate with transient arteriolar vasoconstriction followed by sustained arteriolar vasodilation (mediated by histamine and nitric oxide), creating hyperemia (Rubor & Calor). Endothelial cell contraction increases vascular permeability, allowing protein-rich exudate to flood the interstitium (Tumor). Cellular events involve leukocyte recruitment: Neutrophils undergo margination and rolling along the endothelium mediated by Selectins (L-, E-, P-selectin), followed by firm adhesion mediated by Integrins (CD11/CD18), transmigration (diapedesis) via PECAM-1, and chemotactic migration toward bacterial peptides and leukotriene B4 (LTB4). Bradykinin and PGE2 sensitize nociceptors, producing pain (Dolor).",
+          "textAr": "بصي يا ريهام ده قلب الطب والباثولوجي كله! الالتهاب الحاد بيمشي في خطوات محكمة جداً: أولاً الأوعية الدموية بتوسع بفعل الـ Histamine فيزيد تدفق الدم ويعمل احمرار وحرارة (Rubor & Calor). بعدين جدران الأوعية توسع مسامها وتخرج البلازما الغنية بالبروتين فيحصل تورم (Tumor). بعدين تيجي خلايا الـ Neutrophils تتدحرج على جدار الوعاء بمساعدة بروتينات الـ Selectins، وتثبت وتلزق بقوة بالـ Integrins، وبعدين تعصر نفسها وتخرج للنسيج (Diapedesis) وتمشي ورا رائحة البكتيريا بالـ Chemotaxis عشان تبلعها. وأخيراً مادتين مشهورتين هما Bradykinin و PGE2 بيهيجوا الأعصاب ويعملوا ألم (Dolor)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Cardinal signs: Rubor (redness), Calor (heat), Tumor (swelling), Dolor (pain), Functio laesa.",
+    "Rolling is mediated by Selectins; Firm adhesion is mediated by Integrins.",
+    "Bradykinin and PGE2 are the primary mediators provoking inflammatory pain."
+  ]
+}

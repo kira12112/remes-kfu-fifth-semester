@@ -1,0 +1,73 @@
+{
+  "id": "quiz-pub-health-01",
+  "subjectId": "dm5-pub-health",
+  "titleEn": "Public Health & Epidemiology Comprehensive Question Bank",
+  "titleAr": "بنك أسئلة الصحة العامة والوبائيات الشامل",
+  "description": "Verified MCQs on levels of prevention, epidemiology metrics (incidence vs prevalence), health indicators (IMR), and screening criteria.",
+  "questions": [
+    {
+      "id": "q-ph-01",
+      "subjectId": "dm5-pub-health",
+      "textEn": "Community water fluoridation and application of pit and fissure sealants on erupting permanent molars are classic examples of which level of prevention?",
+      "textAr": "تعتبر فلورة مياه الشرب المجتمعية وتطبيق سادات الشقوق والوهاد للأسنان السليمة أمثلة كلاسيكية لأي مستوى من مستويات الوقاية؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Primary Prevention",
+          "textAr": "الوقاية الأولية (Primary Prevention)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Secondary Prevention",
+          "textAr": "الوقاية الثانوية (Secondary Prevention)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Tertiary Prevention",
+          "textAr": "الوقاية الثالثية (Tertiary Prevention)"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Quaternary Prevention",
+          "textAr": "الوقاية الرباعية"
+        }
+      ],
+      "correctOptionId": "opt-a",
+      "explanationEn": "Primary prevention intervenes before the biological onset of disease to prevent its occurrence, exemplified by water fluoridation and sealants.",
+      "explanationAr": "فلورة المياه وسادات الشقوق بتمنع حدوث التسوس قبل أن يبدأ أصلاً في الشخص السليم، وده التعريف الكلاسيكي للوقاية الأولية.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-ph-02",
+      "subjectId": "dm5-pub-health",
+      "textEn": "Which vital demographic indicator is globally considered the most sensitive index of a country's general health status and socioeconomic development?",
+      "textAr": "أي مؤشر ديموغرافي يعتبر عالمياً الأكثر حساسية لقياس المستوى الصحي والتنموي والاجتماعي لدولة ما؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Crude Birth Rate",
+          "textAr": "معدل المواليد الخام"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Infant Mortality Rate (IMR)",
+          "textAr": "معدل وفيات الرضع (Infant Mortality Rate)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Maternal Age at Marriage",
+          "textAr": "سن الزواج للأمهات"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Total Dentists per Capita",
+          "textAr": "عدد أطباء الأسنان"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "The Infant Mortality Rate (IMR) reflects antenatal care, sanitation, nutrition, and maternal healthcare accessibility, serving as the most sensitive single barometer of socioeconomic welfare.",
+      "explanationAr": "معدل وفيات الرضع (IMR) هو المقياس الأكثر حساسية لمستوى الصحة والتنمية في أي مجتمع.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "dm5-pub-health-lec-01",
+  "subjectId": "dm5-pub-health",
+  "type": "theoretical",
+  "titleEn": "Concepts and Principles of Public Health and Practice",
+  "titleAr": "مفاهيم ومبادئ الصحة العامة والممارسة الوقائية",
+  "order": 1,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Public Health Course KFU (DM) 2026-2027_132cc3c7aa6c7024d62da99f12331040.pdf",
+    "pageStart": 4,
+    "pageEnd": 16,
+    "section": "Topic 1: Concepts of Public Health and Public Health Practice",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Define Public Health (Winslow) and understand the three core public health functions.",
+      "textAr": "تعريف الصحة العامة والوظائف الأساسية الثلاث للصحة العامة"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Distinguish between Primary, Secondary, and Tertiary Prevention in oral health.",
+      "textAr": "التفريق بين مستويات الوقاية الأولية والثانوية والثالثية في صحة الفم"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "The Three Levels of Prevention in Dental Public Health",
+      "titleAr": "المستويات الثلاثة للوقاية في طب أسنان المجتمع",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Public health focuses on population-level disease prevention and health promotion. Leavell and Clark classified prevention into three distinct tiers: 1) Primary Prevention: actions taken prior to disease onset to prevent its occurrence (e.g., community water fluoridation, pit and fissure sealants, dietary sugar counseling); 2) Secondary Prevention: early detection and prompt intervention to arrest disease progression before irreversible damage occurs (e.g., bitewing radiographic screening, remineralizing incipient white spot lesions with fluoride varnish); 3) Tertiary Prevention: measures to limit disability and rehabilitate function after disease has destroyed tissue (e.g., root canal treatment, dental crowns, fixed prostheses, dental implants).",
+          "textAr": "بصي يا ريهام ده أهم تقسيم في مادة الـ Public Health ولازم تسجليه: مستويات الوقاية تلاتة: 1) Primary Prevention (وقاية أولية): بنمنع المرض قبل ما يبدأ أصلاً في الإنسان السليم؛ زي إضافة الفلورايد لمياه الشرب (Water fluoridation)، وتطبيق سادات الشقوق، والتوعية بتقليل السكريات. 2) Secondary Prevention (وقاية ثانوية): بنكتشف المرض بدري في بدايته ونوقفه قبل ما يدمر السن؛ زي فحص الأسنان الدوري لاكتشاف الـ White spot lesion وعلاجها بالفلورايد قبل ما تتحول لـ Cavity. 3) Tertiary Prevention (وقاية ثالثية): المرض دمر السن خلاص وإحنا بنعوض الوظيفة المفقودة ونمنع العجز؛ زي حشو العصب وتركيب التركيبات الثابتة وزراعة الأسنان."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Primary prevention stops disease before it starts (water fluoridation, sealants).",
+    "Secondary prevention detects and arrests early disease (screening, remineralization).",
+    "Tertiary prevention rehabilitates lost function (restorations, prostheses, implants)."
+  ]
+}

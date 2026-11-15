@@ -1,0 +1,48 @@
+{
+  "id": "dm5-res-meth-bio-med-lec-03",
+  "subjectId": "dm5-res-meth-bio-med",
+  "type": "theoretical",
+  "titleEn": "Critical Appraisal: How to Read and Evaluate Scientific Papers",
+  "titleAr": "التقييم النقدي للأبحاث: كيف تقرأ وتقيم مقالاً علمياً طبياً؟",
+  "order": 3,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.RES METH BIO MED Part 1 2026_c216ed4b51f71c2a57572e803c4be03f.pdf",
+    "pageStart": 44,
+    "pageEnd": 64,
+    "section": "How to read a scientific paper? A step-by-step guide for students",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the IMRaD scientific structure (Introduction, Methods, Results, and Discussion).",
+      "textAr": "هيكل البحث العلمي الأكاديمي IMRaD"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Evaluate the Hierarchy of Evidence: Systematic Reviews/Meta-analyses > Double-Blind RCTs > Cohort > Case-Control > Case Series > Expert Opinion.",
+      "textAr": "هرم الأدلة الطبية في طب الأسنان القائم على البراهين"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "The Evidence Hierarchy in Evidence-Based Dentistry",
+      "titleAr": "هرم قوة الأدلة الطبية في طب الأسنان المسند بالدليل",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Evidence-based dentistry integrates clinical expertise with the highest quality research evidence. The pyramid of evidence ranks study designs by vulnerability to bias: Systematic Reviews and Meta-Analyses of randomized controlled trials (RCTs) reside at the apex, representing the gold standard. Double-blind RCTs follow, minimizing confounding and selection bias. Observational studies (Cohort then Case-Control) form intermediate tiers. Case reports and expert opinion constitute the lowest level of evidence.",
+          "textAr": "بصي يا دكتورة ريهام لما تقرأي بحث طبي أو تشتري مادة حشو جديدة: مش أي كلام يتصدق؛ لازم تشوفي قوة البحث في هرم الأدلة (Hierarchy of Evidence): قمة الهرم وأقوى دليل طبي معتمد هو الـ Systematic Reviews & Meta-Analyses؛ بعديه فوراً التجارب السريرية العشوائية المزدوجة التعمية (Double-blind RCTs)؛ وفي قاع الهرم تحت بتلاقي رأي الخبراء (Expert opinion) وتقارير الحالات الفردية (Case reports) لأن نسبة التحيز (Bias) فيها بتكون عالية جداً."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "IMRaD format: Introduction, Methods, Results, and Discussion.",
+    "Systematic reviews and meta-analyses of RCTs occupy the pinnacle of the evidence hierarchy."
+  ]
+}

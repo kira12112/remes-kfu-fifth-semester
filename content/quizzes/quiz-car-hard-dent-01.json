@@ -2,114 +2,303 @@
   "id": "quiz-car-hard-dent-01",
   "subjectId": "dm5-car-hard-dent",
   "lectureId": "dm5-car-hard-dent-lec-01",
-  "titleEn": "Cariology Diagnosis & Clinical Assessment Quiz",
-  "titleAr": "اختبار تشخيص تسوس الأسنان وتقييم الحالة السريرية",
-  "description": "Comprehensive multiple choice assessment verifying clinical diagnostic modalities, lesion activity assessment, and examination principles based on Kazan Cariology curriculum.",
-  "estimatedMinutes": 8,
+  "titleEn": "Comprehensive Cariology & Cavity Preparation Question Bank",
+  "titleAr": "بنك أسئلة الكاريولوجي وتحضير الحفر السريري الشامل",
+  "description": "Comprehensive verified MCQ questions covering diagnosis, etiology, CAMBRA, restorative adhesion, non-carious lesions, and cavity preparation (Classes I-V).",
+  "estimatedMinutes": 20,
   "questions": [
     {
-      "id": "q-car-diag-01",
+      "id": "q-car-01",
       "subjectId": "dm5-car-hard-dent",
-      "lectureId": "dm5-car-hard-dent-lec-01",
+      "textEn": "Why is the forceful use of a sharp explorer probe contraindicated during the clinical examination of incipient enamel lesions?",
+      "textAr": "لماذا يمنع الاستخدام العنيف للمسبار الحاد (Sharp Explorer) أثناء فحص آفات الميناء الأولية (White Spots)؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "It causes acute pulp necrosis immediately.",
+          "textAr": "يسبب تموت اللب الحاد بشكل فوري"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "It fractures the fragile remineralized surface zone, transforming a reversible lesion into an irreversible cavity.",
+          "textAr": "يكسر الطبقة السطحية الهشة ويعمل تجويف ميكانيكي دائم لا يمكن إعادة تمعدنه طبيعياً"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "It neutralizes salivary buffering capacity.",
+          "textAr": "يعطل قدرة اللعاب على التعديل الحمضي"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "It prevents bitewing radiographs from detecting proximal lesions.",
+          "textAr": "يمنع ظهور الآفة في الأشعة السينية"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Sharp explorer probing can crush the fragile, partially demineralized surface zone of an incipient white spot lesion, converting a remineralizable lesion into a permanent mechanical cavity requiring surgical restoration.",
+      "explanationAr": "الضغط العنيف بالسن الحاد بيكسر القشرة السطحية الضعيفة للـ White Spot Lesion ويحولها لـ Cavity حقيقية تستدعي الحفر، في حين إنها لو سيبناها كانت ممكن تتعالج بالـ Remineralization.",
       "difficulty": "medium",
-      "textEn": "Why is the aggressive use of a sharp explorer tip contraindicated during the examination of incipient enamel lesions in pits and fissures?",
-      "textAr": "لماذا يُمنع استخدام طرف المجس الحاد بقوة أثناء فحص آفات الميناء الأولية في الشقوق والميازيب السنية؟",
+      "tags": [
+        "diagnosis",
+        "cariology",
+        "clinical-pearl"
+      ]
+    },
+    {
+      "id": "q-car-02",
+      "subjectId": "dm5-car-hard-dent",
+      "textEn": "What is the established Critical pH threshold below which dental enamel hydroxyapatite begins to dissolve?",
+      "textAr": "ما هي درجة الحموضة الحرجة (Critical pH) التي يبدأ عندها ذوبان ميناء الأسنان؟",
       "options": [
         {
           "id": "opt-a",
-          "textEn": "It causes acute pulp necrosis immediately upon touching the enamel.",
-          "textAr": "لأنه يسبب نخر اللب الحاد فور ملامسة الميناء مباشرة."
+          "textEn": "pH 6.8",
+          "textAr": "6.8"
         },
         {
           "id": "opt-b",
-          "textEn": "It can fracture the intact remineralizing surface layer, converting a reversible lesion into a permanent cavity.",
-          "textAr": "لأنه قد يؤدي لكسر الطبقة السطحية السليمة قيد التمعدن وتحويل الآفة القابلة للعلاج التحفظي إلى تجويف دائم."
+          "textEn": "pH 5.5",
+          "textAr": "5.5"
         },
         {
           "id": "opt-c",
-          "textEn": "It neutralizes salivary fluoride ions within the oral environment.",
-          "textAr": "لأنه يعادل أيونات الفلورايد اللعابية في البيئة الفموية."
+          "textEn": "pH 4.0",
+          "textAr": "4.0"
         },
         {
           "id": "opt-d",
-          "textEn": "It prevents the transmission of bitewing X-rays through the crown.",
-          "textAr": "لأنه يمنع نفاذ الأشعة السينية عبر تاج السن."
+          "textEn": "pH 7.4",
+          "textAr": "7.4"
         }
       ],
       "correctOptionId": "opt-b",
-      "explanationEn": "Forceful probing with a sharp instrument fractures the fragile, partially demineralized surface zone of an early enamel lesion, precluding non-invasive remineralization and inoculating bacteria deeper into the dentin.",
-      "explanationAr": "بصي يا ريهام: في الـ Incipient caries، الميناء بيكون فقد معادن من تحته (Sub-surface demineralization) لكن السطح الخارجي لسه سليم وقابل للـ Remineralization. لو ضغطتي عليه بالـ Sharp explorer بقوة، هيكسر الـ Pseudo-intact surface layer ويخلق Cavitation لا رجعة فيها، ويدخل البكتيريا جوا!",
-      "sourceReference": {
-        "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
-        "pageStart": 3,
-        "section": "Diagnosis for Dental Caries"
-      }
-    },
-    {
-      "id": "q-car-diag-02",
-      "subjectId": "dm5-car-hard-dent",
-      "lectureId": "dm5-car-hard-dent-lec-01",
+      "explanationEn": "The critical pH for dental enamel is classically 5.5. Below this threshold, saliva is undersaturated with calcium and phosphate relative to hydroxyapatite, driving demineralization.",
+      "explanationAr": "درجة الـ Critical pH للميناء هي 5.5؛ لما الـ pH في الفم ينزل تحت 5.5 بيبدأ الـ Demineralization وذوبان الكالسيوم والفوسفات.",
       "difficulty": "easy",
-      "textEn": "Which radiographic projection is considered the gold standard for diagnosing proximal (interproximal) dental caries in posterior teeth?",
-      "textAr": "ما هو الإسقاط الشعاعي الذي يعتبر المعيار الذهبي لتشخيص التسوس الملاصق بين الأسنان الخلفية؟",
-      "options": [
-        {
-          "id": "opt-a",
-          "textEn": "Bitewing Radiography",
-          "textAr": "أشعة الجناح الإطباقي (Bitewing)"
-        },
-        {
-          "id": "opt-b",
-          "textEn": "Periapical Radiography with high angulation",
-          "textAr": "الأشعة الذروية بزاوية حادة"
-        },
-        {
-          "id": "opt-c",
-          "textEn": "Panoramic Radiography (OPG) alone",
-          "textAr": "الأشعة البانورامية بمفردها"
-        },
-        {
-          "id": "opt-d",
-          "textEn": "Cephalometric Radiography",
-          "textAr": "الأشعة السيفالومترية"
-        }
-      ],
-      "correctOptionId": "opt-a",
-      "explanationEn": "Bitewing radiography provides the optimal orthogonal view of coronal enamel and interproximal contact zones without vertical elongation or superimposition of adjacent structures.",
-      "explanationAr": "الـ Bitewing هو الخيار الأول والـ Gold standard في فحص الـ Interproximal caries في الـ Premolars والـ Molars، لأن الزاوية بتجيب التاجين العلوي والسفلي مع الـ Contact point مظبوطين تماماً من غير Overlapping."
+      "tags": [
+        "etiology",
+        "stephan-curve",
+        "biochemistry"
+      ]
     },
     {
-      "id": "q-car-diag-03",
+      "id": "q-car-03",
       "subjectId": "dm5-car-hard-dent",
-      "lectureId": "dm5-car-hard-dent-lec-01",
-      "difficulty": "hard",
-      "textEn": "A patient presents with a smooth, dark-brown lesion on the cervical third of tooth #44 that is hard and glass-like upon gentle blunt probing. How should this lesion be classified and managed?",
-      "textAr": "مريض لديه آفة بنية داكنة ناعمة الملمس في الثلث العنقي للضاحك 44، ملمسها صلب وزجاجي عند الفحص اللمسي الخفيف. كيف تصنف هذه الآفة وما هو التدبير المناسب لها؟",
+      "textEn": "Which bacterial species is recognized as the chief initiator of dental caries due to its rapid production of extracellular glucans?",
+      "textAr": "أي نوع من البكتيريا يعتبر البادئ الرئيسي لتسوس الأسنان بسبب إنتاجه السريع لسكريات الجلوكان اللاصقة؟",
       "options": [
         {
           "id": "opt-a",
-          "textEn": "Active acute caries requiring immediate Class V cavity preparation and composite filling.",
-          "textAr": "تسوس نشط حاد يتطلب تحضير حفرة صنف خامس فوراً وحشوة كمبوزيت."
+          "textEn": "Lactobacillus acidophilus",
+          "textAr": "لاكتوباسيلس أسيدوفيلس"
         },
         {
           "id": "opt-b",
-          "textEn": "Arrested (inactive) caries; conservative management with oral hygiene reinforcement and periodic observation is indicated.",
-          "textAr": "تسوس متوقف (غير نشط)؛ يُكتفى بالتدبير التحفظي مع تحسين نظافة الفم والمراقبة الدورية."
+          "textEn": "Streptococcus mutans",
+          "textAr": "ستريبتوكوكس ميوتانز (Streptococcus mutans)"
         },
         {
           "id": "opt-c",
-          "textEn": "Severe fluorosis requiring root canal treatment.",
-          "textAr": "تفلور سني شديد يتطلب علاج جذور السن."
+          "textEn": "Actinomyces viscosus",
+          "textAr": "أكتينومايسس فيسكوزس"
         },
         {
           "id": "opt-d",
-          "textEn": "Internal root resorption extending through the enamel.",
-          "textAr": "امتصاص داخلي لجذر السن ممتد عبر الميناء."
+          "textEn": "Porphyromonas gingivalis",
+          "textAr": "بورفيروموناس جنجيفاليس"
         }
       ],
       "correctOptionId": "opt-b",
-      "explanationEn": "Arrested enamel caries lesions are characterized by a hard, smooth, shiny surface that has remineralized over time and absorbed exogenous pigments. They do not require operative excavation unless aesthetic concerns arise.",
-      "explanationAr": "بما إن الآفة Hard وShiny وملمسها زي الزجاج، فدي علامة أكيدة على إنه Arrested Caries (تسوس متوقف)، وحصل له Remineralization مع ترسب صبغات. طالما مفيش Cavitation يجمع أكل أو مشكلة Aesthetics، العلاج الصح هو Preventive care والمراقبة الدورية بدون حفر!"
+      "explanationEn": "Streptococcus mutans synthesizes water-insoluble glucans from dietary sucrose via glucosyltransferases, facilitating tight adherence to teeth and initiating caries.",
+      "explanationAr": "بكتيريا Streptococcus mutans هي البادئ الأساسي لأن عندها إنزيم Glucosyltransferase اللي بيصنع Glucans بتلزق في سطح السن بقوة.",
+      "difficulty": "easy",
+      "tags": [
+        "microbiology",
+        "etiology"
+      ]
+    },
+    {
+      "id": "q-car-04",
+      "subjectId": "dm5-car-hard-dent",
+      "textEn": "How does Fluorapatite enhance enamel resistance compared to native Hydroxyapatite?",
+      "textAr": "كيف يزيد الفلورأباتيت (Fluorapatite) من مقاومة الميناء مقارنة بالهيدروكسي أباتيت الأصلي؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "It raises the critical pH to 6.5.",
+          "textAr": "يرفع درجة الحموضة الحرجة إلى 6.5"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "It lowers the critical pH to approximately 4.5, making enamel more acid-resistant.",
+          "textAr": "يخفض درجة الحموضة الحرجة إلى حوالي 4.5 مما يجعله أكثر مقاومة للأحماض"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "It completely replaces the dentin collagen matrix.",
+          "textAr": "يستبدل شبكة الكولاجين في العاج بالكامل"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "It prevents light polymerization of composites.",
+          "textAr": "يمنع تصلب حشوات الكومبوزيت"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Fluorapatite has a significantly lower critical pH of ~4.5 compared to ~5.5 for hydroxyapatite, requiring much stronger acidity before demineralization occurs.",
+      "explanationAr": "الفلورأباتيت بيفضل متماسك حتى مع زيادة الحموضة لأن الـ Critical pH بتاعته بتنزل لـ 4.5 بدل 5.5.",
+      "difficulty": "medium",
+      "tags": [
+        "prevention",
+        "fluoride"
+      ]
+    },
+    {
+      "id": "q-car-05",
+      "subjectId": "dm5-car-hard-dent",
+      "textEn": "During total-etch adhesive procedures, what is the consequence of aggressively desiccating (over-drying) acid-etched dentin?",
+      "textAr": "أثناء خطوات لصق الكومبوزيت، ما هي النتيجة الخطيرة لتجفيف العاج بالهواء الشديد بعد التخريش الحمضي؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Enhanced monomer infiltration into open tubules.",
+          "textAr": "زيادة تغلغل المونومر داخل الأنابيب"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Collapse of demineralized collagen fibril networks, preventing proper hybrid layer formation and causing sensitivity.",
+          "textAr": "انهيار شبكة ألياف الكولاجين المكشوفة وفشل تكوين الطبقة الهجينة مما يسبب حساسية للمريض"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Accelerated polymerization of resin.",
+          "textAr": "تسريع تصلب الراتنج"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Formation of thick enamel prisms.",
+          "textAr": "تكوين موشورات ميناء سميكة"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Air-drying etched dentin drives water out of the collagen meshwork, causing collagen fibrils to collapse into a dense, impermeable mat that prevents resin monomers from infiltrating to form the hybrid layer.",
+      "explanationAr": "التجفيف العنيف بيطرد المياه فتنكمش شبكة ألياف الكولاجين (Collagen Collapse) وتلتصق ببعضها زي اللبد، فمادة البوند متقدرش تخترق وتفشل الـ Hybrid Layer ويحصل Postoperative Sensitivity.",
+      "difficulty": "hard",
+      "tags": [
+        "restorative",
+        "adhesion",
+        "clinical-pearl"
+      ]
+    },
+    {
+      "id": "q-car-06",
+      "subjectId": "dm5-car-hard-dent",
+      "textEn": "A wedge-shaped non-carious cervical lesion localized strictly at the cementoenamel junction due to biomechanical tooth flexure is diagnosed as:",
+      "textAr": "آفة عنقية غير تسوسية وتدية الشكل عند ملتقى الميناء والملاط ناتجة عن إجهاد انثناء السن تحت قوى الإطباق تشخص على أنها:",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Dental Erosion",
+          "textAr": "تآكل كيميائي (Erosion)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Abfraction",
+          "textAr": "انقلاع عنقي ميكانيكي (Abfraction)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Attrition",
+          "textAr": "سحل أسناني ناتج عن الاحتكاك (Attrition)"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Fluorosis",
+          "textAr": "تسمم بالفلور (Fluorosis)"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Abfraction describes wedge-shaped cervical lesions caused by heavy tensile stresses during mastication or bruxism that cause microfractures at the CEJ.",
+      "explanationAr": "الـ Abfraction هي الآفة الوتدية الشكل (Wedge-shaped) الناتجة عن الـ Occlusal stress flexure عند عنق السن.",
+      "difficulty": "medium",
+      "tags": [
+        "non-carious",
+        "differential-diagnosis"
+      ]
+    },
+    {
+      "id": "q-car-07",
+      "subjectId": "dm5-car-hard-dent",
+      "textEn": "In Class II cavity preparations, what is the mandatory clearance between the proximal box margins and the adjacent tooth surface?",
+      "textAr": "في تحضير حفر الصنف الثاني (Class II)، ما هي المسافة الحرة (Clearance) الإلزامية بين حواف الصندوق الملاصق والسن المجاور؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Zero clearance (in tight contact).",
+          "textAr": "صفر (ملامسة تامة)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "0.5 mm buccally, lingually, and gingivally.",
+          "textAr": "0.5 مم من الجهة الدهليزية واللسانية واللثوية"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "2.5 mm.",
+          "textAr": "2.5 مم"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "1.5 mm under the pulp chamber.",
+          "textAr": "1.5 مم تحت حجرة اللب"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "A clearance of 0.5 mm with the adjacent tooth breaks contact to allow matrix band placement, finishing instruments, and effective hygiene.",
+      "explanationAr": "المسافة الحرة القياسية هي 0.5 مم (Clearance) عشان نقدر نركب الـ Matrix band وننظف ونشطب الحواف كويس.",
+      "difficulty": "medium",
+      "tags": [
+        "practical",
+        "cavity-preparation",
+        "class-II"
+      ]
+    },
+    {
+      "id": "q-car-08",
+      "subjectId": "dm5-car-hard-dent",
+      "textEn": "Why is a 45-degree bevel of 1.5–2.0 mm recommended on labial enamel margins for Class IV composite restorations?",
+      "textAr": "لماذا يوصى بشطب مائل (Bevel) بزاوية 45 درجة وعرض 1.5-2 مم لحواف الميناء في ترميم الصنف الرابع بالكومبوزيت؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "To expose dentin tubules directly to saliva.",
+          "textAr": "لكشف الأنابيب العاجية للعاب"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "To increase bonding surface area, cut enamel prisms end-on for higher etch patterns, and aesthetically mask the restoration margin.",
+          "textAr": "لزيادة مساحة الالتصاق، وقطع موشورات الميناء بشكل عمودي لرفع قوة التخريش، وإخفاء خط التماس تجميلياً"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "To prevent light curing from reaching the pulp.",
+          "textAr": "لمنع وصول ضوء البلمرة للب"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "To enable amalgam condensation.",
+          "textAr": "لتمكين تكثيف الأملغم"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Enamel beveling expands the available bonding area, presents end-on enamel prism orientation for maximum acid-etch micromechanical tags, and creates a subtle optical blending zone.",
+      "explanationAr": "الـ Bevel بزاوية 45 درجة بيزود مساحة الـ Bonding وبيقطع موشورات الميناء عمودياً فيمسك الكومبوزيت بأعلى قوة، وبيخفي الخط الفاصل تجميلياً.",
+      "difficulty": "hard",
+      "tags": [
+        "practical",
+        "class-IV",
+        "aesthetics"
+      ]
     }
   ]
 }

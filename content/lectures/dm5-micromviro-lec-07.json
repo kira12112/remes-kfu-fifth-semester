@@ -1,0 +1,54 @@
+{
+  "id": "dm5-micromviro-lec-07",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Virology: Herpesviruses, Bloodborne Hepatitis (HBV/HCV), and HIV in Dentistry",
+  "titleAr": "علم الفيروسات: فيروسات الهربس، التهاب الكبد B و C، والإيدز ومخاطر الوخز بالإبر",
+  "order": 7,
+  "estimatedMinutes": 50,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 64,
+    "pageEnd": 114,
+    "section": "Virology",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze Herpes Simplex Virus Type 1 (HSV-1): primary herpetic gingivostomatitis vs recurrent herpes labialis.",
+      "textAr": "تحليل فيروس الهربس البسيط HSV-1: التهاب الفم واللثة الأولي مقابل هربس الشفاه المتكرر"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Evaluate transmission risks of bloodborne pathogens (HBV: 30%, HCV: 3%, HIV: 0.3%) following contaminated needlestick injury.",
+      "textAr": "تقييم نسب انتقال العدوى بعد وخزة الإبرة الملوثة: فيروس B (30%)، فيروس C (3%)، وفيروس الإيدز (0.3%)"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Understand Hepatitis B immunization protocol and post-exposure prophylaxis (PEP).",
+      "textAr": "بروتوكول التطعيم ضد التهاب الكبد B والوقاية الطارئة بعد التعرض للوخز"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "The Rule of 3s: Needlestick Transmission Risks in Dental Personnel",
+      "titleAr": "قاعدة الثلاثات: نسب انتقال الفيروسات بعد وخز الإبر الملوثة",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Percutaneous exposure (needlestick injury) poses occupational infection risks. The transmission probability after a contaminated hollow-bore needle puncture from an infected source follows the classic 'Rule of 3s': Hepatitis B Virus (HBV) without prior vaccination carries a ~30% risk (0.30); Hepatitis C Virus (HCV) carries a ~3% risk (0.03); Human Immunodeficiency Virus (HIV) carries a ~0.3% risk (0.003). All dental students and clinicians must receive the 3-dose recombinant Hepatitis B vaccine series and confirm seroprotection (anti-HBs titer > 10 mIU/mL).",
+          "textAr": "بصي يا دكتورة ريهام دي أهم قاعدة أمان مهني في حياتك: لو اتشكيتي بإبرة بنج ملوثة بدم مريض، نسب انتقال العدوى بتتحفظ بقاعدة الـ Rule of 3s: فيروس بي (HBV) احتمالية انتقاله 30%! فيروس سي (HCV) احتمالية انتقاله 3%! فيروس الإيدز (HIV) احتمالية انتقاله 0.3%! شفتي قد إيه فيروس بي خطير ومعدي جداً؟ عشان كدة تطعيم فيروس B إجباري لطلبة الأسنان؛ ولازم بعد الجرعات التلاتة نعمل تحليل للأجسام المضادة (Anti-HBs) ونتأكد إنها أكتر من 10 mIU/mL."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Needlestick transmission risk: HBV ~30%, HCV ~3%, HIV ~0.3%.",
+    "Protective anti-HBs titer post-vaccination is >= 10 mIU/mL.",
+    "HSV-1 establishes lifelong latency in the trigeminal ganglion."
+  ]
+}

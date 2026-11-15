@@ -1,0 +1,49 @@
+{
+  "id": "dm5-micromviro-lec-08",
+  "subjectId": "dm5-micromviro",
+  "type": "theoretical",
+  "titleEn": "Medical Mycology: Oral Candidiasis and Antifungal Therapy",
+  "titleAr": "الفطريات الطبية: داء المبيضات الفموي (الكانديدا) وخيارات العلاج بمضادات الفطريات",
+  "order": 8,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "KFU,DM- 3rd year Microbiology, virology  theoritical book_39f8acce7ec5f78c4a567e5c00bfe907.pdf",
+    "pageStart": 115,
+    "pageEnd": 123,
+    "section": "Fungal infections",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Classify clinical variants of Oral Candidiasis: Pseudomembranous (thrush), Erythematous, Hyperplastic, and Angular Cheilitis.",
+      "textAr": "تصنيف الأشكال السريرية لفطريات الفم: الغشائي الكاذب (القلاع)، الحمامي، وداء زوايا الشفاه"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Prescribe topical (Nystatin suspension, Miconazole gel) vs systemic (Fluconazole) antifungal regimens.",
+      "textAr": "وصف مضادات الفطريات الموضعية والجهادية لمرضى الأسنان"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Clinical Presentation of Oral Candidiasis and Diagnostic Wipe Test",
+      "titleAr": "التفرقة السريرية لفطريات الكانديدا واختبار المسح بالشاش",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Candida albicans is a dimorphic fungal commensal in 40-60% of healthy oral cavities. Opportunistic overgrowth occurs with broad-spectrum antibiotic therapy, inhaled corticosteroids, denture wear, xerostomia, or immunosuppression (HIV). Pseudomembranous candidiasis (Thrush) presents as creamy curd-like white plaques on the tongue and buccal mucosa. The hallmark diagnostic feature is that these plaques can be gently scraped away with a dry gauze, revealing an underlying raw, bleeding, erythematous mucosal surface (distinguishing thrush from leukoplakia or lichen planus, which cannot be wiped off). Denture-related candidiasis causes generalized erythema beneath maxillary full dentures.",
+          "textAr": "بصي يا ريهام في فطريات الفم: أشهر نوع هو Pseudomembranous Candidiasis (Thrush). بتلاقي بقع بيضاء شبه الجبنة أو اللبن الرايب على اللسان والخد من جوة. إزاي تفرقيها عن الـ Leukoplakia أو الـ Lichen Planus؟ بشاشة جافة عادية: الـ Candida لما بتمسحيها بالشاشة بتتشال معاكي وتسيب مكانها سطح أحمر بينزف نقط دم بسيطة! علاجها الموضعي: غسول Nystatin 100,000 units أربع مرات يومياً لمدة أسبوعين، ولازم مريض طقم الأسنان ينقع الطقم في محلول مطهر قبل النوم."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Pseudomembranous candidiasis wipes off with gauze, leaving an erythematous bleeding base.",
+    "Denture stomatitis requires treating both the oral mucosa and the denture prosthesis.",
+    "Nystatin suspension is the first-line topical agent; Fluconazole for systemic/refractory cases."
+  ]
+}

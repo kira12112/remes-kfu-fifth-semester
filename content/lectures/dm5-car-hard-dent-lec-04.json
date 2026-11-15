@@ -1,0 +1,66 @@
+{
+  "id": "dm5-car-hard-dent-lec-04",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Caries Risk Assessment and Management (CAMBRA)",
+  "titleAr": "تقييم مخاطر التسوس وبروتوكول كامبرا (CAMBRA)",
+  "order": 4,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 40,
+    "pageEnd": 53,
+    "section": "Topic 4: Management of Caries",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master the principles of Caries Management by Risk Assessment (CAMBRA).",
+      "textAr": "إتقان مبادئ بروتوكول علاج التسوس القائم على تقييم المخاطر (CAMBRA)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Classify patients into Low, Moderate, High, and Extreme Caries Risk categories.",
+      "textAr": "تصنيف المرضى إلى فئات منخفضة ومتوسطة وعالية وشديدة الخطورة للتسوس"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Formulate non-operative intervention plans for remineralization.",
+      "textAr": "وضع خطط علاجية غير جراحية لتحفيز إعادة التمعدن الطبيعي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "CAMBRA Philosophy & The Caries Balance",
+      "titleAr": "فلسفة ميزان التسوس وبروتوكول كامبرا (CAMBRA)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "The modern standard of care dictates Caries Management by Risk Assessment (CAMBRA). Dental caries is treated as an infectious disease where the balance tilts between Pathological Factors (WREC: White spots, Restorations <3 years, Enamel lesions, Cavities/dentin) and Protective Factors (SAFER: Saliva & sealants, Antibacterials, Fluoride, Effective diet, Risk assessment).",
+          "textAr": "بصي يا ريهام، في طب الأسنان الحديث مش أول ما تشوفي تسوس تحفري علطول! بنمشي على نظام الـ CAMBRA (Caries Management By Risk Assessment). التسوس بنعتبره ميزان بين كفتين: كفة الـ Pathological Factors (زي البكتيريا الحامضية، والوجبات المتكررة، ونقص اللعاب)، وكفة الـ Protective Factors (زي الـ Saliva، والـ Fluoride، وسادات الشقوق). هدفنا نميل الكفة لصالح الوقاية والـ Remineralization قبل ما نلجأ للـ Drill."
+        },
+        {
+          "type": "important",
+          "textEn": "Clinical Decision: Non-cavitated enamel lesions must be treated non-operatively with remineralizing agents (Fluoride varnish, CPP-ACP). Surgical cavity preparation is only indicated once frank cavitation occurs.",
+          "textAr": "قاعدة ذهبية: أي آفة سنية غير متكهفة (Non-cavitated white spot) ممنوع حفرها! علاجها Non-operative بإعادة التمعدن بالفلورايد والـ CPP-ACP. الحفر الجراحي فقط لو حصل Cavitation حقيقي ميكانيكي."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "CAMBRA",
+      "termAr": "كامبرا (علاج التسوس بالتقييم)",
+      "definitionEn": "Caries Management by Risk Assessment: an evidence-based clinical protocol focusing on treating the caries disease process before operative intervention.",
+      "definitionAr": "بروتوكول سريري قائم على الأدلة لإدارة التسوس بناءً على تقييم مخاطر المريض قبل التدخل الجراحي."
+    }
+  ],
+  "keyPoints": [
+    "Treat caries as a dynamic infectious disease rather than just restoring physical holes.",
+    "Non-cavitated lesions can be successfully arrested and remineralized.",
+    "Extreme risk patients have high caries experience combined with severe hyposalivation/xerostomia."
+  ]
+}

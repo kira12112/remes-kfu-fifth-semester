@@ -1,0 +1,61 @@
+{
+  "id": "dm5-car-hard-dent-prac-01",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "practical",
+  "titleEn": "Practical 1: Class I Cavity Preparation",
+  "titleAr": "العملي ١: تحضير حفر الصنف الأول (Class I Cavity Preparation)",
+  "order": 9,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "k practical handout_7797a08093cd0f21e7e67862a7cbbb0a.pdf",
+    "pageStart": 1,
+    "pageEnd": 7,
+    "section": "1. Class I Cavity Preparation",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master the principles of Class I cavity outline form on premolars and molars.",
+      "textAr": "إتقان مبادئ الشكل الخارجي لتحضير حفر الصنف الأول على الضواحك والأرحاء"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Execute resistance and retention forms: flat pulpal floor, 1.5-2.0mm depth, and slightly convergent walls.",
+      "textAr": "تطبيق متطلبات المقاومة والتثبيت: أرضية لبية مسطحة بعمق 1.5-2 مم وجدران متقاربة قليلاً"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Clinical Steps & Bur Selection for Class I",
+      "titleAr": "الخطوات السريرية واختيار السنابل لتحضير الصنف الأول",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Class I cavity preparations involve pits and fissures on the occlusal surfaces of molars and premolars, the occlusal two-thirds of facial and lingual surfaces of molars, and the lingual surfaces of maxillary incisors. Penetration is initiated with a #245 or #330 carbide bur held perpendicular to the occlusal plane at the most carious pit to an initial depth of 1.5 to 2.0 mm (just into dentin 0.2-0.5 mm beyond the DEJ).",
+          "textAr": "بصي يا ريهام في المعمل لما تمسكي الـ High-speed handpiece: حفر الصنف الأول Class I بيشمل الـ Pits and fissures. بنبدأ ندخل بسنبلة #245 أو #330 carbide bur عمودية تماماً على السطح الإطباقي في أعمق Pit. العمق النموذجي بيكون من 1.5 لـ 2.0 مم (يعني 0.2 لـ 0.5 مم بعد الـ DEJ جوة العاج). الأرضية اللبية (Pulpal floor) لازم تكون Flat تماماً وعمودية على محور السن عشان توزع قوى المضغ وما يحصلش كسر (Resistance form)."
+        },
+        {
+          "type": "important",
+          "textEn": "Golden Laboratory Rule: Marginal ridges must be preserved! The distance from the margin of the preparation to the proximal surface must not be less than 1.5 mm for premolars and 2.0 mm for molars to prevent ridge fracture.",
+          "textAr": "قاعدة المعمل الذهبية: حافظي على الـ Marginal ridges! المسافة بين جدار الحفرة وسطح السن المجاور لازم متقلش عن 1.5 مم في الـ Premolars و 2 مم في الـ Molars عشان الـ Ridge ما يتكسرش تحت ضغط الأكل!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Resistance Form",
+      "termAr": "شكل المقاومة",
+      "definitionEn": "Cavity shape designed to withstand occlusal forces without fracturing the tooth or restoration.",
+      "definitionAr": "التصميم الهندسي للحفرة الذي يمكن السن والحشوة من تحمل قوى المضغ دون انكسار."
+    }
+  ],
+  "keyPoints": [
+    "Initial pulpal depth is 1.5 to 2.0 mm.",
+    "Pulpal floor must be flat and perpendicular to the long axis of the tooth.",
+    "Preserve marginal ridges with at least 1.5mm thickness on premolars and 2.0mm on molars."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dm5-pathol-phys-lec-08",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "Neoplasia: Biology of Benign vs Malignant Tumors and Oral Cancer",
+  "titleAr": "الأورام: بيولوجيا الأورام الحميدة والخبيثة وسرطان الفم الشائك الخلايا",
+  "order": 8,
+  "estimatedMinutes": 50,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 145,
+    "pageEnd": 164,
+    "section": "Topic 8. Neoplasia & Topic 9. Infectious Diseases",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Distinguish between Benign and Malignant neoplasms (differentiation, rate of growth, local invasion, metastasis).",
+      "textAr": "المقارنة بين الأورام الحميدة والخبيثة في التمايز والغزو والانتشار"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Master Oral Squamous Cell Carcinoma (OSCC) pathology, risk factors (tobacco, betel quid, alcohol, HPV), and high-risk oral mucosal sites.",
+      "textAr": "التشريح المرضي لسرطان الفم وعوامل خطورته والمواقع الأكثر عرضة للإصابة"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Oral Squamous Cell Carcinoma (OSCC) in Clinical Practice",
+      "titleAr": "سرطان الفم الشائك الخلايا (OSCC) وأماكن الخطر في الفم",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Over 90% of oral malignancies are Oral Squamous Cell Carcinoma (OSCC). Driven by chronic tobacco carcinogens, synergistic heavy alcohol intake, betel quid chewing, and High-Risk Human Papillomavirus (HPV-16 and HPV-18). OSCC typically arises from precancerous lesions (Leukoplakia, Erythroplakia). Histologically, malignant keratinocytes exhibit cellular and nuclear pleomorphism, hyperchromasia, atypical mitotic figures, and formation of 'Keratin Pearls' invading through the basement membrane into underlying stroma. The highest risk anatomical sites in the oral cavity are the lateral borders of the tongue, the floor of the mouth, and the lower lip.",
+          "textAr": "بصي يا دكتورة ريهام، أكتر من 90% من أورام الفم الخبيثة هي Oral Squamous Cell Carcinoma (OSCC). أسبابه الأساسية: التدخين، الكحوليات، وفيروس HPV-16. في الفم لازم تدوري في المكانين الأكثر خطورة اللي بتستخبى فيهم الأورام: الحافة الجانبية للسان (Lateral border of the tongue) وأرضية الفم (Floor of the mouth). أي قرحة غير مؤلمة حوافها مرتفعة وقاسية (Indurated ulcer) بقالها أكتر من أسبوعين ومابتلمش، دي سرطان لحد ما تثبت الخزعة العكس! وتحت الميكروسكوب بنشوف خلايا غير نمطية بتعمل كرات من الكيراتين بنسميها Keratin Pearls."
+        },
+        {
+          "type": "important",
+          "textEn": "Two-Week Biopsy Rule: Any chronic solitary oral mucosal ulcer, red patch (erythroplakia), or white patch that does not resolve within 14 days after removing potential local irritants MUST undergo scalpel biopsy to rule out malignancy.",
+          "textAr": "قاعدة الأسبوعين الذهبية: أي قرحة أو بقعة بيضاء أو حمراء في الفم تفضل موجودة أكتر من 14 يوم بدون سبب واضح، لازم يتحول المريض لخزعة جراحية فورية (Biopsy) لاستبعاد السرطان!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Keratin Pearls",
+      "termAr": "لآلئ الكيراتين المجهرية",
+      "definitionEn": "Concentric rings of keratinizing malignant squamous cells characteristic of well-differentiated squamous cell carcinoma.",
+      "definitionAr": "تجمعات دائرية من خلايا الكيراتين السرطانية مميزة لسرطان الفم الشائك الخلايا."
+    }
+  ],
+  "keyPoints": [
+    "Over 90% of oral cancers are Oral Squamous Cell Carcinomas (OSCC).",
+    "Highest risk sites: Lateral tongue border and floor of the mouth.",
+    "Any oral ulcer persisting > 2 weeks warrants immediate biopsy."
+  ]
+}

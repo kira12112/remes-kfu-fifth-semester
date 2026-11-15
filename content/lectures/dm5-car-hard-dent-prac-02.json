@@ -1,0 +1,61 @@
+{
+  "id": "dm5-car-hard-dent-prac-02",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "practical",
+  "titleEn": "Practical 2: Class II Cavity Preparation & Proximal Box",
+  "titleAr": "العملي ٢: تحضير حفر الصنف الثاني والصندوق الملاصق (Class II)",
+  "order": 10,
+  "estimatedMinutes": 50,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "k practical handout_7797a08093cd0f21e7e67862a7cbbb0a.pdf",
+    "pageStart": 8,
+    "pageEnd": 15,
+    "section": "2. Class II Cavity Preparation",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master the preparation of the occlusal step and proximal box in Class II restorations.",
+      "textAr": "إتقان تحضير الدرجة الإطباقية والصندوق الملاصق في ترميمات الصنف الثاني"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Achieve correct proximal and gingival clearances (0.5 mm) with adjacent teeth.",
+      "textAr": "تحقيق المسافة الحرة الصحيحة (0.5 مم) عن السن المجاور لثوياً وملاصقاً"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Proximal Box Preparation and Gingival Seat",
+      "titleAr": "خطوات حفر الصندوق الملاصق والحد اللثوي",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Class II involves proximal surfaces of premolars and molars. The preparation consists of an occlusal key/step and a proximal box. The proximal ditch is cut gingivally until the contact with the adjacent tooth is broken. Clearance with the adjacent tooth must be exactly 0.5 mm buccally, lingually, and gingivally to allow proper matrix placement and effortless cleaning. The gingival floor must be flat, smooth, and perpendicular to occlusal forces.",
+          "textAr": "بصي يا ريهام، الصنف الثاني Class II هو التحدي الأكبر في امتحان العملي! بيتكون من جزئين: Occlusal step (الدرجة الإطباقية) و Proximal box (الصندوق الملاصق). وإنتي نازلة بالسنبلة في الـ Proximal ditch، لازم تحافظي على قشرة رقيقة جداً من الميناء تحمي السن المجاور عشان السنبلة متجرحوش. بعدين بنكسر القشرة دي بـ Hand instrument. والشرط الأساسي: لازم تكسري الـ Contact ويكون فيه Clearance مسافة 0.5 مم مع السن المجاور من كل النواحي عشان نعرف نحط الـ Matrix band وننظف كويس."
+        },
+        {
+          "type": "important",
+          "textEn": "Safety Tip: Always place an interproximal wooden wedge before proximal ditching to depress the gingival papilla and protect the rubber dam and soft tissues.",
+          "textAr": "نصيحة أمان سريرية: حطي Wooden wedge بين الأسنان قبل ما تبدأي تحضير الصندوق الملاصق عشان يحمي اللثة ويبعد السن المجاور!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Gingival Seat",
+      "termAr": "المقعد اللثوي (Gingival Seat)",
+      "definitionEn": "The flat gingival floor of the proximal box in a Class II cavity preparation.",
+      "definitionAr": "الأرضية اللثوية الأفقية المسطحة للصندوق الملاصق في حفر الصنف الثاني."
+    }
+  ],
+  "keyPoints": [
+    "Clearance with the adjacent tooth must be 0.5 mm buccally, lingually, and gingivally.",
+    "Protect the adjacent tooth with a thin enamel shell or interproximal metal band.",
+    "Gingival seat must be flat and smooth."
+  ]
+}

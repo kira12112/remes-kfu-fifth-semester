@@ -1,0 +1,42 @@
+{
+  "id": "dm5-pathol-anat-lec-03",
+  "subjectId": "dm5-pathol-anat",
+  "type": "theoretical",
+  "titleEn": "Pathology of Acid-Base and Fluid Homeostasis",
+  "titleAr": "اضطرابات التوازن الحمضي-القلوي وسوائل الجسم",
+  "order": 3,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL ANAT_003e235e595cd4d033ab3bbea5e385f8.pdf",
+    "pageStart": 15,
+    "pageEnd": 18,
+    "section": "Topic 3. Acid/ Base Disorders",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze the mechanisms of Metabolic Acidosis, Metabolic Alkalosis, Respiratory Acidosis, and Respiratory Alkalosis.",
+      "textAr": "تحليل آليات الحماض والقلاء الاستقلابي والتنفسي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Acid-Base Regulation and Henderson-Hasselbalch Equation",
+      "titleAr": "تنظيم الرقم الهيدروجيني وحموضة الدم في الجسم",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Normal arterial blood pH is tightly regulated between 7.35 and 7.45. Metabolic acidosis (e.g., in diabetic ketoacidosis or lactic acidosis) is marked by low bicarbonate (HCO3- < 22 mEq/L) compensated by hyperventilation (Kussmaul breathing) blowing off carbon dioxide.",
+          "textAr": "الجسم بيحافظ على pH الدم في نطاق ضيق جداً بين 7.35 و 7.45. في حالات الـ Metabolic Acidosis (زي حموضة الدم السكرية Diabetic Ketoacidosis)، مستوى البيكربونات بينزل، والجسم بيعوض ده فوراً بزيادة وسرعة التنفس (Kussmaul breathing) عشان يطرد ثاني أكسيد الكربون ويقلل الحموضة."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Normal blood pH is 7.35 - 7.45; respiratory compensation acts rapidly via hyperventilation."
+  ]
+}

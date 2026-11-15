@@ -1,0 +1,134 @@
+{
+  "id": "dm5-car-hard-dent-lec-02",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Etiology and Pathogenesis of Dental Caries",
+  "titleAr": "أسباب وآلية حدوث تسوس الأسنان والبيوفيلم البكتيري",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 17,
+    "pageEnd": 29,
+    "section": "Topic 2: Dental Caries - Etiology and Pathogenesis",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Analyze Keyes' triad and Newbrun's tetrad of dental caries etiology.",
+      "textAr": "تحليل ثالوث كيز ورباعي نيوبرون لأسباب تسوس الأسنان"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Understand the Stephan Curve and the critical pH threshold of enamel dissolution.",
+      "textAr": "فهم منحنى ستيفان ومفهوم الـ Critical pH لذوبان الميناء"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Identify the primary cariogenic microorganisms: Streptococcus mutans and Lactobacilli.",
+      "textAr": "التعرف على البكتيريا المسببة للتسوس: بكتيريا ستريبتوكوكس ميوتانز واللاكتوباسيلي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Keyes' Triad and Newbrun's Tetrad",
+      "titleAr": "ثالوث كيز ورباعي نيوبرون لظهور التسوس",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Dental caries is a multifactorial dynamic disease caused by an imbalance in the physiological equilibrium between tooth mineral and oral biofilm. Originally described by Keyes (1960) as an interaction among three primary factors: Host (tooth surface and saliva), Microorganisms (plaque bacteria), and Substrate (fermentable carbohydrates). Newbrun later added Time as the critical fourth factor.",
+          "textAr": "بصي يا ريهام، تسوس الأسنان مش مجرد ميكروب وخلاص؛ ده Multifactorial dynamic disease. زمان في الستينات الدكتور Keyes حط Triad مشهور جداً قال فيه إن عشان يحصل Caries لازم يتوفر ٣ عناصر: Host (السن والـ Saliva)، Microorganisms (البكتيريا المنتجة للأحماض)، و Substrate (السكريات القابلة للتخمر). بعد كدة جه Newbrun وضاف العامل الرابع الأهم وهو Time (الوقت)، وبقى عندنا Newbrun's Tetrad؛ لأن السكر لو فضل ثواني واتغسل مش هيعمل حاجة، المشكلة في تكرار وبقاء الـ Substrate مع الـ Plaque لفترات طويلة."
+        },
+        {
+          "type": "important",
+          "textEn": "Exam Pearl: Without the element of TIME and frequency of sugar exposure, caries cannot develop. Frequent snacking creates repeated drops below the critical pH.",
+          "textAr": "نقطة امتحان مهمة جداً يا ريهام: تكرار التعرض للسكر (Frequency of intake) أخطر بمراحل من الكمية الإجمالية! كل مرة المريض بياكل فيها سكريات الـ pH بينزل تحت الـ Critical pH."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "titleEn": "The Stephan Curve & The Critical pH",
+      "titleAr": "منحنى ستيفان والـ Critical pH للميناء والعاج",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "When fermentable carbohydrates (like sucrose) enter the mouth, plaque bacteria rapidly metabolize them into lactic, acetic, and propionic acids. Within 2-5 minutes, plaque pH drops sharply from neutral (~6.8-7.0) down below 5.5. The pH at which enamel hydroxyapatite begins to dissolve is known as the Critical pH, classically established at 5.5 for dental enamel, and 6.2 to 6.7 for dentin and cementum.",
+          "textAr": "دلوقتي ركزي في الـ Stephan Curve لأنه سؤال أساسي في الكاريولوجي: لما المريض يشرب عصير فيه سكر، خلال دقيقتين لـ ٥ دقايق بس البكتيريا بتفرز Lactic acid والـ pH بينزل بسرعة جداً. النقطة الفاصلة هي الـ Critical pH: بالنسبة للـ Enamel هي 5.5، لو نزل تحتها بيبدأ الـ Demineralization وذوبان الـ Hydroxyapatite crystals. أما بالنسبة للـ Dentin والـ Cementum فالـ Critical pH أعلى بكتير (من 6.2 لـ 6.7) عشان كدة الـ Root caries بيبدأ أسرع بكتير وبأحماض ضعيفة!"
+        },
+        {
+          "type": "table",
+          "tableData": {
+            "headers": [
+              "Tissue Type",
+              "Critical pH Range",
+              "Inorganic Content (%)",
+              "Vulnerability to Acid"
+            ],
+            "rows": [
+              [
+                "Dental Enamel",
+                "5.5",
+                "96% Hydroxyapatite",
+                "Resistant; dissolves below pH 5.5"
+              ],
+              [
+                "Dentin",
+                "6.2 – 6.5",
+                "70% Hydroxyapatite",
+                "Moderately vulnerable; exposes collagen"
+              ],
+              [
+                "Root Cementum",
+                "6.5 – 6.7",
+                "45 – 50% Hydroxyapatite",
+                "Most vulnerable; caries initiates very rapidly"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-3",
+      "titleEn": "Microbiology of Dental Caries: S. mutans vs Lactobacillus",
+      "titleAr": "بكتيريا التسوس: دور Streptococcus mutans و Lactobacillus",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Streptococcus mutans is considered the primary initiator of dental caries due to its ability to adhere to tooth surfaces via extracellular glucan polymers (glucosyltransferases) and produce high concentrations of acid (acidogenic). Lactobacilli are secondary invaders, poorly adherent, but extremely aciduric (surviving in high acid environments), driving the deep progression of cavitated carious lesions.",
+          "textAr": "بصي يا ريهام في الميكروبيولوجي بتاعة التسوس: الـ Streptococcus mutans هي البطل في مرحلة الـ Initiation لأن عندها إنزيم اسمه Glucosyltransferase بيصنع Glucans بتلزق في السن زي الصمغ وبتنتج كميات ضخمة من الأحماض (Acidogenic). لكن لما يحصل Cavity والوسط يبقى حامضي جداً، بتيجي بكتيريا الـ Lactobacillus تكمل المسيرة؛ هي ما بتعرفش تلزق في الأول، لكنها Aciduric بتقدر تعيش وتتكاثر في الحموضة العالية وتعمل Progression للـ Deep dentinal lesion."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Critical pH",
+      "termAr": "درجة الحموضة الحرجة",
+      "definitionEn": "The threshold pH (5.5 for enamel, 6.2-6.7 for dentin) below which hydroxyapatite dissolves into oral fluids.",
+      "definitionAr": "درجة الحموضة التي يبدأ عندها ذوبان بلورات الهيدروكسي أباتيت السنية (5.5 للميناء و6.2-6.7 للعاج)."
+    },
+    {
+      "termEn": "Acidogenic",
+      "termAr": "منتج للأحماض",
+      "definitionEn": "Capable of metabolizing carbohydrates into organic acids (e.g., lactic acid).",
+      "definitionAr": "قدرة الكائن الدقيق على استقلاب السكريات وتحويلها إلى أحماض عضوية."
+    },
+    {
+      "termEn": "Aciduric",
+      "termAr": "متحمل للحموضة",
+      "definitionEn": "Capable of surviving, metabolizing, and multiplying in acidic environments with low pH.",
+      "definitionAr": "قدرة البكتيريا على العيش والتكاثر في وسط شديد الحموضة."
+    }
+  ],
+  "keyPoints": [
+    "Dental caries requires Host + Microorganisms + Substrate + Time (Newbrun's Tetrad).",
+    "Critical pH is 5.5 for Enamel and 6.2 - 6.7 for Dentin/Cementum.",
+    "Streptococcus mutans initiates caries; Lactobacilli drive deep progression.",
+    "Frequent carbohydrate exposure prevents saliva from restoring neutral pH."
+  ]
+}

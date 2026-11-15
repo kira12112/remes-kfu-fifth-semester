@@ -4,17 +4,25 @@ import { AppShell } from '@/components/layout/AppShell';
 import { QuizEngine } from '@/components/quiz/QuizEngine';
 import { Button } from '@/components/ui/Button';
 
-// Static imported quizzes catalog
-import pharmQuiz01 from '../../content/quizzes/sample-quiz-pharm.json';
-import carQuiz01 from '../../content/quizzes/quiz-car-hard-dent-01.json';
+// Dynamic imported quizzes catalog
 import semesterData from '../../content/courses/fifth-semester.json';
 import type { Quiz, Subject } from '@/types';
 
-const allQuizzes: Record<string, Quiz> = {
-  'sample-quiz-pharm': pharmQuiz01 as unknown as Quiz,
-  'quiz-pharm-basics-01': pharmQuiz01 as unknown as Quiz,
-  'quiz-car-hard-dent-01': carQuiz01 as unknown as Quiz,
-};
+const quizModules = import.meta.glob('../../content/quizzes/*.json', { eager: true });
+const allQuizzes: Record<string, Quiz> = {};
+
+for (const path in quizModules) {
+  const mod = quizModules[path] as { default?: Quiz } | Quiz;
+  const qz = ('default' in mod && mod.default ? mod.default : mod) as Quiz;
+  if (qz && qz.id) {
+    allQuizzes[qz.id] = qz;
+  }
+}
+
+// Aliases for backward compatibility
+if (allQuizzes['sample-quiz-pharm']) {
+  allQuizzes['quiz-pharm-basics-01'] = allQuizzes['sample-quiz-pharm'];
+}
 
 const subjects = semesterData.subjects as Subject[];
 

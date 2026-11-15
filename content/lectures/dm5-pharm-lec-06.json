@@ -1,0 +1,84 @@
+{
+  "id": "dm5-pharm-lec-06",
+  "subjectId": "dm5-pharm",
+  "type": "theoretical",
+  "titleEn": "Cardiovascular Pharmacology and Dental Management",
+  "titleAr": "أدوية القلب والدورة الدموية والتدبير السريري لمريض الأسنان",
+  "order": 6,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Theoretical_ec9ad3943ab89bede14baa688cbf4c32.pdf",
+    "pageStart": 98,
+    "pageEnd": 116,
+    "section": "5. Drugs affecting cardiovascular system",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Classify Antihypertensive agents: ACE inhibitors, ARBs, Calcium Channel Blockers, and Diuretics.",
+      "textAr": "تصنيف خافضات الضغط: مثبطات ACE، حاصرات ARBs، حاصرات قنوات الكالسيوم، والمدرات"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Identify Calcium Channel Blocker-induced Gingival Hyperplasia (Amlodipine, Nifedipine).",
+      "textAr": "تشخيص تضخم اللثة الدوائي الناتج عن حاصرات قنوات الكالسيوم (أملوديبين ونيفيديبين)"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Manage dental surgical procedures in patients taking Anticoagulants (Warfarin, INR guidelines) and Antiplatelets (Aspirin).",
+      "textAr": "بروتوكول خلع الأسنان والجراحة لمرضى مسيلات الدم وتحديد معدل INR الآمن"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Antihypertensive Classes & Dental Manifestations",
+      "titleAr": "أدوية الضغط ومظاهرها الفموية: تضخم اللثة والسعال الجاف",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Cardiovascular medications directly impact dental care. Calcium Channel Blockers (CCBs like Amlodipine, Nifedipine) commonly induce drug-induced gingival enlargement (hyperplasia) in up to 20-40% of chronic users, requiring rigorous plaque control or drug substitution. ACE inhibitors (Captopril, Enalapril) cause a persistent dry nagging cough (due to bradykinin accumulation) and taste alterations (dysgeusia).",
+          "textAr": "بصي يا ريهام، مريض القلب والضغط هتشوفيه كل يوم في العيادة. ركزي في الآثار الجانبية الفموية: أولاً، أدوية الـ Calcium Channel Blockers (زي Amlodipine و Nifedipine) بتعمل تضخم كبير في اللثة (Gingival Hyperplasia) وممكن تغطي تيجان الأسنان؛ ولازم هنا تنظيف جيري مستمر واستشارة طبيب القلب لتغيير الدواء. ثانياً، أدوية الـ ACE Inhibitors (زي Captopril) بتعمل كحة ناشفة مستمرة (Dry cough) بسبب تراكم الـ Bradykinin."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "titleEn": "Anticoagulants, Antiplatelets, and the Dental Extraction Protocol",
+      "titleAr": "بروتوكول خلع الأسنان لمريض المسيلات (Warfarin والـ INR)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Patients on Warfarin inhibit Vitamin K epoxide reductase, depleting factors II, VII, IX, and X. Bleeding risk is monitored via the International Normalized Ratio (INR). According to international dental guidelines, minor oral surgery and dental extractions can be safely performed without discontinuing Warfarin if the INR is between 2.0 and 3.5 on the day of the procedure. Local hemostatic measures (gelatin sponge, tranexamic acid mouthwash, suturing) must be employed. Never stop anticoagulants arbitrarily without the cardiologist's consent, as rebound thromboembolism or stroke presents a far greater mortal risk than local socket bleeding.",
+          "textAr": "قاعدة ذهبية هتحميكي طول حياتك المهنية: لو مريض بياخد مسيل دم Warfarin وعايزة تخلعي له، بتطلبي منه تحليل INR حديث (في نفس اليوم أو قبلها بـ 24 ساعة). لو الـ INR بين 2.0 و 3.5، تقدري تخلعي بأمان تام وبدون ما توقفي الدواء، مع استخدام وسائل التخثر الموضعية (زي السوتشر وحمض الترانيكساميك والإسفنج الجيلاتيني). أوعي توقفي الوارفارين من نفسك أبداً لأن توقيفه ممكن يعمل جلطة مميتة في المخ أو القلب (Thromboembolism)، ونزيف الخلع الموضعي علاجه سهل لكن الجلطة قاتلة!"
+        },
+        {
+          "type": "important",
+          "textEn": "Safe Extraction Threshold: Routine dental extractions are safely carried out with INR <= 3.5 using local hemostatic agents without altering anticoagulant dosage.",
+          "textAr": "الرقم السحري لامتحان البورد والعيادة: طالما الـ INR أقل من أو يساوي 3.5، الخلع آمن ولا يتم إيقاف الوارفارين!"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "INR (International Normalized Ratio)",
+      "termAr": "معدل التخثر المعياري الدولي",
+      "definitionEn": "Standardized laboratory measurement of blood coagulation time used to monitor warfarin anticoagulant therapy.",
+      "definitionAr": "مقياس مخبري معياري يقيس زمن تخثر الدم لمتابعة وضبط جرعات الوارفارين."
+    },
+    {
+      "termEn": "Gingival Hyperplasia",
+      "termAr": "تضخم اللثة الدوائي",
+      "definitionEn": "Abnormal overgrowth of gingival tissue commonly provoked by calcium channel blockers, phenytoin, and cyclosporine.",
+      "definitionAr": "فرط نمو وتضخم في أنسجة اللثة تسببه بعض الأدوية كحاصرات الكالسيوم والفينيتوين."
+    }
+  ],
+  "keyPoints": [
+    "Calcium channel blockers (Amlodipine) cause gingival hyperplasia.",
+    "Dental extractions are safe with INR between 2.0 and 3.5 without stopping Warfarin.",
+    "Use local hemostatic agents (sutures, oxidized cellulose, tranexamic acid) to control local oozing."
+  ]
+}

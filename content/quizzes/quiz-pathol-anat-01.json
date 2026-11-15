@@ -1,0 +1,73 @@
+{
+  "id": "quiz-pathol-anat-01",
+  "subjectId": "dm5-pathol-anat",
+  "titleEn": "Pathological Anatomy High-Yield Question Bank",
+  "titleAr": "بنك أسئلة التشريح المرضي السريري",
+  "description": "High-yield MCQs covering hypersensitivity, diabetic microangiopathy, atherosclerosis, infective endocarditis prophylaxis, and gastrointestinal pathology.",
+  "questions": [
+    {
+      "id": "q-pa-01",
+      "subjectId": "dm5-pathol-anat",
+      "textEn": "What is the standard prophylactic antibiotic regimen recommended for high-risk cardiac patients prior to invasive dental procedures?",
+      "textAr": "ما هو نظام المضاد الحيوي الوقائي القياسي الموصى به لمرضى القلب المعرضين لخطر التهاب الشغاف قبل جراحة الأسنان؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Oral Amoxicillin 2.0 grams 30-60 minutes before the procedure",
+          "textAr": "أموكسيسيلين 2 جرام فموياً قبل الإجراء بـ 30-60 دقيقة"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Oral Ciprofloxacin 500 mg after the procedure",
+          "textAr": "سيبروفلوكساسين 500 مجم بعد الإجراء"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Metronidazole 500 mg three times daily for 5 days",
+          "textAr": "مترونيدازول 500 مجم 3 مرات يومياً"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "No antibiotics are ever indicated for cardiac patients",
+          "textAr": "لا داعي للمضادات الحيوية مطلقاً"
+        }
+      ],
+      "correctOptionId": "opt-a",
+      "explanationEn": "AHA guidelines recommend 2 grams of oral amoxicillin taken 30-60 minutes before the dental procedure to eradicate transient Viridans streptococci bacteremia. Clindamycin 600mg or Azithromycin 500mg is used in penicillin-allergic patients.",
+      "explanationAr": "الجرعة القياسية المعتمدة عالمياً هي 2 جرام أموكسيسيلين فموياً قبل الشغل بساعة لمريض القلب عالي الخطورة.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-pa-02",
+      "subjectId": "dm5-pathol-anat",
+      "textEn": "Which clinical oral finding is strongly suggestive of underlying Crohn's disease?",
+      "textAr": "أي من الموجودات السريرية الفموية التالية تشير بقوة لاحتمال الإصابة بداء كرون المعوي؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Cobblestone appearance of the buccal mucosa with linear ulcers",
+          "textAr": "المظهر الحصوي (Cobblestone) للغشاء المخاطي مع تقرحات خطية عميقة"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Enamel hypoplasia on incisors only",
+          "textAr": "نقص تكلس الميناء في القواطع فقط"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Diffuse geographic tongue",
+          "textAr": "اللسان الجغرافي المنتشر"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Acute bilateral parotid sialolithiasis",
+          "textAr": "حصوات الغدة النكافية الثنائية"
+        }
+      ],
+      "correctOptionId": "opt-a",
+      "explanationEn": "Crohn's disease classically presents with oral submucosal non-caseating granulomatous inflammation creating a cobblestone texture on buccal mucosa, labial edema, and linear vestibular ulcers.",
+      "explanationAr": "داء كرون بيتميز بظهور مظهر الحصى المرصوف (Cobblestone) في باطن الخد وتقرحات طولية عميقة.",
+      "difficulty": "hard"
+    }
+  ]
+}

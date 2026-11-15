@@ -1,0 +1,85 @@
+{
+  "id": "dm5-car-hard-dent-lec-03",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Prevention of Dental Caries: Fluoride and Sealants",
+  "titleAr": "الوقاية من تسوس الأسنان: آليات الفلورايد وسادات الشقوق",
+  "order": 3,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 30,
+    "pageEnd": 39,
+    "section": "Topic 3: Prevention of Dental Caries",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master the biochemical mechanism of Fluoride in enamel remineralization (Fluorapatite formation).",
+      "textAr": "فهم الآلية الكيميائية الحيوية للفلورايد في إعادة التمعدن وتكوين الفلورأباتيت"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Differentiate between systemic and topical fluoride delivery methods.",
+      "textAr": "التفرقة بين إعطاء الفلورايد الموضعي والفلورايد الجهازي"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Identify indications and application techniques for Pit and Fissure Sealants.",
+      "textAr": "معرفة دواعي استعمال وخطوات تطبيق سادات الشقوق والوهاد السنية"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Mechanism of Action of Fluoride",
+      "titleAr": "كيف يحمي الفلورايد الأسنان كيميائياً؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Fluoride acts primarily through three proven mechanisms: 1) Promotion of remineralization by attracting calcium and phosphate ions to form Fluorapatite [Ca10(PO4)6F2], which has a lower critical pH (4.5 vs 5.5 for hydroxyapatite); 2) Inhibition of demineralization during acid challenge; and 3) Direct antimicrobial inhibition of bacterial enolase enzyme, suppressing lactic acid production.",
+          "textAr": "بصي يا دكتورة ريهام، الفلورايد هو السلاح الأقوى في طب الأسنان الوقائي، وبيشتغل بـ ٣ آليات أساسية لازم تسجليها عندك: أولاً، بيعمل Remineralization عن طريق جذب الكالسيوم والفوسفات وتكوين بلورات الـ Fluorapatite؛ والميزة الرهيبة إن الـ Critical pH بتاعتها 4.5 بدل 5.5، يعني السن بيبقى أقوى وأكثر مقاومة للأحماض بكتير! ثانياً، بيمنع خروج المعادن (Inhibition of demineralization). ثالثاً، ليه تأثير مضاد للبكتيريا لأنه بيثبط إنزيم الـ Enolase في بكتيريا S. mutans فما تقدرش تصنع Lactic acid."
+        },
+        {
+          "type": "important",
+          "textEn": "Clinical Rule: The modern consensus is that the predominant beneficial action of fluoride is POST-ERUPTIVE and TOPICAL, not systemic.",
+          "textAr": "قاعدة سريرية وإجابة امتحان مؤكدة: التأثير الأهم والأكبر للفلورايد هو موضعي (Topical) بعد بزوغ الأسنان، مش تأثير جهازي أثناء تكوين السن."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "titleEn": "Pit and Fissure Sealants",
+      "titleAr": "سادات الوهاد والشقوق السنية (Pit & Fissure Sealants)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Approximately 80-90% of dental caries in children and adolescents occurs in the pits and fissures of permanent molars. Fissure sealants provide a physical resin barrier that prevents bacterial biofilm colonization and isolates deep micro-niches from salivary fermentable carbohydrates.",
+          "textAr": "أكتر من 80% من التسوس عند الأطفال والشباب بيحصل في الـ Pits and fissures بتاعة الـ Molars لأنها عميقة وشعيرات الفرشاة مستحيل توصل لقعر الشق. الـ Pit and Fissure Sealant بيعمل Physical barrier عازل يقفل الشقوق دي تماماً ويمنع البكتيريا والسكر من التجمع."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Fluorapatite",
+      "termAr": "فلورأباتيت",
+      "definitionEn": "Resistant crystal structure formed when fluoride substitutes hydroxyl ions in hydroxyapatite, lowering critical pH to 4.5.",
+      "definitionAr": "مركب بلوري عالي المقاومة يتكون عند استبدال أيونات الهيدروكسيل بالفلورايد، وتنخفض درجة حموضته الحرجة إلى 4.5."
+    },
+    {
+      "termEn": "Enolase",
+      "termAr": "إنزيم الإينولاز البكتيري",
+      "definitionEn": "A bacterial glycolytic enzyme inhibited by fluoride, halting bacterial acid production.",
+      "definitionAr": "إنزيم استقلابي بكتيري يثبطه الفلورايد لمنع إنتاج حمض اللاكتيك."
+    }
+  ],
+  "keyPoints": [
+    "Fluorapatite has a critical pH of 4.5 compared to 5.5 for Hydroxyapatite.",
+    "Topical post-eruptive fluoride exposure provides the main caries preventive benefit.",
+    "Fluoride inhibits bacterial enolase enzyme.",
+    "Pit and fissure sealants prevent 80%+ of occlusal caries in permanent molars."
+  ]
+}

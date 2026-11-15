@@ -1,0 +1,49 @@
+{
+  "id": "dm5-pathol-phys-lec-02",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "Cellular Adaptation: Hypertrophy, Hyperplasia, Atrophy, and Metaplasia",
+  "titleAr": "التكيف الخلوي: الضخامة، فرط التنسج، الضمور، والحؤول (التحول النسيجي)",
+  "order": 2,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 21,
+    "pageEnd": 38,
+    "section": "Topic 2. Cell Adaptation",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Differentiate Hypertrophy (increase in cell size) from Hyperplasia (increase in cell number).",
+      "textAr": "التفريق بين تضخم الخلايا وزيادة عددها"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze Metaplasia mechanisms (e.g., squamous metaplasia in smoker's respiratory epithelium) and precancerous potential.",
+      "textAr": "تحليل الحؤول النسيجي (Metaplasia) وتحوله إلى مرحلة ما قبل التسرطن"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "The Four Classical Forms of Cellular Adaptation",
+      "titleAr": "الأنواع الأربعة الأساسية للتكيف الخلوي مع الضغوط البيئية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Cells adapt to physiological and pathological stresses through four primary mechanisms: 1) Hypertrophy: increase in the SIZE of parenchymal cells without cell division, characteristic of non-dividing tissues like myocardium subjected to hypertension; 2) Hyperplasia: increase in the NUMBER of cells in tissues capable of mitotic division (e.g., hormonal hyperplasia of breast in pregnancy, or drug-induced gingival hyperplasia); 3) Atrophy: reduction in cell size and metabolic activity due to disuse, denervation, ischemia, or loss of endocrine stimulation; 4) Metaplasia: reversible phenotypic reprogramming of one differentiated cell type to another (e.g., ciliated columnar to stratified squamous epithelium in the respiratory tract of chronic cigarette smokers).",
+          "textAr": "بصي يا ريهام ده جدول لا يخلو منه أي امتحان: لما الخلية تتعرض لإجهاد بتحاول تتكيف بـ 4 طرق: 1) Hypertrophy (زيادة حجم الخلية بدون انقسام؛ زي عضلة القلب لما تكبر في مريض الضغط العالي). 2) Hyperplasia (زيادة عدد الخلايا؛ زي تضخم اللثة مع أدوية الضغط). 3) Atrophy (ضمور وصغر حجم الخلية؛ زي العضلة لما تجبسي إيدك وتسيبيها شهرين). 4) Metaplasia (تحول نوع نسيج سليم لنوع نسيج سليم آخر يقدر يتحمل الظروف القاسية؛ زي خلايا الرئة المهدبة عند المدخن لما تتحول لـ Squamous epithelium عشان تتحمل الدخان الساخن، بس لو التدخين استمر ممكن تقلب سرطان Dysplasia!)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Hypertrophy = increased size; Hyperplasia = increased cell number.",
+    "Metaplasia is a reversible change from one adult cell type to another.",
+    "Longstanding metaplasia can progress to dysplasia and malignant transformation."
+  ]
+}

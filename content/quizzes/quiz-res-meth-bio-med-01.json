@@ -1,0 +1,73 @@
+{
+  "id": "quiz-res-meth-bio-med-01",
+  "subjectId": "dm5-res-meth-bio-med",
+  "titleEn": "Research Methods & Evidence-Based Dentistry Question Bank",
+  "titleAr": "بنك أسئلة مناهج البحث العلمي وطب الأسنان المسند بالدليل",
+  "description": "High-yield MCQs on the 3Rs ethical framework, stem cell potency, and the evidence hierarchy pyramid.",
+  "questions": [
+    {
+      "id": "q-rm-01",
+      "subjectId": "dm5-res-meth-bio-med",
+      "textEn": "In the internationally accepted ethical framework governing laboratory animal research, what do the '3Rs' stand for?",
+      "textAr": "في الأطر الأخلاقية العالمية لأبحاث الحيوانات المخبرية، إلى ماذا ترمز مبادئ الـ 3Rs؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Randomize, Replicate, Record",
+          "textAr": "العشوائية والتكرار والتسجيل"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Replacement, Reduction, and Refinement",
+          "textAr": "الاستبدال (Replacement)، التقليل (Reduction)، والتحسين (Refinement)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Resuscitate, Retest, Report",
+          "textAr": "الإنعاش وإعادة الاختبار والتقرير"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Reward, Restrict, Release",
+          "textAr": "المكافأة والتقييد والإطلاق"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Russell and Burch's 3Rs are Replacement (substitute non-animal alternatives), Reduction (use minimum animals needed), and Refinement (alleviate animal suffering).",
+      "explanationAr": "مبادئ الـ 3Rs هي: Replacement (الاستبدال بالخلايا)، Reduction (تقليل أعداد الحيوانات)، و Refinement (تحسين الرعاية وتسكين الألم).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-rm-02",
+      "subjectId": "dm5-res-meth-bio-med",
+      "textEn": "In the pyramid of evidence-based clinical medicine, which research design represents the highest level of scientific evidence?",
+      "textAr": "في هرم الأدلة السريرية المسندة بالبراهين، أي تصميم بحثي يمثل قمة الهرم وأعلى مستويات الدقة العلمية؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Expert Opinion and Narrative Editorials",
+          "textAr": "رأي الخبراء والمقالات الافتتاحية"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Retrospective Case-Control Studies",
+          "textAr": "دراسات الحالات والشواهد الاسترجاعية"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Systematic Reviews and Meta-Analyses of Randomized Controlled Trials",
+          "textAr": "المراجعات المنهجية والتحليلات البعدية (Meta-Analyses) للتجارب العشوائية المحكومة"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Single Case Reports",
+          "textAr": "تقارير الحالات الفردية"
+        }
+      ],
+      "correctOptionId": "opt-c",
+      "explanationEn": "Systematic reviews with meta-analyses combine data from multiple well-conducted RCTs to minimize individual study biases, residing at the absolute apex of the evidence hierarchy.",
+      "explanationAr": "المراجعات المنهجية والتحليلات البعدية (Systematic Reviews & Meta-Analyses) هي قمة هرم الأدلة الطبية.",
+      "difficulty": "medium"
+    }
+  ]
+}

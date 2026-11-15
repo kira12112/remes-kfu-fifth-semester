@@ -1,0 +1,61 @@
+{
+  "id": "dm5-car-hard-dent-lec-06",
+  "subjectId": "dm5-car-hard-dent",
+  "type": "theoretical",
+  "titleEn": "Complications and Failures in Restorative Treatment",
+  "titleAr": "أخطاء ومضاعفات حشو الأسنان والتسوس الثانوي",
+  "order": 6,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "Cariology Kazan final _7b09916b9d11b600cd6546f1f65eeb02.pdf",
+    "pageStart": 74,
+    "pageEnd": 87,
+    "section": "Topic 6: Mistakes and Complications in Treatment of Dental Caries",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Identify the primary causes of postoperative sensitivity following composite placement.",
+      "textAr": "التعرف على أسباب حساسية ما بعد حشو الكومبوزيت وكيفية تجنبها"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Analyze secondary (recurrent) caries etiology and diagnostic criteria.",
+      "textAr": "تحليل أسباب ومعايير تشخيص التسوس الثانوي المتكرر حول الحشوات"
+    },
+    {
+      "id": "obj-3",
+      "textEn": "Prevent proximal overhangs and restore proper anatomical contact points.",
+      "textAr": "منع الزوائد الحفافية (Overhangs) وضبط نقطة التماس التشريحية بدقة"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Postoperative Sensitivity & Polymerization Shrinkage",
+      "titleAr": "حساسية ما بعد الحشو وانكماش التصلب (Polymerization Shrinkage)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Postoperative pain after composite resin restoration is most commonly caused by polymerization shrinkage stress creating marginal gaps, fluid hydrodynamic movement in dentinal tubules (Brännström's theory), or aggressive over-drying of dentin. Composite shrinks 1.5% to 3.5% volumetrically during light curing. High C-factor cavities (e.g., deep Class I occlusal boxes) experience immense wall stress.",
+          "textAr": "بصي يا ريهام، أكتر شكوى هتقابلك من المرضى بعد حشو الكومبوزيت هي: 'يا دكتورة بألم أول ما أشرب مياه باردة أو أعض على السن!' ده بيحصل بسبب الـ Polymerization Shrinkage؛ الكومبوزيت بينكمش بنسبة من 1.5% لـ 3.5% وهو بيتصلب، فبيشد على جدران السن ويعمل Microgap يدخل فيه السوائل وتتحرك في الأنابيب العاجية طبقاً لـ Brännström's Hydrodynamic Theory فتثير نهايات الأعصاب. عشان نمنع ده، لازم نستخدم الـ Incremental layering technique (طبقات لا تزيد عن 2 مم) عشان نقلل الـ C-factor stress."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "C-Factor",
+      "termAr": "معامل التكوين التجويفي",
+      "definitionEn": "The ratio of bonded to unbonded restoration surfaces; higher C-factor increases internal curing stress.",
+      "definitionAr": "النسبة بين أسطح الحشوة الملتصقة والأسطح الحرة؛ كلما زادت النسبة زاد الإجهاد الداخلي."
+    }
+  ],
+  "keyPoints": [
+    "Incremental placement (<=2mm) minimizes polymerization shrinkage stress.",
+    "High C-factor cavities like Class I have 5 bonded walls to 1 unbonded wall.",
+    "Hydrodynamic fluid movement explains dentin hypersensitivity."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pathol-phys-lec-05",
+  "subjectId": "dm5-pathol-phys",
+  "type": "theoretical",
+  "titleEn": "Intracellular Accumulations and Pathological Calcifications",
+  "titleAr": "التراكمات داخل الخلايا والتكلسات المرضية (الحثلية والنقيلية)",
+  "order": 5,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PATHOL PHYS_020730c75a6f7bb1056bec2a815c1064.pdf",
+    "pageStart": 89,
+    "pageEnd": 106,
+    "section": "Topic 5. Accumulations and Pathological Calcifications",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Distinguish between Dystrophic Calcification (normal serum calcium in dying tissue) and Metastatic Calcification (hypercalcemia in normal tissue).",
+      "textAr": "التفريق بين التكلس الحثلي (كالسيوم طبيعي في نسيج ميت) والتكلس النقيلي (فرط كالسيوم الدم)"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Identify dental pulp stones (denticles) as classical dystrophic calcifications.",
+      "textAr": "تشخيص حصوات لب الأسنان (Pulp Stones) كنوع من التكلس الحثلي"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Dystrophic vs Metastatic Calcification in Dentistry",
+      "titleAr": "التكلس الحثلي وحصوات عصب الأسنان (Pulp Stones)",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Pathological calcification involves abnormal tissue deposition of calcium salts. In Dystrophic Calcification, serum calcium and phosphate levels are completely normal; calcium precipitates locally into degenerating, necrotic tissues (e.g., in aged atheromas, tuberculous caseous granulomas, and chronical inflamed dental pulps forming Pulp Stones or Denticles). In Metastatic Calcification, calcium deposits in normal, vital tissues throughout the body solely secondary to systemic Hypercalcemia (caused by primary hyperparathyroidism, bone osteolytic metastases, vitamin D toxicity, or renal failure).",
+          "textAr": "بصي يا ريهام في أشعة الأسنان لما تشوفي حجر أبيض جوة حجرة العصب (Pulp Stone): ده اسمه Dystrophic Calcification! كالسيوم الدم عند المريض بيكون طبيعي 100%، لكن الكالسيوم بيترسب موضعياً في أنسجة العصب التالفة أو الميتة. أما النوع التاني Metastatic Calcification، ده بيكون المريض عنده فرط كالسيوم شديد في الدم (Hypercalcemia) نتيجة ورم في الغدة الجار درقية أو فشل كلوي، فالكالسيوم يترسب في الأنسجة الحية السليمة في كل الجسم."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Dystrophic calcification occurs in dead/dying tissue with NORMAL serum calcium (e.g., Pulp Stones).",
+    "Metastatic calcification occurs in normal tissue secondary to HYPERCALCEMIA."
+  ]
+}

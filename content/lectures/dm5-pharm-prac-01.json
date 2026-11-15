@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pharm-prac-01",
+  "subjectId": "dm5-pharm",
+  "type": "practical",
+  "titleEn": "Practical 1: Pharmaceutical Dosage Forms and Routes of Administration",
+  "titleAr": "العملي ١: الأشكال الصيدلانية الدوائية وطرق إعطاء الدواء",
+  "order": 7,
+  "estimatedMinutes": 40,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Practical_4fcdee63caa7c87bf9cd7d54d34aac5a.pdf",
+    "pageStart": 2,
+    "pageEnd": 15,
+    "section": "1. Dosage Forms and Routes",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Distinguish between solid, liquid, semi-solid, and parenteral dosage forms.",
+      "textAr": "التفريق بين الأشكال الدوائية الصلبة والسائلة والشبه صلبة والحقن"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Compare oral, sublingual, parenteral (IV, IM, SC), and topical routes in dental clinical settings.",
+      "textAr": "مقارنة طرق الإعطاء الفموية وتحت اللسان والحقن والموضعية في طب الأسنان"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Dosage Forms & The Sublingual Emergency Route",
+      "titleAr": "الأشكال الصيدلانية وطريق تحت اللسان في الطوارئ",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "Dosage forms are designed to optimize bioavailability, stability, and patient compliance. Oral tablets include enteric-coated tablets (which resist gastric acidity and dissolve in the alkaline duodenum) and sustained-release formulations. In dental emergencies such as acute angina pectoris, the Sublingual route (e.g., Nitroglycerin 0.5 mg tablet) bypasses first-pass hepatic metabolism and provides rapid direct absorption into the superior vena cava via rich sublingual capillaries within 1 to 3 minutes.",
+          "textAr": "بصي يا ريهام في الفارما العملي: الأشكال الدوائية بتتنوع من أقراص مغلفة معوياً (Enteric-coated) عشان متتكسرش بحمض المعدة، لأقراص ممتدة المفعول (Sustained-release). أهم طريق لازم تحفظيه للطوارئ في العيادة هو طريق تحت اللسان (Sublingual route)؛ زي قرص النيتروجلسرين في الذبحة الصدرية. ميزته إنه بيدخل فوراً على الأوعية الدموية الغزيرة تحت اللسان ويتجه مباشرة للوريد الأجوف العلوي دون المرور بالكبد (Bypasses hepatic first-pass metabolism)، فبيبدأ مفعوله خلال دقيقة لدقيقتين بس وينقذ حياة المريض!"
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Sublingual administration bypasses first-pass hepatic metabolism for rapid onset in emergencies.",
+    "Enteric-coated tablets must never be crushed or chewed."
+  ]
+}

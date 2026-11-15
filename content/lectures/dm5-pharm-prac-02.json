@@ -1,0 +1,48 @@
+{
+  "id": "dm5-pharm-prac-02",
+  "subjectId": "dm5-pharm",
+  "type": "practical",
+  "titleEn": "Practical 2: Prescription Writing and Dose Calculation in Dentistry",
+  "titleAr": "العملي ٢: كتابة الروشتة الطبية وحساب الجرعات الدوائية في طب الأسنان",
+  "order": 8,
+  "estimatedMinutes": 45,
+  "status": "available",
+  "sourceReference": {
+    "pdfFile": "DM.5.PHARM.Practical_4fcdee63caa7c87bf9cd7d54d34aac5a.pdf",
+    "pageStart": 16,
+    "pageEnd": 25,
+    "section": "2. Prescription Writing",
+    "confidence": "verified"
+  },
+  "objectives": [
+    {
+      "id": "obj-1",
+      "textEn": "Master the essential anatomical parts of a legal medical prescription (Superscription, Inscription, Subscription, Transcription).",
+      "textAr": "إتقان الأجزاء القانونية للروشتة الطبية"
+    },
+    {
+      "id": "obj-2",
+      "textEn": "Accurately calculate pediatric drug doses based on body weight (mg/kg).",
+      "textAr": "حساب الجرعات بدقة للأطفال بناءً على وزن الجسم"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "titleEn": "Components of an Authoritative Prescription",
+      "titleAr": "الأجزاء الأربعة للروشتة الطبية النظامية",
+      "content": [
+        {
+          "type": "paragraph",
+          "textEn": "A legal prescription consists of: 1) Superscription: Doctor and patient data, date, and Rx symbol; 2) Inscription: The body of the prescription naming the drug, dosage form, and strength (e.g., Amoxicillin 500 mg capsules); 3) Subscription: Instructions to the pharmacist on quantity to dispense (e.g., Dispense 21 capsules); 4) Transcription (Signa): Patient instructions detailing dose, frequency, route, and relation to meals (e.g., Take 1 capsule orally every 8 hours after meals for 7 days). Pediatric dosing must strictly use mg/kg body weight calculations rather than age-based approximations.",
+          "textAr": "الروشتة الطبية يا ريهام وثيقة قانونية وعلاجية خطيرة. بتتكون من 4 أجزاء رئيسية: 1) Superscription (بياناتك وبيانات المريض ورمز Rx). 2) Inscription (اسم الدواء العلمي والتجاري وتركيزه زي Amoxicillin 500mg). 3) Subscription (تعليماتك للصيدلي بعدد العلب أو الأقراص). 4) Transcription أو Signa (التعليمات للمريض بالعربي وبخط واضح: كبسولة كل 8 ساعات بعد الأكل لمدة 7 أيام). وللأطفال: ممنوع تخمين الجرعات بالسن، لازم تتزن الطفل وتحسبي الجرعة بالمليجرام لكل كيلوجرام (mg/kg)."
+        }
+      ]
+    }
+  ],
+  "glossary": [],
+  "keyPoints": [
+    "Inscription specifies the drug name, dosage form, and strength.",
+    "Pediatric dosages must strictly adhere to mg/kg weight calculations."
+  ]
+}

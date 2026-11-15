@@ -1,0 +1,307 @@
+{
+  "id": "quiz-pharm-01",
+  "subjectId": "dm5-pharm",
+  "lectureId": "dm5-pharm-lec-01",
+  "titleEn": "Comprehensive Dental Pharmacology Question Bank",
+  "titleAr": "بنك أسئلة علم الأدوية السريري لطب الأسنان",
+  "description": "Verified high-yield MCQs covering autonomic pharmacology, local anesthetics, analgesics, cardiovascular interactions, and medical emergencies in the dental office.",
+  "estimatedMinutes": 20,
+  "questions": [
+    {
+      "id": "q-pharm-01",
+      "subjectId": "dm5-pharm",
+      "textEn": "Which muscarinic receptor agonist is clinically indicated for stimulating salivary flow in patients with severe radiation-induced xerostomia or Sjögren's syndrome?",
+      "textAr": "أي ناهض لمستقبلات المسكارين يوصف سريرياً لتحفيز إفراز اللعاب لدى مرضى جفاف الفم الإشعاعي الشديد أو متلازمة شوغرن؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Atropine",
+          "textAr": "أتروبين"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Pilocarpine",
+          "textAr": "بيلوكاربين"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Propranolol",
+          "textAr": "بروبرانولول"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Scopolamine",
+          "textAr": "سكوبولامين"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Pilocarpine stimulates M3 muscarinic receptors on salivary gland acinar cells, promoting profuse salivary secretion in xerostomic patients.",
+      "explanationAr": "البيلوكاربين هو الدواء المعتمد لتحفيز اللعاب لأنه بيحفز مستقبلات M3 في الغدد اللعابية مباشرة.",
+      "difficulty": "easy",
+      "tags": [
+        "autonomic",
+        "xerostomia",
+        "saliva"
+      ]
+    },
+    {
+      "id": "q-pharm-02",
+      "subjectId": "dm5-pharm",
+      "textEn": "What is the maximum safe dose of Epinephrine (Adrenaline) for a patient with controlled cardiovascular disease during dental anesthesia?",
+      "textAr": "ما هي الجرعة القصوى الآمنة من الأدرينالين لمريض القلب والضغط أثناء التخدير السني الموضعي؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "0.2 mg (approx. 11 cartridges of 1:100,000)",
+          "textAr": "0.2 مجم (حوالي 11 كربولة)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "0.04 mg (approx. 2 cartridges of 1:100,000)",
+          "textAr": "0.04 مجم (كربولتان فقط من تركيز 1:100,000)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "1.0 mg (55 cartridges)",
+          "textAr": "1.0 مجم"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Zero (strictly prohibited under all circumstances)",
+          "textAr": "ممنوع تماماً تحت أي ظرف"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "The American Heart Association (AHA) and international guidelines limit epinephrine to 0.04 mg per appointment in cardiovascular patients, equivalent to roughly 2 cartridges containing 1:100,000 epinephrine.",
+      "explanationAr": "الحد الأقصى للأدرينالين لمريض القلب هو 0.04 مجم في الزيارة الواحدة، وده يعادل كربولتين بنج فقط بتركيز 1:100,000.",
+      "difficulty": "medium",
+      "tags": [
+        "local-anesthesia",
+        "cardiovascular",
+        "clinical-pearl"
+      ]
+    },
+    {
+      "id": "q-pharm-03",
+      "subjectId": "dm5-pharm",
+      "textEn": "Why is the co-administration of Epinephrine dangerous in a dental patient taking non-selective beta-blockers like Propranolol?",
+      "textAr": "لماذا يعتبر حقن الأدرينالين خطيراً لمريض يتناول حاصرات بيتا غير الانتقائية مثل البروبرانولول؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "It precipitates profound hypoglycemia.",
+          "textAr": "يسبب هبوط سكر الدم الشديد"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "It triggers severe hypertension due to unopposed alpha-1 vasoconstriction accompanied by reflex bradycardia.",
+          "textAr": "يسبب ارتفاعاً حاداً في ضغط الدم بسبب عمل ألفا-1 الموضعي دون معارضة مع بطء قلب انعكاسي"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "It instantly breaks down local anesthetic molecules.",
+          "textAr": "يكسر جزيئات المخدر فوراً"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "It accelerates dental caries progression.",
+          "textAr": "يسرع تطور تسوس الأسنان"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Blockade of vascular beta-2 vasodilatory receptors leaves systemic alpha-1 vasoconstrictor receptors unopposed when epinephrine is administered, precipitating dangerous hypertensive spikes and reflex vagal bradycardia.",
+      "explanationAr": "حاصرات بيتا غير الانتقائية قافلة مستقبلات التوسع Beta-2، فالأدرينالين بيشغل Alpha-1 لوحدها ويعمل انقباض وعائي عنيف وارتفاع كارثي في الضغط.",
+      "difficulty": "hard",
+      "tags": [
+        "drug-interaction",
+        "autonomic",
+        "hypertension"
+      ]
+    },
+    {
+      "id": "q-pharm-04",
+      "subjectId": "dm5-pharm",
+      "textEn": "A dental patient on Warfarin therapy requires a routine surgical extraction. What is the internationally accepted upper INR limit allowing safe extraction without stopping Warfarin?",
+      "textAr": "مريض أسنان يتناول دواء الوارفارين المسيل للدم ويحتاج خلعاً جراحياً. ما هو الحد الأعلى المقبول لـ INR لإجراء الخلع بأمان دون إيقاف الدواء؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "INR <= 1.0",
+          "textAr": "INR <= 1.0"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "INR <= 3.5",
+          "textAr": "INR <= 3.5"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "INR > 6.0",
+          "textAr": "INR > 6.0"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "INR between 4.0 and 5.0",
+          "textAr": "INR بين 4.0 و 5.0"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Routine dental extractions can be safely performed with an INR up to 3.5 without altering warfarin therapy, using local hemostatic measures (sutures, tranexamic acid gauze, collagen sponges). Stopping warfarin risks fatal thromboembolic stroke.",
+      "explanationAr": "المعدل الآمن للخلع هو INR حتى 3.5؛ طالما النتيجة 3.5 أو أقل، الخلع آمن تماماً باستخدام الخياطة ومواد التخثر الموضعية، وتوقيف الوارفارين ممنوع لتفادي الجلطات.",
+      "difficulty": "medium",
+      "tags": [
+        "anticoagulants",
+        "surgery",
+        "inr"
+      ]
+    },
+    {
+      "id": "q-pharm-05",
+      "subjectId": "dm5-pharm",
+      "textEn": "Which antihypertensive drug class is classically associated with drug-induced gingival enlargement (hyperplasia)?",
+      "textAr": "أي فئة من خافضات ضغط الدم ترتبط سريرياً بحدوث تضخم اللثة الدوائي (Gingival Hyperplasia)؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "ACE Inhibitors (e.g., Captopril)",
+          "textAr": "مثبطات الإنزيم المحول للأنجيوتنسين (كابتوبريل)"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Calcium Channel Blockers (e.g., Amlodipine, Nifedipine)",
+          "textAr": "حاصرات قنوات الكالسيوم (أملوديبين، نيفيديبين)"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Thiazide Diuretics",
+          "textAr": "مدرات البول الثيازيدية"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Angiotensin Receptor Blockers (e.g., Losartan)",
+          "textAr": "حاصرات مستقبلات الأنجيوتنسين (لوسارتان)"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Calcium channel blockers, especially dihydropyridines like nifedipine and amlodipine, provoke gingival hyperplasia by altering fibroblast intracellular calcium metabolism and collagenase production.",
+      "explanationAr": "حاصرات قنوات الكالسيوم (زي Amlodipine و Nifedipine) هي السبب الشهير لتضخم اللثة الدوائي بين أدوية الضغط.",
+      "difficulty": "easy",
+      "tags": [
+        "cardiovascular",
+        "gingival-hyperplasia",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "q-pharm-06",
+      "subjectId": "dm5-pharm",
+      "textEn": "What is the immediate first-line drug and route of administration for managing acute anaphylactic shock in the dental chair?",
+      "textAr": "ما هو الدواء الأول المنقذ للحياة وطريقة إعطائه الفورية لتدبير صدمة الحساسية المفرطة (Anaphylaxis) في عيادة الأسنان؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Oral Diphenhydramine 50 mg",
+          "textAr": "مضاد هيستامين فموي 50 مجم"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Intramuscular Epinephrine 1:1000 (0.3 to 0.5 mg) in the anterolateral mid-thigh",
+          "textAr": "أدرينالين في العضل 1:1000 (0.3 إلى 0.5 مجم) في منتصف عضلة الفخذ الخارجية"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "Sublingual Nitroglycerin 0.5 mg",
+          "textAr": "نيتروجلسرين تحت اللسان 0.5 مجم"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Intravenous Dextrose 50%",
+          "textAr": "دكستروز 50% في الوريد"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "Intramuscular epinephrine (1:1000, 0.3-0.5 mg in adults) injected into the anterolateral vastus lateralis muscle is the absolute first-line treatment for anaphylaxis, counteracting bronchospasm, laryngeal edema, and cardiovascular collapse.",
+      "explanationAr": "العلاج الفوري والوحيد المنقذ للحياة في صدمة الحساسية هو حقن الأدرينالين 1:1000 بجرعة 0.3-0.5 مجم في العضل في الفخذ الخارجي.",
+      "difficulty": "medium",
+      "tags": [
+        "emergencies",
+        "anaphylaxis",
+        "epinephrine"
+      ]
+    },
+    {
+      "id": "q-pharm-07",
+      "subjectId": "dm5-pharm",
+      "textEn": "How many milligrams of Lidocaine and Epinephrine are contained in a single 1.8 mL dental cartridge of 2% Lidocaine with 1:100,000 Epinephrine?",
+      "textAr": "كم مليجراماً من الليدوكائين والأدرينالين يوجد في كربولة بنج أسنان قياسية واحدة (حجم 1.8 مل) بتركيز 2% ليدوكائين مع 1:100,000 أدرينالين؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "20 mg Lidocaine and 0.1 mg Epinephrine",
+          "textAr": "20 مجم ليدوكائين و 0.1 مجم أدرينالين"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "36 mg Lidocaine and 0.018 mg Epinephrine",
+          "textAr": "36 مجم ليدوكائين و 0.018 مجم أدرينالين"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "54 mg Lidocaine and 0.036 mg Epinephrine",
+          "textAr": "54 مجم ليدوكائين و 0.036 مجم أدرينالين"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "100 mg Lidocaine and 0.5 mg Epinephrine",
+          "textAr": "100 مجم ليدوكائين و 0.5 مجم أدرينالين"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "A 2% solution has 20 mg/mL (20 x 1.8 = 36 mg Lidocaine). 1:100,000 has 0.01 mg/mL (0.01 x 1.8 = 0.018 mg Epinephrine).",
+      "explanationAr": "الحساب السريري: 2% = 20 مجم/مل × 1.8 = 36 مجم ليدوكائين. و 1:100,000 = 0.01 مجم/مل × 1.8 = 0.018 مجم أدرينالين.",
+      "difficulty": "medium",
+      "tags": [
+        "calculations",
+        "cartridge",
+        "local-anesthesia"
+      ]
+    },
+    {
+      "id": "q-pharm-08",
+      "subjectId": "dm5-pharm",
+      "textEn": "Why is Paracetamol preferred over NSAIDs like Ibuprofen for mild-to-moderate dental pain in a patient with active peptic ulcer disease?",
+      "textAr": "لماذا يفضل الباراسيتامول على مضادات الالتهاب غير الستيرويدية (NSAIDs) لآلام الأسنان لدى مريض يعاني من قرحة هضمية نشطة؟",
+      "options": [
+        {
+          "id": "opt-a",
+          "textEn": "Paracetamol stimulates gastric acid secretion to protect the mucosa.",
+          "textAr": "الباراسيتامول يحفز حمض المعدة"
+        },
+        {
+          "id": "opt-b",
+          "textEn": "Paracetamol does not inhibit peripheral COX-1, thus preserving cytoprotective gastric mucosal prostaglandins.",
+          "textAr": "الباراسيتامول لا يثبط إنزيم COX-1 المحيطي وبالتالي يحافظ على البروستاغلاندينات الحامية لجدار المعدة"
+        },
+        {
+          "id": "opt-c",
+          "textEn": "NSAIDs cause acute dry mouth.",
+          "textAr": "NSAIDs تسبب جفاف الفم"
+        },
+        {
+          "id": "opt-d",
+          "textEn": "Paracetamol has superior anti-inflammatory properties.",
+          "textAr": "الباراسيتامول مضاد التهاب أقوى"
+        }
+      ],
+      "correctOptionId": "opt-b",
+      "explanationEn": "NSAIDs non-selectively inhibit gastric COX-1, depleting prostaglandin E2 and I2 which maintain the protective mucosal mucus-bicarbonate barrier. Paracetamol acts centrally with minimal peripheral COX-1 inhibition, sparing the stomach.",
+      "explanationAr": "مسكنات NSAIDs بتثبط COX-1 فبتدمر الطبقة المخاطية الحامية للمعدة وتزود القرحة والنزيف؛ بينما الباراسيتامول شغله مركزي ومبيأثرش على بطانة المعدة.",
+      "difficulty": "hard",
+      "tags": [
+        "analgesics",
+        "peptic-ulcer",
+        "nsaids"
+      ]
+    }
+  ]
+}
